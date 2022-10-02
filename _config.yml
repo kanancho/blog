@@ -1,15 +1,15 @@
 title: "Blogs"
-email: kaustubhgupta1828@gmail.com
-timezone: "Asia/Kolkata" 
+email: hernan@hernangarciaval.com
+timezone: "America/Peru" 
 baseurl: "/blog"
 permalink: ":year/:month/:day/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: kaustubh
+author: Hernán
 paginate: 15
-# disqus: 'https-www-kaustubhgupta-me-blog'
-locale: en_us
-lang: en_us
+# disqus: 'https-www-hernangarciaval-me-blog'
+locale: es_es
+lang: es_es
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
@@ -20,25 +20,24 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: G-XC5KP3K0VJ
+ganalytics: G-SPNXNSGBGK
 
 # Authors
 authors:
   kaustubh:
-    name: Kaustubh Gupta
-    display_name: Kaustubh Gupta
-    avatar: 'assets/images/profile_pic.jpg'
-    email: kaustubhgupta1828@gmail.com
-    web: https://www.kaustubhgupta.me
-    twitter: https://twitter.com/Kaustubh1828
-    description: "That Data Guy, Habitual Writer and Tech Enuthusist"
+    name: Hernan Garcia
+    display_name: Hernán
+    avatar: 'assets/images/avatar-hernan.png'
+    email: hernan@hernangarciaval.com
+    web: https://www.hernangarciaval.com
+    twitter: https://twitter.com/hernangarciaval
+    description: "Consultor simpático selectivo"
 
 # Social
 social:
-  twitter: https://twitter.com/Kaustubh1828
-  github: https://github.com/kaustubhgupta
-  linkedin: https://www.linkedin.com/in/kaustubh-gupta
-  medium: https://medium.com/@kaustubhgupta1828
+  twitter: https://twitter.com/hernangarciaval
+  github: https://github.com/kanancho
+  linkedin: https://www.linkedin.com/in/hernangarciavaldeavellano
 
 # Plugins
 plugins: 
