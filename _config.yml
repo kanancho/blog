@@ -20,6 +20,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
+  root: /octo-5
 ganalytics: G-SPNXNSGBGK
 
 # Authors
