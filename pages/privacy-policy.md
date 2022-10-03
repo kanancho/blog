@@ -5,33 +5,38 @@ permalink: /privacy-policy/
 comments: false
 ---
 
-### Information that is gathered from visitors
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+### Información que se recopila de los visitantes
 
-Cookies may be used to remember visitor preferences when interacting with the website.
+Al igual que otros sitios web, los archivos de registro se almacenan en el servidor web y guardan detalles como la dirección IP del visitante, el tipo de navegador, la página de referencia y la hora de la visita.
 
-Where registration is required, the visitor's email and a username will be stored on the server.
+Las cookies se pueden utilizar para recordar las preferencias de los visitantes al interactuar con el sitio web.
 
-### How the Information is used
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
+Cuando sea necesario registrarse, el correo electrónico del visitante y un nombre de usuario se almacenarán en el servidor.
 
-E-mail addresses will not be sold, rented or leased to 3rd parties.
+### Cómo se utiliza la información
 
-E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
+La información se utiliza para mejorar la experiencia del visitante cuando usa el sitio web para mostrar contenido personalizado y posiblemente publicidad.
 
-### Visitor Options
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
+Las direcciones de correo electrónico no se venderán, alquilarán ni arrendarán a terceros.
 
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
+Es posible que le enviemos un correo electrónico para informarle sobre noticias de nuestros servicios u ofertas nuestras o de nuestros afiliados.
 
-### Cookies
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
+### Opciones para visitantes
 
-3rd party advertising companies may also use cookies for tracking purposes.
+Si se ha suscrito a uno de nuestros servicios, puede darse de baja siguiendo las instrucciones que se incluyen en el correo electrónico que recibe.
 
-### Google Ads
-Google, as a third party vendor, uses cookies to serve ads.
+Es posible que pueda bloquear las cookies a través de la configuración de su navegador, pero esto puede impedirle acceder a ciertas funciones del sitio web.
 
-Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
+### Galletas
 
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Las cookies son pequeños archivos de firma digital que almacena su navegador web y que permiten registrar sus preferencias cuando visita el sitio web. También se pueden usar para rastrear sus visitas posteriores al sitio web.
+
+Las empresas de publicidad de terceros también pueden usar cookies con fines de seguimiento.
+
+### anuncios de Google
+
+Google, como proveedor externo, utiliza cookies para publicar anuncios.
+
+El uso de Google de la cookie DART le permite mostrar anuncios a los visitantes en función de su visita a los sitios que visitan en Internet.
+
+Los visitantes del sitio web pueden optar por no utilizar la cookie de DART visitando la política de privacidad de la red de contenido y anuncios de Google.
