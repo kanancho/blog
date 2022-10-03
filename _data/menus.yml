@@ -1,23 +1,23 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Inicio
   url: ""
 
-- title: About
+- title: Sobre mí
   url: "about/"
 
-- title: Contact
+- title: Contacto
   url: "contact/"
 
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Inio
   url: ""
 
 - title: Privacy Policy
   url: "privacy-policy/"
 
-- title: Contact
+- title: Contacto
   url: "contact/"
