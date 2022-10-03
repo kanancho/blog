@@ -5,12 +5,26 @@ permalink: "/about/"
 image: assets/images/screenshot.png
 ---
 
-Hi, I am a Python Developer with an interest in Data Analytics and am on the path of becoming a Data Engineer in the upcoming years. Along with a Data-centric mindset, I love to build products involving real-world use cases. I know bits and pieces of Web Development without expertise: Flask, Fast API, ReactJS, MySQL, Bootstrap, CSS, JS, HTML. I also do open source contributions, not in association with any project, but anything which can be improved and reporting bug fixes for them. 
+Gracias por visitar mi web.
 
-I am currently mastering Data Analytics and hope to get an FTE in 2022 after my graduation in B.Tech in IT. Being involved with computers from a very young age, along with programming skills, I have a lot of experience as technical support for Windows-related issues, installations, and gadgets recommendations. 
+En los últimos años, estoy abocado en ayudar a comunicar a organismos, servidores e independientes que buscan ser más rentables y establecer vínculos con sus audiencias. 
 
-In my free time, I do video editing and writing both technical and nontechnical articles. I have written over 140+ articles for companies as a freelancer, blogs for my website, and medium blogs for publications. I usually listen to music while working. 
+Desde mi primera experiencia comunicacional en radio, tengo preferencia y reconocí que el poder de la comunicación está en la creación de mensajes sencillos y fáciles para todos, alejada del aburrimiento y de la complejidad. 
 
-Do check out my projects on GitHub and if they are good enough, support me by starring and sharing them😃
+He liderado estrategias en educación para la empleabilidad, sanidad e inocuidad alimentaria, discapacidad y derecho a la tierra, puede encontrar más información en [Hoja de vida](https://docs.google.com/document/d/e/2PACX-1vTocThIZOZjz5LCNrUduaYCU-LhZip92XnUeXf6k49bIZawuK2YZOkbhO1dvWdphQ/pub){:target="_blank"}.
 
-Thanks!
+## Sobre este sitio web
+
+Al ingresar a [hernangarcival.com](https://www.hernangarciaval.com/) lo primero que verás es mi blog en el que experimento con diversas formas de comunicar, audio, texto interactivo, video, contenidos, otros, como una forma de diversión y amor por las hisotrias, siempre vivo para mi curiosidad. Aprovecho este rincón para recordar episodios simpáticos. 
+
+Al iniciar este blog, encontré que podía hacerlo en **Github**, que tiene un generador de sitios estáticos: Jekill con lenguaje propio. El cual facilita la producción de post al poder escribir en Markdown, lo menciono porque me parece recreativo esto de la programación de páginas web. 
+
+Así que desde noviembre del 2021, por no darle tiempo suficiente a la programación,  estoy metido en este dulce infierno. Así que lo que encuentran está hecho con pura intuición, máximo interés y cariño... y lo logrado es lo que ven. 
+
+## Un par de líneas
+
+Esta frase resume el propósito del blog, es la frase que escuché al inicio de mi carrera donde todo lo que hagas, así sea imagen o audio, primero se escribe.
+
+> "Hernán, por favor, un par de líneas" sobre Kuwait (el primer pedido que tuve, según recuerdo), sobre bicicletas antiguas, sobre plagas, sobre empleabilidad. 
+ 
+Ya sea para un guion o artículo, para el discurso del jefe, estas palabras me fueron acompañando por décadas, mencionarlas detonan un fabuloso mundo por explorar. En un par de líneas, lo interesante es simple. Así fue, es y será. 
