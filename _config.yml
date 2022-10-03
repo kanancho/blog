@@ -1,7 +1,7 @@
 title: "Blogs"
 email: hernan@hernangarciaval.com
 timezone: "America/Peru" 
-baseurl: "/blog"
+baseurl: ""
 permalink: ":year/:month/:day/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
