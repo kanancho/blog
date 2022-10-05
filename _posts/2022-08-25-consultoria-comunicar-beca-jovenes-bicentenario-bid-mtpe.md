@@ -27,7 +27,7 @@ La situación afectó en momentos importantes de los lanzamientos, la pronta apr
 
 Sin embargo, los elementos que llegaron ver la luz produjeron efecto, gracias también a la gestión del coordinador Mario Medina y el equipo de la Dirección General de Normalización, Formación para el Empleo y Certificación de Competencias Laborales - DGNFECCL, el nombre más largo de la institución.
 
- ![Presentación Plan de comunicación](https://raw.githubusercontent.com/kanancho/web/main/assets/images/22-plan-beca-bid.jpg)
+<img src="{{site.baseurl}}/assets/thumbnails/22-plan-beca-bid.jpg" class="garnish rounded float-left"/>
 {:.image-caption}
 *Plan comunicación beca Jóvenes Bicentenario 3.0*
 
@@ -49,7 +49,7 @@ Publicaciones en medios de comunicación hicieron suyas aportando al desarrollo 
 
 En las dos últimas convocatoria, por esas cosas del destino, llegamos  a tener la colaboración del productor musical Tito Silva. En la primera aprovechamos la vitalidad del "Buenas, buenas" y nuestros mensajes en una especie de ritual con potentes vibras de "voy a ganar la beca, "me lo merezco", "tengo la oportunidad".
 
- ![Intercambio de ideas](https://raw.githubusercontent.com/kanancho/web/main/assets/images/22-tito-silva-hernangarcia-beca.jpg)
+<img src="{{site.baseurl}}/assets/thumbnails/22-tito-silva-hernangarcia-beca.jpg" class="garnish rounded float-left"/>
 {:.image-caption}
 *Productiva con Tito Silva*
 
@@ -77,16 +77,15 @@ También se quedó en papeles nuestra mascota, a la que le agarramos mucho cari�
 
 A mitad de camino, creamos un programa de precapacitación llamado Las Previas, con el fin de atender a los becarios con talleres en manejo de emociones, economía personal y motivacional mientras esperaban el inicio de clases. Trabajo que está bajo el seguimiento y monitoreo de Angie Aritzabal, que inició con garra sus pinimos en este mundo de la comunicación y creatividad.
 
- 
- ![Las Previas, programa de precapacitación para becarios](https://raw.githubusercontent.com/kanancho/web/main/assets/images/22-las-previas-jovenes-bicentenario.jpg)
-{:.image-caption}
+ <img src="{{site.baseurl}}/assets/thumbnails/22-las-previas-jovenes-bicentenario.jpg" class="garnish rounded float-left"/>
+ {:.image-caption}
 *Bonito diseño de Las Previas, programa de precapacitación para becarios*
 
 Los primeros lanzamientos dejaron huella y cosas por mejorar, así como las selecciones aleatorias de becarios, ceremonias transmitidas  en vivo por YouTube que contó con notarios públicos y se fueron afinando haciendo. Todo quedó documentado, tanto por los especialistas de la DGNFECCL, y editados por Mario Medina y quien escribe.
 
 Así y en la forma de dos documentos de gestión, que contienen los conceptos, bases, procedimientos y formatos; la experiencia se entrega al Programa que se encargará en el largo plazo de la beca Jóvenes Bicentenario.
 
-![Reunión documentación Piloto capacitación laboral](https://raw.githubusercontent.com/kanancho/web/main/assets/images/22-documentacion-piloto-capacitacion-laboral-BID-MTPE.jpg)
+ <img src="{{site.baseurl}}/assets/thumbnails/22-documentacion-piloto-capacitacion-laboral-BID-MTPE.jpg" class="garnish rounded float-left"/>
 {:.image-caption}
 *Reunión documentación Piloto capacitación laboral*
 
