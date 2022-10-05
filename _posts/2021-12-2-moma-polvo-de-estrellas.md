@@ -2,7 +2,7 @@
 layout: post
 title:  "Moma, polvo de estrellas"
 author: hernan
-categories: [ Anécdotas ]
+categories: [ Inspiración ]
 tags: [familia,amor,vejez]
 image: assets/thumbnails/22-moma-en-la-luna.jpg
 ---
