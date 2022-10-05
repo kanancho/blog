@@ -41,9 +41,9 @@ Huelga decir que nos fue bien. Además gestionamos diferentes notas de prensa, d
 
 Publicaciones en medios de comunicación hicieron suyas aportando al desarrollo de la empleabilidad en el país.
 
-
+<div class="video-responsive">
 <iframe src="https://www.youtube.com/embed/xdIDQoOtYeg" alt="Resumen beca Jóvenes Bicentenario 3.0" frameborder="0" allowfullscreen></iframe>
-
+</div>
 
 ## Voy a ganar la beca y el pionono
 
