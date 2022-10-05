@@ -18,6 +18,7 @@ Mangomarca en quechua *Manqu Marka* (Pueblo del Señor), se encuentra en San Jua
 
 <img src="{{site.baseurl}}/assets/thumbnails/19-mapa-mangomarca-hgv.png" class="garnish rounded float-left"/>
 
+
 > “Mi trabajo era recibir las llamadas, apuntar el código, el primer apellido de la familia y la hora en que volverían a llamar. Nosotros apuntábamos en un papelito mismo telegrama, por ejemplo “031, familia Alva, esperar llamada de Fulano de Tal, tres de la tarde”. 
 
 Luego nuestro mensajero que se conocía todo Mangomarca iba hasta la dirección que teníamos registrada en un cuaderno donde estaban todos los inscritos”. En la lista estaban registrados 300 vecinos que pagaban una cuota mensual. 
