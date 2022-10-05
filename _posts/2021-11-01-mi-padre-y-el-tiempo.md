@@ -4,9 +4,8 @@ title:  "Mi padre y el tiempo"
 author: hernan
 categories: [ Inspiración ]
 tags: [ el mañana de hoy,familia nuclear, Día del padre ]
-image: "https://lh3.googleusercontent.com/-rPPCtLMvK-g/YM9Nq3g6t0I/AAAAAAABgEk/H7eKlmlQ0ZIJ94T0hItU2HUeN9PKGOApQCLcBGAsYHQ/s1600/1624198571054705-0.png"
-beforetoc: "Escrito en el 2016 prepandemia al amanecer, como siempre puntual, sin recurrir a la alarma del reloj."
-toc: true
+image: assets/thumbnails/21-mi-padre-y-el-tiempo.jpg
+comments: false
 ---
 
 Mi padre siempre se enfrentó al tiempo, sufriendo su pérdida, ganando pequeñas batallas, midiéndolo, observando en silencio cada uno de sus pasos. Alguno de ellos muy pequeños y sigilosos, casi imperceptibles. Otros en cambio, tan grandes que para superarlos, no se le nombra directamente. “Aquel tiempo”, “años atrás”; son imprecisiones que los hijos de Adán usan para no mirarlo de frente. Pero mi padre no era uno de ellos.
