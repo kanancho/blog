@@ -16,9 +16,11 @@ Ella es la simpática Geidi Miranda Cuadrao, la jovial y carismática administra
 
 Mangomarca en quechua *Manqu Marka* (Pueblo del Señor), se encuentra en San Juan de Lurigancho. Aquí se asentó el curacazgo de Ruricancho, que obedecía al Señorío Ichma entre los 900-1470 después de Cristo y antes que la expansión del imperio Inca llegara a estas tierras. Hoy es una urbanización que se desarrolla protegida por las Lomas de Mangomarca.  
 
-![image](https://user-images.githubusercontent.com/19-mapa-mangomarca-hgv.png)
-{:.image-caption}
-*Mapa Mangomarca, San Juan de Lurigancho, Lima*
+{% raw %}
+``` markdown
+{% include figure.html filename="19-mapa-mangomarca-hgv.png" caption="Mapa Mangomarca\"ESCAPED\" QUOTES" %}
+```
+{% endraw %}
 
 > “Mi trabajo era recibir las llamadas, apuntar el código, el primer apellido de la familia y la hora en que volverían a llamar. Nosotros apuntábamos en un papelito mismo telegrama, por ejemplo “031, familia Alva, esperar llamada de Fulano de Tal, tres de la tarde”. 
 
