@@ -10,8 +10,7 @@ toc: true
 ---
 Un tipo con un humor divertido, que usaba como insumo nuestras carencias sociales, lo que no quieres ver. En el Perú, este humor descarnado nacería de lo que esconde la pregunta "¿de qué colegio vienes?", o algún monólogo de congresista en los pasos perdidos del Parlamento.
 
- ![La loca historia de las galaxias](https://raw.githubusercontent.com/kanancho/web/main/assets/images/22-agente-86-brooks.jpg)
-{:.image-caption}
+<img src="{{site.baseurl}}/assets/thumbnails/22-agente-86-brooks.jpg" class="garnish rounded float-left"/>
 
 ## La delgada y dulce 99
 
