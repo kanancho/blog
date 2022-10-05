@@ -4,9 +4,8 @@ title:  "Yo no sabía que existía Mangomarca"
 author: hernan
 categories: [ Inspiración ]
 tags: [ Mangomarca,panadería,Geidi Miranda Cuadrao,Ruricancho,Ichma,centro comunitario de telefonía,los ochenta ]
-image: "https://lh3.googleusercontent.com/-MRbFizyX4RY/YKbFdVY0PiI/AAAAAAABfs0/yiNoNMu_4asSpC0N_UwhQqjBmoOg3R9XQCLcBGAsYHQ/s1600/1621542256895660-0.png"
-beforetoc: "Con esta frase, la ahora antigua vecina de Mangomarca, nos explica que, llegar a estas tierras fue todo un descubrimiento."
-toc: true
+image: https://lh3.googleusercontent.com/-MRbFizyX4RY/YKbFdVY0PiI/AAAAAAABfs0/yiNoNMu_4asSpC0N_UwhQqjBmoOg3R9XQCLcBGAsYHQ/s1600/1621542256895660-0.png
+comments: false
 ---
 
  > “Yo no sabía que existía Mangomarca. Yo estaba postulando para trabajar en una central telefónica en Miraflores, cuando me dicen que ese puesto ya estaba ocupado. Me dijeron que no me desanime porque ya sabían dónde vivía y me propusieron ir a trabajar a Mangomarca, >>
