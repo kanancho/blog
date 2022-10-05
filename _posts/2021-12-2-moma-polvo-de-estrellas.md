@@ -4,7 +4,7 @@ title:  "Moma, polvo de estrellas"
 author: hernan
 categories: [ Anécdotas ]
 tags: [familia,amor,vejez]
-image: <img src="https://ichef.bbci.co.uk/news/624/cpsprodpb/B9A3/production/_102632574_gettyimages-482262224.jpg>
+image: 'https://ichef.bbci.co.uk/news/624/cpsprodpb/B9A3/production/_102632574_gettyimages-482262224.jpg'
 ---
 
 Hace un año, mi querida suegra entró en un sueño profundo de siete días, del cual no volvería a despertar en estas tierras grises.
