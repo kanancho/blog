@@ -71,7 +71,7 @@ Aporte de otros influencers en TikTok que se unieron al llamado de Mil oportunid
 
 Agradecido por las instituciones aliadas con quienes producimos y conducimos webinars que explicaban los cursos menos preferidos por los postulantes, curiosamente, los más demandados por las empresas.
 
-Por ahí se nos quedaron propuesta que no hicieron raíces o no encontraron norte, como un interesante [narrativa digital interactiva](https://www.hernangarciaval.com/propuesta-interactiva/)
+Por ahí se nos quedaron propuesta que no hicieron raíces o no encontraron norte, como un interesante [publicidad digital interactiva](https://www.hernangarciaval.com/2022/04/01/publicidad-interactiva-la-beca/)
 
 También se quedó en papeles nuestra mascota, a la que le agarramos mucho cariño sin verla nacer. Esperamos que también encuentre pronto su oportunidad. 
 
