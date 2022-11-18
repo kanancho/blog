@@ -30,6 +30,6 @@ Agraria.pe,  7 de junio de 2019
 Diario El Peruano, 4 de mayo de 2019
 Esta es parte de la historia de Percy, que se unió a la agricultura. Un hombre que se forjó una nueva y sana vida con las frambuesas.
 
- ![Frambuesa Perú](https://raw.githubusercontent.com/kanancho/web/main/assets/thumbnails/19-frambuesas-peru-hernan.jpg)
+ ![Frambuesa Perú](https://raw.githubusercontent.com/kanancho/blog/main/assets/thumbnails/19-frambuesas-peru-hernan.jpg)
 {:.image-caption}
 *Contenido y fotos propias*
