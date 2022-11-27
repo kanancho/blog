@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "la jerga peruana basada en la comida"
+title:  "Jerga y comida en Perú"
 author: hernan
 categories: [ Inspiración ]
 tags: [ comedia, lenguaje, Perú, jerga ]
