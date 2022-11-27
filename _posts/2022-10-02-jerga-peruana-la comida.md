@@ -4,7 +4,7 @@ title:  "la jerga peruana basada en la comida"
 author: hernan
 categories: [ Inspiración ]
 tags: [ comedia, lenguaje, Perú, jerga ]
-image: assets/images/mel_brooks-ago_22.jpg
+image: assets/thumbnails/22-anticucho.jpg
 ---
  
  Dificil escapar al lenguaje alimentario que nos manejamos los peruanos, ya sea en casa como en el colegioo o en la calle. Se apodera de nuestras relaciones laborales, amistad o regional. Es lo que nos une finalmente. 
