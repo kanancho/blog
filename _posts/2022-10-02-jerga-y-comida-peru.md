@@ -7,7 +7,7 @@ tags: [ comedia, lenguaje, Perú, jerga ]
 image: assets/thumbnails/22-anticucho.jpg
 ---
  
- Dificil escapar al lenguaje alimentario que nos manejamos los peruanos, ya sea en casa como en el colegioo o en la calle. Se apodera de nuestras relaciones laborales, amistad o regional. Es lo que nos une finalmente. 
+ Dificil escapar al lenguaje alimentario que nos manejamos los peruanos, ya sea con la familia en casa, en el colegio o en la calle con la collera. Se apodera de nuestras relaciones laborales, de amistades, crea cercanía entre desconocidos que recién entraban una conversación. Es lo que nos une finalmente. 
  Ea líneas abajo, unos ejemplos:
 
    | *Expresión* | *Concepto* |
