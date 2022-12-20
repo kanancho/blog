@@ -7,22 +7,22 @@ tags: [ cuento, arbol, bosque ]
 image: assets/thumbnails/22-arbol-que-corria.png
 ---
 
-No podía saber lo que pasaba, solo podía oír quejidos y alguien, en algún momento, le había dicho que causaba dolor a su paso. No controlaba su movimiento, causando daño a los seres vivos que se encontraban a su alrededor. 
+No podía saber lo que pasaba, solo escuchaba las ramas quebrarse, el crujir de las hojas secas, el volar de las aves y quejidos que se apagan pronto, a su paso. Y alguien, en algún momento, había gritado que causaba dolor a su paso, pero no lo entendió, eran muchas lenguas, muchas voces para aprender sin tiempo ni quietud. Solo corría sin crontol, sin saber por qué ni ara qué. Sin rumbo por aquel bosque oscuro. 
 
-Tres muchachos que se dieron el día para lo que llamaban, «ventajosos momentos para la vida», caminaban por el bosque para consumir alguna que otra bebida y tratar temas de importancia que generaría la burla de cualquier adulto. Algo muy extraño llamó su atención y cortó de lleno su insana conversación. 
+En aquella mañana soleada, musicalizada por las pequeñas aves que rodean las flores de primavera, tres muchachos que se dieron el día para lo que llamaban, «ventajosos momentos para la vida», caminaban por el bosque para consumir alguna que otra bebida y tratar temas de importancia que generaría la burla de cualquier adulto. Hasta que "pum", algo muy extraño llamó su atención y cortó de lleno su insana conversación. 
 
-Una sobra enorme atravesaba a prisa el bosque, entre arbustos y rocas. Fijaron la mirada y vieron que se trataba de un árbol grande y robusto. No podían creer lo que estaban viendo y que sentían bajo sus pies como un leve temblor. Se miraron fijamente, tratando de entender lo que estaba pasando.
+Una sombra enorme atravesaba a prisa el bosque, entre arbustos y rocas. El espanto apralizó sus pasos. Fijaron la mirada y vieron que se trataba de un añejo y robusto árbol. No podían creer lo que estaban viendo y que sentían bajo sus pies como un leve temblor. Se miraron fijamente entre ellos, tratando de encontrar sabiduría en sus miradas y entender lo que estaba pasando.
 
-De repente, un conejo alertado por el ruido saltó cerca y rozó su tronco, provocando un cambio de rumbo en tamaña bestia rígida que huía con rapidez, como si estuviera escapando de algo, de alguien. Los muchachos no sabían qué hacer, si era real lo que veían o producto de sus tóxicos consumos, pero resonaba en sus cabezas el llamado a seguir al árbol y averiguar qué estaba pasando.
+De repente, un conejo alertado por el ruido saltó cerca y rozó su tronco, provocando un cambio de rumbo en tamaña bestia rígida que huía con rapidez, como si estuviera escapando de algo, de alguien. Pasado el miedo dio paso a la curiosidad. Los muchachos no sabían qué hacer, si era real lo que veían o producto de sus tóxicos consumos, pero resonaba en sus cabezas el llamado a seguir a aquel ser animado y averiguar qué estaba pasando.
 
-Se lanzaron tras él, corriendo tan rápido como podían a través del bosque. Al llegar a una clara, vieron al árbol detenerse e inclinarse en una roca, como si estuviera exhausto. Se acercaron a él con cautela y comenzaron a tocar su tronco, tratando de entender cómo podía un árbol moverse de esa manera.
+Se lanzaron tras él, corriendo tan rápido como podían a través de pantanos y humedad. Al llegar a un claro, vieron al árbol detenerse e inclinarse en una roca, como si estuviera exhausto. Se acercaron con cautela y comenzaron a tocar su tronco, tratando de quizá encontrar músculos o alguna articulación, entender cómo podía  moverse de esa manera.
 
-Al tacto, el árbol volvió a ponerse en movimiento y comenzó a arrastrar su masa de nuevo. Los muchachos intentaron seguirlo, pero el árbol era rápido y pronto se perdieron de vista. No obstante, continuaron regresando al bosque durante días, al encuentro de tan inusitado ser.
+Al tacto, el árbol volvió a ponerse en movimiento y comenzó a arrastrar su masa inquieta. Los muchachos intentaron seguirlo, pero era rápido y pronto se perdieron de vista. No obstante, continuaron regresando al bosque durante días, buscando el destino al encuentro de tan inusitado ser.
 
-A los días, lo ubicaron en un lugar solitario del bosque. Se volvieron a acercar, esta vez con mayor cuidado, y tocaron su tronco nuevamente, esta vez, con suavidad. El árbol no se movió. En cambio, comenzó a zumbar algo que se dejaba entender como una voz, muy grave y ronca.
+A los días, lo ubicaron en un lugar solitario, silencioso y oscuro. Se volvieron a acercar, esta vez con mayor cuidado, y tocaron su tronco nuevamente, esta vez, con suavidad. El árbol no se movió. En cambio, comenzó a zumbar algo que se dejaba entender como una voz, muy grave y ronca.
 
-“¿Por qué me siguen?”. “¿No saben que soy peligroso? No control mis movimientos y no los puedo ver. ¡Lárguense!”, dijo a los sorprendidos muchachos que al oír hablar al árbol y no sabían qué decir, al punto que uno de los curiosos resbaló apoyándose pesadamente sobre una de sus ramas. Este comenzó a correr. 
+“¿Por qué me siguen?”. "no los puedo ver. ¡Lárguense!”, dijo a los sorprendidos muchachos que al oír hablar al árbol, uno de ellos resbaló apoyándose pesadamente sobre una de sus ramas. Este comenzó a correr golpeando todo. 
 
-Los tres amigos intentaron huir, intentaron luchar por sus vidas, pero no tenían ninguna oportunidad contra el poderoso árbol, era demasiado tarde. El árbol los alcanzó, atropelló y golpeó con sus ramas y raíces, sin piedad a cada uno de ellos hasta matarlos. 
+Intentaron huir, luchar por sus vidas, pero no tenían oportunidad contra el poderoso madero, era demasiado tarde. Los alcanzó y atropelló con ramas y raíces, sin piedad hasta matarlos. 
 
-Tomás, Lucía y Carlos yacieron en el suelo, sin vida, mientras el árbol se alejaba corriendo hacia la oscuridad del bosque. Nadie supo ni volvió a ver al árbol móvil, pero muchos llegan a ver a una enorme sombra que surca el bosque, esperando a encontrar a alguien más con quien tropezar.
+Tomás, Lucía y Carlos yacieron en el suelo, sin vida, mientras el añejo árbol se alejaba corriendo hacia la oscuridad del bosque. Nadie supo ni volvió a verlo, pero muchos informan haberse encontrar con una enorme sombra que surca el bosque, quizá esperando a encontrar a alguien más con quien tropezar.
