@@ -11,7 +11,7 @@ Estuve leyendo sobre modelos mentales y de pronto, después de muchos años, vol
 
 Su idea principal es que las emociones negativas, como el miedo o la tristeza, son causadas por creencias erróneas y que al controlarlas, viviremos de manera más feliz y satisfactoria. Aceptando lo que no podemos controlar y nos enfocamos en lo que sí podemos controlar.
 
-Acá aparece, Séneca fue un filósofo estoico romano que vivió en el siglo I d.C. puesto que es conocido por sus escritos sobre el estoicismo y la sabiduría práctica. Él creía que debíamos vivir de acuerdo a nuestros valores y principios y no dejarnos llevar por las emociones o por el deseo de poseer cosas. En lugar de eso, nos invitaba a buscar la verdad y la virtud, a vivir de manera coherente con nuestras creencias.
+Acá es importante mencionar a Séneca, filósofo romano que vivió en el siglo I d.C. puesto que es conocido por sus escritos sobre el estoicismo y la sabiduría práctica. Él creía que debíamos vivir de acuerdo a nuestros valores y principios y no dejarnos llevar por las emociones o por el deseo de poseer cosas. En lugar de eso, nos invitaba a buscar la verdad y la virtud, a vivir de manera coherente con nuestras creencias.
 
 Muchos años después, aparece Steve Jobs, el empresario y cofundador de Apple Inc. que vivió entre 1955 y 2011. Aunque no se sabe con certeza si Jobs era estoico, muchos han argumentado que sus palabras y acciones reflejaban ciertos principios estoicos. Por ejemplo, Jobs solía decir que la vida es corta y hay que aprovecharla al máximo y que se debe enfocar en lo que realmente importa en lugar de preocuparse por cosas superficiales o pasajeras. También habló sobre la importancia de enfrentar los desafíos y aprender de los fracasos.
 
