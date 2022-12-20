@@ -7,7 +7,7 @@ tags: [ cuento, arbol, bosque ]
 image: assets/thumbnails/22-arbol-que-corria.png
 ---
 
-No podía saber lo que pasaba, solo escuchaba las ramas quebrarse, el crujir de las hojas secas, el volar de las aves y quejidos que se apagan pronto, a su paso. Y alguien, en algún momento, había gritado que causaba dolor a su paso, pero no lo entendió, eran muchas lenguas, muchas voces para aprender sin tiempo ni quietud. Solo corría sin crontol, sin saber por qué ni ara qué. Sin rumbo por aquel bosque oscuro. 
+No podía saber lo que pasaba, solo escuchaba las ramas quebrarse, el crujir de las hojas secas, el volar de las aves y quejidos que se apagan pronto a su paso. Y alguien, en algún momento, había gritado que su avance dejaba dolor, pero no lo entendió, eran muchas lenguas, muchas voces para aprender sin tiempo ni quietud. Solo corría sin crontol, sin saber por qué ni para qué. Sin rumbo por aquel bosque oscuro. 
 
 En aquella mañana soleada, musicalizada por las pequeñas aves que rodean las flores de primavera, tres muchachos que se dieron el día para lo que llamaban, «ventajosos momentos para la vida», caminaban por el bosque para consumir alguna que otra bebida y tratar temas de importancia que generaría la burla de cualquier adulto. Hasta que "pum", algo muy extraño llamó su atención y cortó de lleno su insana conversación. 
 
