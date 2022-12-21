@@ -2,7 +2,7 @@
 layout: post
 title:  "Experimentando gráficos con Mermaid para Markdown"
 author: hernan
-categories: [ Desarrollador ]
+categories: [ Skills ]
 tags: [ web, mermaid, Google, html5, css ]
 image: assets/thumbnails/22-hernan-markdown.png
 comments: false
