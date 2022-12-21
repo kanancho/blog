@@ -18,7 +18,7 @@ Es increíble lo que uno aprende con Internet y lo que puede llegar a hacer. Log
 ![Edu Jedi](https://raw.githubusercontent.com/kanancho/blog/main/assets/thumbnails/22-jedi-edu.jpg)
 {:.image-caption}
 
-Todo comenzó hace una década, cuando en una consultoría sobre sanidad agraria, necesitábamos unos flyer y no contábamos con diseñador. Así que decidí darle al Photoshop y al Illustrator para solucionar esta necesidad. Había oído hablar de Illustrator, pero no tenía ni idea de cómo funcionaba. Así que decidí buscar tutoriales en YouTube y empezar a practicar por mi cuenta.
+Todo comenzó hace una década, cuando en una consultoría sobre sanidad agraria, necesitábamos unos flyer y no contábamos con diseñador. Así que decidí darle al Photoshop y al Illustrator para solucionar esta necesidad. Había oído hablar de estos programas, pero no tenía ni idea de cómo funcionaba. Así que decidí buscar tutoriales en YouTube y empezar a practicar por mi cuenta.
 
 Lo que encontré fue una verdadera mina de oro. Había una cantidad increíble de tutoriales y recursos en línea que me ayudaron a comprender los conceptos básicos y avanzar rápidamente en el programa. Me encantaba avanzar en cada tiempo libre que encontraba, ver tantos ejemplos y explicaciones diferentes.
 
