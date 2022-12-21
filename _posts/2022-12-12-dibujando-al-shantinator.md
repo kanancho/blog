@@ -15,6 +15,9 @@ Lo que encontré fue una verdadera mina de oro. Había una cantidad increíble d
 
 Terminé los diseños que nos permitió atender a agricultores e informar sobre medidas de sanidad e inocuidad que debían cumplir. Pronto me sentí cómodo usando Illustrator y comencé a crear mis propios diseños. Pero mi verdadero triunfo fue cuando mi hijo Edu me vio trabajando en Illustrator. Él siempre había sido un gran fanático de Star Wars, así que le pedí que posará para hacer algunas fotos y llevarlo a una nueva galaxia. Él aceptó encantado y pronto estuve trabajando en su personaje y escena de Star Wars.
 
+![Edu Jedi](https://raw.githubusercontent.com/kanancho/blog/main/assets/thumbnails/22-jedi-edu.jpg)
+{:.image-caption}
+
 Fue increíble ver cómo Illustrator se convirtió en una herramienta para conectar con mi hijo y compartir algo que ambos disfrutábamos. Y lo mejor de todo es que despertó la curiosidad en Edu que disfruta de vez en cuando de recrear diseños y practicar sus habilidades en diseño gráfico.
 
 Hace un par de noches, vimos una vez más Terminator, con mi esposa somos fanáticos de esta movie. Esta vez sumamos al pequeño Shanti que hoy tiene 4 años. Al rato se puso una tapa de plástico verde sobre el ojo y luego unos lentes oscuros que chapó de la mesa de noche. Empezó a caminar y a jugar con nosotros. Tal era su alegría que chapé una hoja y un lápiz y empecé a dibujarlo. Soy malo dibujando, siempre he querido hacerlo, pero nunca le puse mayor empeño. 
