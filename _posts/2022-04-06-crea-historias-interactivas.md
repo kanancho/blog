@@ -2,8 +2,8 @@
 layout: post
 title:  "Crea historias interactivas como un experto"
 author: hernan
-categories: [ Marketing ]
-tags: [programa sin programar,twine,codigo,html,historia,interactiva]
+categories: [ Skills ]
+tags: [marketing,programa sin programar,twine,codigo,html,historia,interactiva]
 image: assets/thumbnails/22-crear-historia-interactiva.jpg
 ---
 
