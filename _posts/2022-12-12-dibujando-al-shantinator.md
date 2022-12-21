@@ -11,7 +11,7 @@ Hace un par de noches vimos nuevamente Terminator, con mi esposa somos fanático
 
 Tal era su alegría que me impulsó a coger una hoja, un lápiz y empecé a dibujarlo. Soy malo dibujando pero esta vez eso no importó. La euforia que sentí en ese momento me llevó a desarrollar la imagen que acompaña este post, que creo me salió bonita. Es más, al día siguiente la llevó consigo para sentirse fuerte mientras lo vacunaban 2 veces. 
 
-Ahora, acabo de sentarme frente al computador, decidí vectorizarlo, algo que no hacía hace mucho tiempo porque lo aprendí para divertirme, no me dedico a estos quehaceres. Me tomó un poco de tiempo, pero al final también disfrutamos con el Shantinator que irá a adornar una de las paredes de la casa.
+Ahora acabo de sentarme frente al computador para veectorizar la imagen, algo que no hacía hace mucho tiempo porque lo aprendí para divertirme, no me dedico a estos quehaceres. Me tomó un poco de tiempo, pero al final también disfrutamos con el Shantinator que irá a adornar una de las paredes de la casa.
 
 Es increíble lo que uno aprende con Internet y lo que puede llegar a hacer. Logré mi pócima mágica de la ilusión con Illustrator gracias a YouTube hace muchos años, cuando convertí al hermano mayor, Edu, en un verdadero Jedi.
 
