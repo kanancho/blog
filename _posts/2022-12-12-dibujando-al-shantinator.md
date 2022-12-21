@@ -7,7 +7,7 @@ tags: [ entretenimiento, habilidad, familia ]
 image: assets/thumbnails/22-shantinator.jpg
 ---
 
-Hace un par de noches, vimos una vez más Terminator, con mi esposa somos fanáticos de esta movie. Esta vez sumamos al pequeño Shanti que hoy tiene 4 años. Al rato se puso una tapa de plástico verde sobre el ojo y luego unos lentes oscuros que chapó de la mesa de noche. Empezó a caminar y a jugar con nosotros. Tal era su alegría que chapé una hoja y un lápiz y empecé a dibujarlo. Soy malo dibujando, siempre he querido hacerlo, pero nunca le puse mayor empeño. 
+Hace un par de noches, vimos nuevamente Terminator, con mi esposa somos fanáticos de esta súpermovie. Esta vez sumamos al pequeño Shanti que hoy tiene 4 años. Al rato se puso una tapa de plástico verde sobre el ojo y luego unos lentes oscuros que chapó de la mesa de noche. Empezó a caminar y a jugar con nosotros. Tal era su alegría que chapé una hoja y un lápiz y empecé a dibujarlo. Soy malo dibujando, siempre he querido hacerlo, pero nunca le puse mayor empeño. 
 
 Sin embargo, la euforia que sentí en ese momento me llevó a desarrollar la imagen que acompaña este post. Ahora, acabo de sentarme frente al computador para disfrutar nuevamente del vectorizado, algo que no hacía hace mucho tiempo porque lo aprendí para divertirme. Me tomó un poco de tiempo, pero al final estuve muy satisfecho con el Shantinator.
 
