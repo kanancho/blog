@@ -8,5 +8,5 @@ image: assets/thumbnails/22-mel_brooks-ago.jpg
 ---
 
 
-<iframe src="https://www.youtube.com/embed/WsQB9WnFp7Q" alt="Grabando Siempre en mí" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/WsQB9WnFp7Q" frameborder="0" allowfullscreen alt="Grabando Siempre en mí"></iframe>
 
