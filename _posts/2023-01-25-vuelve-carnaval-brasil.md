@@ -4,7 +4,7 @@ title:  "Promocionando al hermoso Brasil"
 author: hernan
 categories: [ Consultoría ]
 tags: [ comunicación, imagen, PR ]
-image: assets/thumbnails/22-shantinator.jpg
+image: assets/postImages/23-brasil-carnaval-embratur-hernan.jpg
 ---
 Desde mediados del 2022, hemos sido parte del equipo que ejecutó en Perú la estrategia: Brasil, bonito por naturaleza; de la Agencia Brasileña de Promoción del Turismo Internacional-EMBRATUR, mediante la cual esperábamos repuntar el número y frecuencia de peruanos que viajan de visita al gigante de Sudamérica.
 
