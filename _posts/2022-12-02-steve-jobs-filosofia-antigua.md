@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Steve Jobs y su filosofía antigua"
+title:  "Steve Jobs y su filosofía antigua - estoicismo"
 author: hernan
 categories: [ Estrategia ]
 tags: [ Steve Jobs, Seneca, Estoicismo ]
