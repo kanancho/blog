@@ -9,5 +9,5 @@ image: assets/postImages/23-studio-musica-hernan.jpg
 
 Haciendo música.
 
-<iframe src="https://www.youtube.com/embed/WsQB9WnFp7Q" frameborder="0" allowfullscreen alt="Grabando Siempre en mí"></iframe>
+<iframe src="https://www.youtube.com/embed/WsQB9WnFp7Q" allowfullscreen alt="Grabando Siempre en mí"></iframe>
 
