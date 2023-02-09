@@ -14,7 +14,7 @@ El trabajo no ha sido fácil, pero sí placentero, tanto por las gestiones reali
 
 El siguiente artículo publicado en Perú Comunica <https://perucomunica.com/2023/01/31/carnaval-pospandemia-regresa-la-fiesta-mas-popular-de-brasil/> forma parte de estas acciones:
 
-<img src="{{site.baseurl}}/assets/thumbnails/23-hernan-brasil.png"/>
+*Por Hernán García Valdeavellano* .- Todo está listo en Brasil para volver a encantar al mundo con sus tradicionales fiestas de carnaval. Del 17 de febrero al sábado 25, el país mostrará su esplendor en música, cultura, colores y ritmos. Que se suma a su rica oferta de turismo de aventura y ecoturismo disponible de punta a punta del país.
 
 Con la reanudación completa del turismo en Brasil y la conectividad aérea de niveles previos a la pandemia, se espera que miles de peruanos viajen para experimentar no solo el carnaval, sino también el caleidoscopio cultural, natural y gastronómico del país, así como su rica oferta de turismo de aventura y ecoturismo disponible en todo el territorio.
 Los brasileños comienzan a prepararse para el carnaval desde los primeros minutos del primer día del año. Mientras que para millones de personas en el mundo es el comienzo de un nuevo año, en Brasil es el inicio de la cuenta regresiva hacia la fiesta más animada del calendario. A diferencia de lo que sucede en otros países, el Carnaval es una celebración nacional. Algunas de las más concurridas, a continuación:
