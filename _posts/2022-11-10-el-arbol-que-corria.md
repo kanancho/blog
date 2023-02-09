@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El árbol que corría"
+title:  "El árbol que corría - cuento"
 author: hernan
 categories: [ storytelling ]
 tags: [ cuento, arbol, bosque ]
