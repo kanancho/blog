@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Promocionando al hermoso Brasil"
+title:  "Consultoría: Promocionando al hermoso Brasil"
 author: hernan
 categories: [ Consultoría ]
 tags: [ comunicación, imagen, PR ]
