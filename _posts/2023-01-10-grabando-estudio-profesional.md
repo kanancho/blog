@@ -13,5 +13,5 @@ Eso ha cambiado recientemente y estoy emocionado de anunciar que he comenzado a 
 
 Estoy emocionado de ver cómo estas nuevas grabaciones se desarrollarán y espero poder compartirlas con ustedes pronto. Creo que la música es una forma increíble de relajarse y conectarse con uno mismo, importante para toda la vida, especialmente en tiempos difíciles. Espero poder inspirar a otros a encontrar su propia pasión musical a través de mi historia.
 
-Mientras tanto, seguiré compartiendo mis experiencias y grabando algo hasta terminar estas producciones. ¡Vamos por más!
+Mientras tanto, seguiré compartiendo mis experiencias y grabandoen el estudio del Místico, Lucho Proaño, hasta terminar estas producciones. ¡Vamos por más!
 <iframe src="https://www.youtube.com/embed/WsQB9WnFp7Q" allowfullscreen alt="Grabando Siempre en mí"></iframe>
