@@ -28,3 +28,5 @@ Las recomendaciones de la OMSA reiteran la necesidad de implementar medidas de b
 Ante esta difícil situación, la Organización Panamericana de la Salud exhorta a los países a ejecutar el diagnóstico temprano por laboratorio, tanto en muestras humanas y animales, así como acciones de vigilancia y control de forma coordinada en el marco de la estrategia Una Salud, animal-humana-ambiental.
 
 Si bien se tiene en el mundo, casos contados de personas infectadas con esta Influenza aviar, los científicos advierten que al encontrar a la Influenza Aviar en mamíferos, crece la posibilidad de que este virus cambie y adquiera la capacidad de propagarse fácilmente entre las personas.
+
+Publicado en <https://www.agraria.pe/noticias/gripe-aviar-preocupa-al-mundo-30780>
