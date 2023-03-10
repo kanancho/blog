@@ -33,7 +33,7 @@ Las cookies son pequeños archivos de firma digital que almacena su navegador we
 
 Las empresas de publicidad de terceros también pueden usar cookies con fines de seguimiento.
 
-### anuncios de Google
+### Anuncios de Google
 
 Google, como proveedor externo, utiliza cookies para publicar anuncios.
 
