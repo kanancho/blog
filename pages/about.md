@@ -9,8 +9,7 @@ image: assets/images/portafolio-hgv.png
 
 ## Protyecto destacado: Por la Causa - Podcast
   - Dirijo y produzco el pódcast semanal "Por la Causa" sobre seguridad e inocuidad alimentaria, dirigido a responsables de la cocina tanto en hogares como en la industria. Principalmente hago uso de fondos musicales propios. El producto se difunde por las plataformas de Radio Programas del Perú, RPP Noticias.
-    <iframe src="https://eaudioplayer.radio-grpp.io/static/dist/embed/index.html?id=65786eac272503412ac6ab81&title=EP12%20%7C%20Navidad%20en%20la%20cocina%20sin%20amargas%20sorpresas&url=https://rpp.pe/audio/podcast/por-la-causa&cover=https://md1.rpp-noticias.io/256x256/cutter/2023/09/26/1695746540.jpg&program=Por%20la%20causa%20%7C%20podcast" frameborder="0" width="100%" height="120" scrolling="no" loading="lazy"></iframe>
-<Br>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4sZ8qT1zlrlg161D1Pw88e?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ## Estrategias de comunicación
 ### Comunicación y promoción de la beca Jóvenes Bicentenario **[BID-MTPE]**
   - Promoción de tres convocatorias de becas para jóvenes. *Campañas de promoción tradicional y digital*
