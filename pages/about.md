@@ -5,17 +5,16 @@ permalink: "/about/"
 image: assets/images/portafolio-hgv.png
 ---
 
-¡Hola! Soy Hernán García Valdeavellano, con una sólida experiencia como comunicador, generador de contenidos y creador de un emocionante podcast. Y cuando tengo tiempo libre, me divierto haciendo música.
+¡Hola! Soy Hernán García Valdeavellano, comunicador con más de dos décadas generando estrategias, gestor de conocimiento y creador de un emocionante podcast. Y cuando tengo tiempo libre, me divierto haciendo música.
 
 # Conoce mi trabajo
 
 ## Estrategias de comunicación
-- Comunicación y promoción de la beca Jóvenes Bicentenario **[BID-MTPE]** *(Lima)*
+### Comunicación y promoción de la beca Jóvenes Bicentenario **[BID-MTPE]** *(Lima)*
   - Promoción de tres convocatorias de becas para jóvenes. *Campañas de promoción tradicional y digital*
  <img src="{{site.baseurl}}/assets/thumbnails/22-consultoria-beca.jpg" class="garnish rounded float-left"/>
-
- - Formular la estrategia de Las Previas, programa de capacitación para becarios que no empezaron clases. * Validar contenidos y diseños*
- <img src="{{site.baseurl}}/assets/thumbnails/22-las-previas-jovenes-bicentenario.jpg" class="garnish rounded float-left"/>
+  - Formular la estrategia de Las Previas, programa de capacitación para becarios que no empezaron clases. * Validar contenidos y diseños*
+  <img src="{{site.baseurl}}/assets/thumbnails/22-las-previas-jovenes-bicentenario.jpg" class="garnish rounded float-left"/>
 
 ## Gestión del conocimiento
 
