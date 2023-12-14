@@ -18,7 +18,7 @@ image: assets/images/portafolio-hgv.png
   
   - Formular la estrategia de Las Previas, programa de capacitación para becarios que no empezaron clases. *Validar contenidos y diseños*
   <img src="{{site.baseurl}}/assets/thumbnails/22-las-previas-jovenes-bicentenario.jpg"/>
-<Br>
+
 ### Estrategia de promoción para el levantamiento de inofrmación catastral en 11 localidades **[COFOPRI]**
   - Formulé campañas y logré que los funcionarios responsables de la comunicación de las municipalidades acepten losla spropuestas y sus respectivos presupuestos.
     - Además, realicé spots radiales
