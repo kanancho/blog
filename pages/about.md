@@ -57,8 +57,11 @@ image: assets/images/portafolio-hgv.png
 [Procedimiento ST 5](https://drive.google.com/file/d/1Luxe6JbPXoId2lBWF6-tSXm4EeaxwpWP/view?usp=sharing)     
 [Procedimiento en Mapa de Procesos, página 17](https://www.senasa.gob.pe/senasa/descargasarchivos/2014/11/Mapa-de-Procesos-del-SENASA.pdf)  
 
-    
-### Creo música para acariciar la vida
+## Gestión de medios escritos
+He prestado servicios para la [promoción del turismo desde el Perú hacia Brasil](https://www.hernangarciaval.com/2023/01/25/vuelve-carnaval-brasil/)
+Además, he escrito [artículos para revistas](https://www.hernangarciaval.com/2021/09/09/articulos-seguridad-alimentaria/)
+
+## Creo música para acariciar la vida
   Nos ha servido para arrullar a los niños
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1690665033&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tukutun" title="Por la Causa" target="_blank" style="color: #cccccc; text-decoration: none;">Por la Causa</a> · <a href="https://soundcloud.com/tukutun/duerme-bien-shanti" title="Duerme bien Shanti" target="_blank" style="color: #cccccc; text-decoration: none;">Duerme bien Shanti</a></div>
