@@ -39,9 +39,10 @@ image: assets/images/portafolio-hgv.png
 
 ## Gestión del conocimiento
 
-### Adaptación pedagógica de la Guía del INVIERTE.PE, que suplantó al conocido SNIP **[Ministerio de Economía]**
-  - El objetivo primordial es garantizar que la lectura resultara didáctica, comprensible y ágil para los usuarios.
-  - Esta guía es muy importante porque facilitará la formulación de proyectos de inversión para cerrar brechas de servicios en cada rincón del país.
+### Adaptación pedagógica de la Guía del INVIERTE.PE **[Ministerio de Economía]**
+  - Esta herramienta suplantó al Sistema Nacional de Intersión Pública-SIP
+  - Por ello, esta guía es muy importante porque facilitará la formulación de proyectos de inversión para cerrar brechas de servicios en el país.
+  - El objetivo dde la consultoría es garantizar que la lectura resultara didáctica, comprensible y ágil para los usuarios.
 
 ### Editar la Guía interactiva para los usuarios de los tres niveles de Gobierno **[Ministerio de Producción]**
   - Con las gestiones y mejoras conseguidas, gracias a un trabajo en equipo con el personal del ministerio, obtuvimos un landing page como producto final.
