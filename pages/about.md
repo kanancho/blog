@@ -2,29 +2,68 @@
 layout: page
 title: Sobre mí
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/portafolio-hgv.png
 ---
 
-Gracias por visitar mi web.
+# Bienvenido a mi Portafolio
 
-En los últimos años, estoy abocado en ayudar a comunicar a organismos, servidores e independientes que buscan ser más rentables y establecer vínculos con sus audiencias. 
+## Sobre mí
 
-Desde mi primera experiencia comunicacional en radio, tengo preferencia y reconocí que el poder de la comunicación está en la creación de mensajes sencillos y fáciles para todos, alejada del aburrimiento y de la complejidad. 
+¡Hola! Soy Hernán García Valdeavellano, con una sólida experiencia como comunicador, generador de contenidos y creador de un emocionante podcast. Y cuando tengo tiempo libre, me divierto haciendo música.
 
-He liderado estrategias en educación para la empleabilidad, sanidad e inocuidad alimentaria, discapacidad y derecho a la tierra, puede encontrar más información en [Hoja de vida](https://docs.google.com/document/d/e/2PACX-1vTocThIZOZjz5LCNrUduaYCU-LhZip92XnUeXf6k49bIZawuK2YZOkbhO1dvWdphQ/pub){:target="_blank"}.
+## Conoce mi trabajo
 
-## Sobre este sitio web
+### Estrategias de comunicación
+- **[BID-MTPE]** *(Lima)*
+  - Responsable de comunciación de Piloto de Empleabilidad Laboral: 
+  - [Fecha de Inicio] - [Fecha de Finalización]
+  - Descripción de logros y responsabilidades clave.
+    - Promoción de tres convocatorias de becas para jóvenes
+ <img src="{{site.baseurl}}/assets/thumbnails/22-consultoria-beca.jpg" class="garnish rounded float-left"/>
+{:.image-caption}
+*Campañas de promoción tradicional y digital*
 
-Al ingresar a [hernangarcival.com](https://www.hernangarciaval.com/) lo primero que verás es mi blog en el que experimento con diversas formas de comunicar, audio, texto interactivo, video, contenidos, otros, como una forma de diversión y amor por las hisotrias, siempre vivo para mi curiosidad. Aprovecho este rincón para recordar episodios simpáticos. 
+    - Formular la estrategia de Las Previas, programa de capacitación para becarios que no empezaron clases
+       <img src="{{site.baseurl}}/assets/thumbnails/22-las-previas-jovenes-bicentenario.jpg" class="garnish rounded float-left"/>
+ {:.image-caption}
+* Validar contenidos y diseños*
 
-Al iniciar este blog, encontré que podía hacerlo en **Github**, que tiene un generador de sitios estáticos: Jekill con lenguaje propio. El cual facilita la producción de post al poder escribir en Markdown, lo menciono porque me parece recreativo esto de la programación de páginas web. 
+   - Responsable de gestión de conocimiento para la trasnferencia de capacidades en comunicación
+ <img src="{{site.baseurl}}/assets/thumbnails/22-documentacion-piloto-capacitacion-laboral-BID-MTPE.jpg" class="garnish rounded float-left"/>
+{:.image-caption}
+* Participación activa en la gestión de documentación Piloto capacitación laboral*
 
-Así que desde noviembre del 2021, por no darle tiempo suficiente a la programación,  estoy metido en este dulce infierno. Así que lo que encuentran está hecho con pura intuición, máximo interés y cariño... y lo logrado es lo que ven. 
+### Producción de Contenidos
 
-## Un par de líneas
+- **[Nombre de la Empresa/Medio]** *(Ubicación)*
+  - Editor de Contenidos
+  - [Fecha de Inicio] - [Fecha de Finalización]
+  - Descripción de logros y proyectos destacados.
 
-Esta frase resume el propósito del blog, es la frase que escuché al inicio de mi carrera donde todo lo que hagas, así sea imagen o audio, primero se escribe.
+## Proyectos Destacados
 
-> "Hernán, por favor, un par de líneas" sobre Kuwait (el primer pedido que tuve, según recuerdo), sobre bicicletas antiguas, sobre plagas, sobre empleabilidad. 
- 
-Ya sea para un guion o artículo, para el discurso del jefe, estas palabras me fueron acompañando por décadas, mencionarlas detonan un fabuloso mundo por explorar. En un par de líneas, lo interesante es simple. Así fue, es y será. 
+### Podcast "Por la Causa"
+
+- **Descripción:**
+  - Dirijo y produzco el pódcast semanal "Por la Causa" sobre seguridad e inocuidad alimentaria, dirigido a responsables de la cocina tanto en hogares como en la industria. El producto se difunde por las plataformas de Radio Programas del Perú, RPP Noticias.
+    
+### Música
+
+- **Descripción:**
+  - [Breve descripción de tu interés en la música y proyectos musicales destacados.]
+
+## Habilidades
+
+- Comunicación Institucional
+- Planificación estratégica
+- Producción de Contenidos
+- Edición de Audio
+- Producción Musical
+- Redacción Creativa
+
+## Contacto
+
+¡Me encantaría conectar contigo! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/hernangarciavaldeavellano/) o escucharme en mi [podcast](https://rpp.pe/audio/podcast/por-la-causa).
+
+¡Gracias por visitar mi portafolio!
+
