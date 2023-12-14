@@ -58,8 +58,8 @@ image: assets/images/portafolio-hgv.png
 [Procedimiento en Mapa de Procesos, página 17](https://www.senasa.gob.pe/senasa/descargasarchivos/2014/11/Mapa-de-Procesos-del-SENASA.pdf)  
 
     
-### Crear música como acariciando la vida
-  Nos ha servido para arrullar a los hijos
+### Creo música para acariciar la vida
+  Nos ha servido para arrullar a los niños
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1690665033&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tukutun" title="Por la Causa" target="_blank" style="color: #cccccc; text-decoration: none;">Por la Causa</a> · <a href="https://soundcloud.com/tukutun/duerme-bien-shanti" title="Duerme bien Shanti" target="_blank" style="color: #cccccc; text-decoration: none;">Duerme bien Shanti</a></div>
 
