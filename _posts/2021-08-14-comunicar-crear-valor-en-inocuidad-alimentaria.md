@@ -49,7 +49,7 @@ La mosca de la fruta es un pequeño y dorado insecto volador que con suma facili
 
 Ello se logró a la par del trabajo de imagen institucional, ya sea como vocero durante la anomalía climática denominada Niño Costero o en el desarrollo de los eventos de celebración de los 25 años del SENASA, donde Gino de la Torre, se lució como organizador del evento internacional realizado en el Centro de Convenciones de Lima.
 
- ![25 aniversario del SENASA](https://raw.githubusercontent.com/kanancho/web/main/assets/thumbnails/17-25-senasa-aniversario-hernan-gino.jpg)
+ <img src="{{site.baseurl}}/assets/thumbnails/19-25-senasa-aniversario-hernan-gino.jpg" class="garnish rounded float-left"/>
 {:.image-caption}
 *Foto de aniversario*
 
