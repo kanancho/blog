@@ -5,9 +5,9 @@ permalink: "/about/"
 image: assets/images/portafolio-hgv.png
 ---
 
-¡Hola! Soy Hernán García Valdeavellano, comunicador con más de dos décadas generando estrategias, gestor de conocimiento y creador de un emocionante podcast. Y cuando tengo tiempo libre, me divierto haciendo música.
+¡Hola! Soy Hernán García Valdeavellano, comunicador con más de dos décadas generando estrategias, siendo gestor de conocimiento y creador de un emocionante podcast. Y cuando tengo tiempo libre, me divierto haciendo música.
 
-## Protyecto destacado: Por la Causa - Podcast
+## Proyecto destacado: Por la Causa - Podcast
   - Dirijo y produzco el pódcast semanal "Por la Causa" sobre seguridad e inocuidad alimentaria, dirigido a responsables de la cocina tanto en hogares como en la industria. Principalmente hago uso de fondos musicales propios. El producto se difunde por las plataformas de Radio Programas del Perú, RPP Noticias.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4sZ8qT1zlrlg161D1Pw88e?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ## Estrategias de comunicación
@@ -18,8 +18,8 @@ image: assets/images/portafolio-hgv.png
   - Formular la estrategia de Las Previas, programa de capacitación para becarios que no empezaron clases. *Validar contenidos y diseños*
   <img src="{{site.baseurl}}/assets/thumbnails/22-las-previas-jovenes-bicentenario.jpg"/>
 
-### Estrategia de promoción para el levantamiento de inofrmación catastral en 11 localidades **[COFOPRI]**
-  - Formulé campañas y logré que los funcionarios responsables de la comunicación de las municipalidades acepten losla spropuestas y sus respectivos presupuestos.
+### Estrategia de promoción para el levantamiento de inofrmación catastral **[COFOPRI]**
+  - Formulé campañas y logré que los funcionarios responsables de la comunicación de 11 municipalidades acepten losla spropuestas y sus respectivos presupuestos.
     - Además, realicé spots radiales
     - Videos promocionales 
       <div class="video-responsive">
