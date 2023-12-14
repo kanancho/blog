@@ -18,7 +18,7 @@ image: assets/images/portafolio-hgv.png
   
   - Formular la estrategia de Las Previas, programa de capacitación para becarios que no empezaron clases. *Validar contenidos y diseños*
   <img src="{{site.baseurl}}/assets/thumbnails/22-las-previas-jovenes-bicentenario.jpg" class="garnish rounded float-left"/>
-
+<Br>
 ### Estrategia de promoción para el levantamiento de inofrmación catastral en 11 localidades **[COFOPRI]**
   - Formulé campañas y logré que los funcionarios responsables de la comunicación de las municipalidades acepten losla spropuestas y sus respectivos presupuestos.
     - Además, realicé spots radiales
@@ -36,7 +36,7 @@ image: assets/images/portafolio-hgv.png
   - Unidos contra el Dragón Amarillo estrategia desarrollada y focalizada en la frontera norte con el sector privado, a través de Procitrus.
     <iframe src="https://www.youtube.com/embed/hfVe6BkYUB0" alt="Contra la plaga Dragón amarillo o HLB" frameborder="0" allowfullscreen></iframe>
   - Publicaciones sobre los beneficios que trae el trabajo de la institución.
-     <img src="{{site.baseurl}}/assets/thumbnails/19-frambuesas-peru-hernan.jpg" class="garnish rounded float-left"/>
+     <img src="{{site.baseurl}}/assets/thumbnails/19-frambuesas-peru-hernan.jpg"/>
      <Br>
 <Br>
 ## Gestión del conocimiento
@@ -46,7 +46,7 @@ image: assets/images/portafolio-hgv.png
     
 ### Desarrollé el procedimiento de comunicación sobre Empleabildiad Laboral y la promoción de becas **[BID-MTPE]**
    *Participación activa en la gestión de documentación Piloto capacitación laboral*
-   <img src="{{site.baseurl}}/assets/thumbnails/22-documentacion-piloto-capacitacion-laboral-BID-MTPE.jpg" class="garnish rounded float-left"/>
+   <img src="{{site.baseurl}}/assets/thumbnails/22-documentacion-piloto-capacitacion-laboral-BID-MTPE.jpg" />
 <Br>
 ### Formulé el Manual de comunicación del **[SENASA]**
   -Permitió uniformizar y dar un rumbo a la imagen de la institución, que hasta el momento se mostraba dispersa. Se mantiene vigente desde el 2013. 
@@ -54,15 +54,15 @@ image: assets/images/portafolio-hgv.png
 [Procedimiento en Mapa de Procesos, página 17](https://www.senasa.gob.pe/senasa/descargasarchivos/2014/11/Mapa-de-Procesos-del-SENASA.pdf)  
 
     
-### La música como base de vida
-  A veces, la música nos ha servido para arrullar a los hijos
+### Crear música como acariciando la vida
+  Nos ha servido para arrullar a los hijos
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1690665033&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tukutun" title="Por la Causa" target="_blank" style="color: #cccccc; text-decoration: none;">Por la Causa</a> · <a href="https://soundcloud.com/tukutun/duerme-bien-shanti" title="Duerme bien Shanti" target="_blank" style="color: #cccccc; text-decoration: none;">Duerme bien Shanti</a></div>
 
-  Otras intentas que no llore y te graba tu esposa y el juego se convierte en canción 
+  A veces, buscas que no llore, te graba tu esposa y el juego se convierte en canción 
   <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/561088389&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tukutun" title="Tukutún" target="_blank" style="color: #cccccc; text-decoration: none;">Tukutún</a> · <a href="https://soundcloud.com/tukutun/shanti-shanti" title="Shanti Shanti" target="_blank" style="color: #cccccc; text-decoration: none;">Shanti Shanti</a></div>
 
-  O para ganar fuerzas haciendo un poco de rock
+  O recobras energías haciendo mucho rock
   <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1690673811&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tukutun" title="Por la Causa" target="_blank" style="color: #cccccc; text-decoration: none;">Por la Causa</a> · <a href="https://soundcloud.com/tukutun/mi-rugido" title="Mi Rugido" target="_blank" style="color: #cccccc; text-decoration: none;">Mi Rugido</a></div>
   
 ## Habilidades
