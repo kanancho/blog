@@ -28,8 +28,7 @@ En las tardes, junto a la abuela, lo esperábamos de pie a la entrada de la quin
 
 Me heredó el toque maestro que llegó a cultivar en años de pelea. La capacidad de saber la hora sin hacer uso de herramienta alguna, que hoy me sirve para hacer gala porque yo no lucho contra este enemigo. Aunque regularmente se pone canalla conmigo, como cuando pasan dos buses vacíos porque pasaron antes de tiempo por el paradero.
 
- ![The royal hunt of the sun](https://lh3.googleusercontent.com/-OI_lFDCAE1s/YM9NpkV9DKI/AAAAAAABgEg/7zP77EZvgR0xpWiNe4gyM8c0fKslYIasACLcBGAsYHQ/s1600/1624198567174655-1.png)
-{:.image-caption}
+ ![Padre y abuelo](https://lh3.googleusercontent.com/-OI_lFDCAE1s/YM9NpkV9DKI/AAAAAAABgEg/7zP77EZvgR0xpWiNe4gyM8c0fKslYIasACLcBGAsYHQ/s1600/1624198567174655-1.png)
 *El abuelo y el nieto pequeño*
 
 ## La hora Cabana
