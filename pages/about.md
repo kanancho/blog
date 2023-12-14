@@ -37,8 +37,7 @@ image: assets/images/portafolio-hgv.png
     <iframe src="https://www.youtube.com/embed/hfVe6BkYUB0" alt="Contra la plaga Dragón amarillo o HLB" frameborder="0" allowfullscreen></iframe>
   - Publicaciones sobre los beneficios que trae el trabajo de la institución.
      <img src="{{site.baseurl}}/assets/thumbnails/19-frambuesas-peru-hernan.jpg"/>
-     <Br>
-<Br>
+
 ## Gestión del conocimiento
 
 ### Adaptación pedagógica de la Guía del INVIERTE.PE, que suplantó al conocido SNIP **[Ministerio de Economía]**
