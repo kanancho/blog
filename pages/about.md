@@ -1,13 +1,9 @@
 ---
 layout: page
-title: Sobre mí
+title: Bienvenido a mi Portafolio
 permalink: "/about/"
 image: assets/images/portafolio-hgv.png
 ---
-
-# Bienvenido a mi Portafolio
-
-## Sobre mí
 
 ¡Hola! Soy Hernán García Valdeavellano, con una sólida experiencia como comunicador, generador de contenidos y creador de un emocionante podcast. Y cuando tengo tiempo libre, me divierto haciendo música.
 
@@ -24,7 +20,7 @@ image: assets/images/portafolio-hgv.png
 *Campañas de promoción tradicional y digital*
 
     - Formular la estrategia de Las Previas, programa de capacitación para becarios que no empezaron clases
-       <img src="{{site.baseurl}}/assets/thumbnails/22-las-previas-jovenes-bicentenario.jpg" class="garnish rounded float-left"/>
+ <img src="{{site.baseurl}}/assets/thumbnails/22-las-previas-jovenes-bicentenario.jpg" class="garnish rounded float-left"/>
  {:.image-caption}
 * Validar contenidos y diseños*
 
