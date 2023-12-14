@@ -9,6 +9,10 @@ image: assets/images/portafolio-hgv.png
 
 # Conoce mi trabajo
 
+## Por la Causa - Podcast, proyecto destacado
+  - Dirijo y produzco el pódcast semanal "Por la Causa" sobre seguridad e inocuidad alimentaria, dirigido a responsables de la cocina tanto en hogares como en la industria. El producto se difunde por las plataformas de Radio Programas del Perú, RPP Noticias.
+    <iframe src="https://eaudioplayer.radio-grpp.io/static/dist/embed/index.html?id=65786eac272503412ac6ab81&title=EP12%20%7C%20Navidad%20en%20la%20cocina%20sin%20amargas%20sorpresas&url=https://rpp.pe/audio/podcast/por-la-causa&cover=https://md1.rpp-noticias.io/256x256/cutter/2023/09/26/1695746540.jpg&program=Por%20la%20causa%20%7C%20podcast" frameborder="0" width="100%" height="120" scrolling="no" loading="lazy"></iframe>
+    
 ## Estrategias de comunicación
 ### Comunicación y promoción de la beca Jóvenes Bicentenario **[BID-MTPE]**
   - Promoción de tres convocatorias de becas para jóvenes. *Campañas de promoción tradicional y digital*
@@ -17,6 +21,14 @@ image: assets/images/portafolio-hgv.png
   - Formular la estrategia de Las Previas, programa de capacitación para becarios que no empezaron clases. *Validar contenidos y diseños*
   <img src="{{site.baseurl}}/assets/thumbnails/22-las-previas-jovenes-bicentenario.jpg" class="garnish rounded float-left"/>
 
+### Estrategia de promoción para el levantamiento de inofrmación catastral en 11 localidades **[COFOPRI]**
+  - Formulé campañas y logré que los funcionarios responsables de la comunicación de las municipalidades acepten losla spropuestas y sus respectivos presupuestos.
+    - Además, realicé spots radiales
+    - Videos promocionales 
+      <div class="video-responsive">
+      <iframe src="https://www.youtube.com/embed/qvE0bgddt5k" alt="Colabora con COFOPRI" frameborder="0" allowfullscreen></iframe>
+        </div> 
+        
 ### Imagen y comunicación en sanidad agraria e inocuidad alimentaria **[SENASA]**
   - Vocero técnico en el fenómeno de El Niño 2016
   - Promoví y propuse un logotipo más claro, menos cargado
@@ -28,9 +40,11 @@ image: assets/images/portafolio-hgv.png
   - Publicaciones sobre los beneficios que trae el trabajo de la institución.
      <img src="{{site.baseurl}}/assets/thumbnails/19-frambuesas-peru-hernan.jpg" class="garnish rounded float-left"/>
 
+
 ## Gestión del conocimiento
 
-
+### Adaptación pedagógica de la Guía del INVIERTE.PE, que suplantó al conocido SNIP **[Ministerio de Economía]**
+    - El objetivo primordial es garantizar que la lectura resultara didáctica, comprensible y ágil para los usuarios.
 
 ### Desarrollé el procedimiento de comunicación sobre Empleabildiad Laboral y la promoción de becas **[BID-MTPE]**
    *Participación activa en la gestión de documentación Piloto capacitación laboral*
@@ -42,20 +56,6 @@ https://drive.google.com/file/d/1Luxe6JbPXoId2lBWF6-tSXm4EeaxwpWP/view?usp=shari
 Obra en la página 17 de los Mapas de Procesos: 
 https://www.senasa.gob.pe/senasa/descargasarchivos/2014/11/Mapa-de-Procesos-del-SENASA.pdf  
 
-
-## Producción de Contenidos
-
-- **[Nombre de la Empresa/Medio]** *(Ubicación)*
-  - Editor de Contenidos
-  - [Fecha de Inicio] - [Fecha de Finalización]
-  - Descripción de logros y proyectos destacados.
-
-## Proyectos Destacados
-
-### Podcast "Por la Causa"
-
-- **Descripción:**
-  - Dirijo y produzco el pódcast semanal "Por la Causa" sobre seguridad e inocuidad alimentaria, dirigido a responsables de la cocina tanto en hogares como en la industria. El producto se difunde por las plataformas de Radio Programas del Perú, RPP Noticias.
     
 ### Música
 
