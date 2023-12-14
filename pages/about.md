@@ -8,7 +8,7 @@ image: assets/images/portafolio-hgv.png
 ¡Hola! Soy Hernán García Valdeavellano, comunicador con más de dos décadas generando estrategias, gestor de conocimiento y creador de un emocionante podcast. Y cuando tengo tiempo libre, me divierto haciendo música.
 
 ## Protyecto destacado: Por la Causa - Podcast
-  - Dirijo y produzco el pódcast semanal "Por la Causa" sobre seguridad e inocuidad alimentaria, dirigido a responsables de la cocina tanto en hogares como en la industria. El producto se difunde por las plataformas de Radio Programas del Perú, RPP Noticias.
+  - Dirijo y produzco el pódcast semanal "Por la Causa" sobre seguridad e inocuidad alimentaria, dirigido a responsables de la cocina tanto en hogares como en la industria. Principalmente hago uso de fondos musicales propios. El producto se difunde por las plataformas de Radio Programas del Perú, RPP Noticias.
     <iframe src="https://eaudioplayer.radio-grpp.io/static/dist/embed/index.html?id=65786eac272503412ac6ab81&title=EP12%20%7C%20Navidad%20en%20la%20cocina%20sin%20amargas%20sorpresas&url=https://rpp.pe/audio/podcast/por-la-causa&cover=https://md1.rpp-noticias.io/256x256/cutter/2023/09/26/1695746540.jpg&program=Por%20la%20causa%20%7C%20podcast" frameborder="0" width="100%" height="120" scrolling="no" loading="lazy"></iframe>
 
 ## Estrategias de comunicación
@@ -37,7 +37,7 @@ image: assets/images/portafolio-hgv.png
     <iframe src="https://www.youtube.com/embed/hfVe6BkYUB0" alt="Contra la plaga Dragón amarillo o HLB" frameborder="0" allowfullscreen></iframe>
   - Publicaciones sobre los beneficios que trae el trabajo de la institución.
      <img src="{{site.baseurl}}/assets/thumbnails/19-frambuesas-peru-hernan.jpg" class="garnish rounded float-left"/>
-
+     <Br>
 
 ## Gestión del conocimiento
 
@@ -47,18 +47,22 @@ image: assets/images/portafolio-hgv.png
 ### Desarrollé el procedimiento de comunicación sobre Empleabildiad Laboral y la promoción de becas **[BID-MTPE]**
    *Participación activa en la gestión de documentación Piloto capacitación laboral*
    <img src="{{site.baseurl}}/assets/thumbnails/22-documentacion-piloto-capacitacion-laboral-BID-MTPE.jpg" class="garnish rounded float-left"/>
-
+<Br>
 ### Formulé el Manual de comunicación del **[SENASA]**
   -Permitió uniformizar y dar un rumbo a la imagen de la institución, que hasta el momento se mostraba dispersa. Se mantiene vigente desde el 2013. 
 [Procedimiento ST 5](https://drive.google.com/file/d/1Luxe6JbPXoId2lBWF6-tSXm4EeaxwpWP/view?usp=sharing)     
 [Procedimiento en Mapa de Procesos, página 17](https://www.senasa.gob.pe/senasa/descargasarchivos/2014/11/Mapa-de-Procesos-del-SENASA.pdf)  
 
     
-### Música
+## Ladrón de Amor, la música como base de vida
+ - Esta es la banda de rock que formamos con dos amigos cuando éramos adolescentes. Ahora, los sobrevivientes, tocamos, grabamos y editamos temas propios.
+  <audio controls>
+  <source src="ruta-de-tu-cancion.mp3" type="audio/mp3">
+  Tu navegador no soporta el elemento de audio.
+  </audio>
 
-- **Descripción:**
-  - [Breve descripción de tu interés en la música y proyectos musicales destacados.]
-
+  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/561088389&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tukutun" title="Tukutún" target="_blank" style="color: #cccccc; text-decoration: none;">Tukutún</a> · <a href="https://soundcloud.com/tukutun/shanti-shanti" title="Shanti Shanti" target="_blank" style="color: #cccccc; text-decoration: none;">Shanti Shanti</a></div>
+  
 ## Habilidades
 
 - Comunicación Institucional
