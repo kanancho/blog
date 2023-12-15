@@ -45,7 +45,7 @@ Por ello, esta guía es muy importante porque facilitará la formulación de pro
   - El objetivo de la consultoría es garantizar que la lectura resultara didáctica, comprensible y ágil para los usuarios.
 
 ### Editar Guía interactiva para usuarios de los tres niveles de Gobierno **[Ministerio de Producción]**
-  - Con las gestiones y mejoras conseguidas, gracias a un trabajo en equipo con el personal del ministerio, obtuvimos un [landing page como producto final.](https://instrumentosfinancieros.produce.gob.pe/)
+  - Con las gestiones y mejoras conseguidas, gracias a un trabajo en equipo con el personal del ministerio, obtuvimos un [landing page como producto final que se puede visualizar haciendo clic aquí.](https://instrumentosfinancieros.produce.gob.pe/)
     
 ### Desarrollé el procedimiento de comunicación sobre Empleabildiad Laboral y promoción de becas **[BID-MTPE]**
    *Participación activa en la gestión de documentación Piloto capacitación laboral*
@@ -53,7 +53,7 @@ Por ello, esta guía es muy importante porque facilitará la formulación de pro
    
 ### Formulé el Manual de comunicación del **[SENASA]**
 Permitió uniformizar y dar un rumbo a la imagen de la institución, que hasta el momento se mostraba dispersa. 
-  - Se mantiene vigente desde el 2013. [Procedimiento ST 5](https://drive.google.com/file/d/1Luxe6JbPXoId2lBWF6-tSXm4EeaxwpWP/view?usp=sharing)     
+  - Se mantiene vigente desde el 2013. [Procedimiento ST 5 aquí](https://drive.google.com/file/d/1Luxe6JbPXoId2lBWF6-tSXm4EeaxwpWP/view?usp=sharing)     
   - [Procedimiento en Mapa de Procesos, página 17](https://www.senasa.gob.pe/senasa/descargasarchivos/2014/11/Mapa-de-Procesos-del-SENASA.pdf)  
 
 ## Gestión de medios escritos
