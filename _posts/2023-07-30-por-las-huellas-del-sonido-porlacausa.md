@@ -27,5 +27,5 @@ La preocupación por no seguir modas y la búsqueda constante de algo diferente,
 
 El horizonte está lleno de expectativas a largo plazo: continuar con Por la Causa y acoger a oyentes de diferentes rincones del mundo. El objetivo final es proporcionar consejos para una comida libre de riesgos, construyendo una comunidad unida por el amor compartido por la causa alimentaria.
 
-- Se transmite a través de las plataformas de Radio Programas del Perú - RPP Noticias.
+- [Por la Causa, clic aquí](https://rpp.pe/audio/podcast/por-la-causa) se transmite a través de las plataformas de Radio Programas del Perú - RPP Noticias.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4sZ8qT1zlrlg161D1Pw88e?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
