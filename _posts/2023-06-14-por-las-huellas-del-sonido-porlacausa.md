@@ -2,9 +2,9 @@
 layout: post
 title:  "Tras las Huellas del Sonido: Por la Causa"
 author: hernan
-categories: [ Portafolio]
-tags: [ podcast, musica, sueños ]
-image: assets/postImages/23-podcast-hernan-1.png
+categories: [Portafolio]
+tags: [ podcast, comunicacion, periodismo ]
+image: assets/postImages/23-porlacausa-rpp.jpg
 
 ---
 En el oscuro silencio de las palabras escritas, me embarqué en una búsqueda para ser escuchado. Este viaje me llevó de vuelta a mis raíces, desafiando la comodidad de la pluma para abrazar el poder del sonido. Así nació la idea de "Por la Causa", un pódcast que no solo alimenta el oído, sino también la conciencia alimentaria.
@@ -16,6 +16,8 @@ Aunque no llegué al profesionalismo, logré satisfacer mi curiosidad y matar el
 El viaje no fue fácil; volver al arte de ser escuchado implicó desafíos y una revisión brutal de los primeros intentos. En una noche reveladora, mi yo del pasado, desenfadado y emocional como él solo, me habló con firmeza, instando a desterrar lo avanzado e iniciar de nuevo. Así comenzó la búsqueda de la combinación perfecta de palabras, música y efectos, un proceso en constante evolución.
 
 Lo que sí me resultó fácil fue la selección del nombre, puesto que soy un fanático de la causa limeña. Nada me puede alejar de ella. Y como la causa de este pódcast es la alimentación, ea aquí, Por la Causa, palabras que alimentan.
+
+ <img src="{{site.baseurl}}/assets/postImages/23-podcast-hernan-1.png"/>
 
 Por la Causa no solo busca tocar las acciones diarias relacionadas con la alimentación, sino también explorar los misterios detrás de lo que comemos. Un enfoque que hace que la seguridad alimentaria se vuelva cercana y fascinante, invitando a los oyentes a descubrir más sobre el viaje de los alimentos desde su creación hasta llegar a nuestros platos.
 
