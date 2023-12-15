@@ -2,7 +2,7 @@
 layout: post
 title:  "Mi Rugido: Testimonio de fuego nacido de la pérdida y la resiliencia"
 author: hernan
-categories: [ rocanrrola]
+categories: [Rocanrrola]
 tags: [ musica, composicion]
 image: assets/thumbnails/22-jobs-filosofia-antigua.png
 
@@ -21,3 +21,6 @@ Eres un espíritu de hierro que se niega a ceder. Desde la pandemia, los constan
 Aquí te llamo a encontrar fuerzas y avanzar. Te invito que al final el grito de Oyeeeemeeeee, resuene como un tributo a aquellos que se fueron, un rugido final por la vida que aún buscamos.
 
 Con Mi Rugido busqué más que una guitarreada; quise dar un testimonio musical de las pruebas y tribulaciones que todos enfrentamos en algún momento. En sus notas, encuentro la fuerza para seguir adelante, para abrazar la vida con pasión y para recordar a aquellos que han iluminado mi camino. Este tema es mi regalo a quienes han perdido y a los que, como mi hermana, continúan luchando contra las sombras. Que este rugido resuene como un eco de esperanza y resiliencia en medio de la oscuridad.
+
+  - Clic en **Listen in browser** para escuchar
+  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1690673811&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tukutun" title="Por la Causa" target="_blank" style="color: #cccccc; text-decoration: none;">Por la Causa</a> · <a href="https://soundcloud.com/tukutun/mi-rugido" title="Mi Rugido" target="_blank" style="color: #cccccc; text-decoration: none;">Mi Rugido</a></div>
