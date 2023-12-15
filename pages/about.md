@@ -7,15 +7,15 @@ image: assets/images/portafolio-hgv.png
 
 ¡Hola! Soy Hernán García Valdeavellano, comunicador con más de dos décadas generando estrategias, siendo gestor de conocimiento y creador de un emocionante podcast. Y cuando tengo tiempo libre, me divierto haciendo música.
 
-## Proyecto destacado: Por la Causa - Podcast
+## PROYECTO DESTACADO: Por la Causa - Podcast
   - Dirijo y produzco el pódcast semanal "Por la Causa" sobre seguridad e inocuidad alimentaria, dirigido a responsables de la cocina tanto en hogares como en la industria. Principalmente hago uso de fondos musicales propios. El producto se difunde por las plataformas de Radio Programas del Perú, RPP Noticias.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4sZ8qT1zlrlg161D1Pw88e?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-## Estrategias de comunicación
+## ESTRATEGIAS DE COMUNICACIÓN
 ### Comunicación y promoción de la beca Jóvenes Bicentenario **[BID-MTPE]**
   - Promoción de tres convocatorias de becas para jóvenes. *Campañas de promoción tradicional y digital*
  <img src="{{site.baseurl}}/assets/thumbnails/22-consultoria-beca.jpg" class="garnish rounded float-left"/>
   
-  - Formular la estrategia de Las Previas, programa de capacitación para becarios que no empezaron clases. *Validar contenidos y diseños*
+  - Formular la campaña Las Previas, programa de capacitación para becarios que no empezaron clases. *Validar contenidos y diseños*
   <img src="{{site.baseurl}}/assets/thumbnails/22-las-previas-jovenes-bicentenario.jpg"/>
 
 ### Promoción para el levantamiento de información catastral **[COFOPRI]**
@@ -37,7 +37,7 @@ image: assets/images/portafolio-hgv.png
   - Publicaciones sobre los beneficios que trae el trabajo de la institución.
      <img src="{{site.baseurl}}/assets/thumbnails/19-frambuesas-peru-hernan.jpg"/>
 
-## Gestión del conocimiento
+## GESTIÓN DEL CONOCIMIENTO
 
 ### Adaptación pedagógica de la Guía del INVIERTE.PE **[Ministerio de Economía]**
   - Esta herramienta suplantó al Sistema Nacional de Intersión Pública-SIP
@@ -61,7 +61,7 @@ image: assets/images/portafolio-hgv.png
 - He prestado servicios de generación de contenidos y participación en medios masivos para la [promoción del turismo desde el Perú hacia Brasil](https://www.hernangarciaval.com/2023/01/25/vuelve-carnaval-brasil/)
 - Sobre inocuidad alimentaria, he escrito [artículos para revistas](https://www.hernangarciaval.com/2021/09/09/articulos-seguridad-alimentaria/)
 
-## Creo música para acariciar la vida
+## HACER MÚSICA PARA ACARICIAR LA VIDA
  - Mucho rock para recobrar energía
     - Clic en **Listen in browser** para escuchar
   <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1690673811&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tukutun" title="Por la Causa" target="_blank" style="color: #cccccc; text-decoration: none;">Por la Causa</a> · <a href="https://soundcloud.com/tukutun/mi-rugido" title="Mi Rugido" target="_blank" style="color: #cccccc; text-decoration: none;">Mi Rugido</a></div>
