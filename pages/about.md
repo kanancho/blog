@@ -8,7 +8,7 @@ image: assets/images/portafolio-hgv.png
 ¡Hola! Soy Hernán García Valdeavellano, comunicador con más de dos décadas generando estrategias, siendo gestor de conocimiento y creador de un emocionante podcast. Y cuando tengo tiempo libre, me divierto haciendo música.
 
 ## PROYECTO DESTACADO: Por la Causa - Podcast
-> Encabezo y produzco el pódcast semanal "Por la Causa", dedicado a la seguridad e inocuidad alimentaria. Dirigido tanto a responsables de cocinas domésticas como a profesionales de la industria alimentaria. Destaco el uso de fondos musicales de mi propia creación. Se transmite a través de las plataformas de Radio Programas del Perú - RPP Noticias.
+> Encabezo y produzco el pódcast semanal "Por la Causa", dedicado a la seguridad e inocuidad alimentaria. Dirigido tanto a responsables de cocinas domésticas como a profesionales de la industria alimentaria. Destaco el uso de fondos musicales de mi propia creación. Se transmite por plataformas de pódcast y Radio Programas del Perú [RPP Noticias, clic aquí](https://rpp.pe/audio/podcast/por-la-causa) 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4sZ8qT1zlrlg161D1Pw88e?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ## ESTRATEGIAS DE COMUNICACIÓN
 ### Comunicación y promoción de la beca Jóvenes Bicentenario **[BID-MTPE]**
