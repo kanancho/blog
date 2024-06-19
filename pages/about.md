@@ -84,7 +84,7 @@ Permitió uniformizar y dar un rumbo a la imagen de la institución, que hasta e
 
 ## Contacto
 
-¡Me encantaría conectar contigo! Puedes escrivirme a [PorlaCausa@hernangarciaval.com](mailto:PorlaCausa@hernangarciaval.com) encontrarme en [LinkedIn](https://www.linkedin.com/in/hernangarciavaldeavellano/) o escucharme en mi [podcast](https://rpp.pe/audio/podcast/por-la-causa).
+¡Me encantaría conectar contigo! Puedes escrivirme a [PorlaCausa@hernangarciaval.com](mailto:PorlaCausa@hernangarciaval.com), encontrarme en [LinkedIn](https://www.linkedin.com/in/hernangarciavaldeavellano/) o escucharme en mi pódcast [Por la Causa](https://rpp.pe/audio/podcast/por-la-causa).
 
 ¡Gracias por visitar mi portafolio!
 
