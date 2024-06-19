@@ -62,15 +62,15 @@ Permitió uniformizar y dar un rumbo a la imagen de la institución, que hasta e
 
 ## HACER MÚSICA PARA ACARICIAR LA VIDA
  - Mucho rock para recobrar energía
-    - Clic en **Listen in browser** para escuchar
+    - En celular dar Clic en **Listen in browser** para escuchar
   <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1690673811&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tukutun" title="Por la Causa" target="_blank" style="color: #cccccc; text-decoration: none;">Por la Causa</a> · <a href="https://soundcloud.com/tukutun/mi-rugido" title="Mi Rugido" target="_blank" style="color: #cccccc; text-decoration: none;">Mi Rugido</a></div>
     
  - Me ha servido para arrullar a los niños
-    - Clic en **Listen in browser** para escuchar
+    - En celular dar Clic en **Listen in browser** para escuchar
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1690665033&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tukutun" title="Por la Causa" target="_blank" style="color: #cccccc; text-decoration: none;">Por la Causa</a> · <a href="https://soundcloud.com/tukutun/duerme-bien-shanti" title="Duerme bien Shanti" target="_blank" style="color: #cccccc; text-decoration: none;">Duerme bien Shanti</a></div>
 
   - Bailar para que el bebe no llore, te graba tu esposa y el juego se convierte en canción 
-    - Clic en **Listen in browser** para escuchar
+    - En celular dar Clic en **Listen in browser** para escuchar
   <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/561088389&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tukutun" title="Tukutún" target="_blank" style="color: #cccccc; text-decoration: none;">Tukutún</a> · <a href="https://soundcloud.com/tukutun/shanti-shanti" title="Shanti Shanti" target="_blank" style="color: #cccccc; text-decoration: none;">Shanti Shanti</a></div>
   
 ## Habilidades
