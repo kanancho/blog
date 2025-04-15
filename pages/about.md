@@ -11,7 +11,7 @@ Transformo logros invisibles en historias que fortalecen tu imagen y llegan a lo
 ## ¿Quién soy?
 > Soy Hernán García Valdeavellano, comunicador y estratega en comunicación institucional.
 
->> Trabajo con organizaciones que hacen cosas valiosas, pero muchas veces no logran comunicar su impacto. Con una estrategia periodística bien pensada, he ayudado a fortalecer la reputación de instituciones públicas y a lograr presencia constante en medios masivos y digitales.
+> Trabajo con organizaciones que hacen cosas valiosas, pero muchas veces no logran comunicar su impacto. Con una estrategia periodística bien pensada, he ayudado a fortalecer la reputación de instituciones públicas y a lograr presencia constante en medios masivos y digitales.
 
 ## ¿Qué puedo hacer por ti?
 - Estrategias periodísticas personalizadas: contenidos con enfoque noticioso y valor público.
@@ -31,8 +31,3 @@ Te ayudo a que tu organización deje de ser invisible. Demos el primer paso.
     
 Se transmite por plataformas de pódcast y Radio Programas del Perú [RPP Noticias, clic aquí](https://rpp.pe/audio/podcast/por-la-causa) 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4sZ8qT1zlrlg161D1Pw88e?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
- ## Contacto
-
-¡Me encantaría conectar contigo! Puedes escrivirme a [PorlaCausa@hernangarciaval.com](mailto:PorlaCausa@hernangarciaval.com), encontrarme en [LinkedIn](https://www.linkedin.com/in/hernangarciavaldeavellano/) o escucharme en mi pódcast [Por la Causa](https://rpp.pe/audio/podcast/por-la-causa).
-
