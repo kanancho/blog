@@ -2,7 +2,7 @@
 layout: page
 title: Haz que tu trabajo se vea, se entienda y se reconozca
 permalink: "/about/"
-image: assets/images/portafolio-hgv.png
+image: assets/images/presente-hgv
 ---
 
 Transformo logros invisibles en historias que fortalecen tu imagen y llegan a los medios.
