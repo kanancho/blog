@@ -4,7 +4,7 @@ title:  "Caso de Éxito en Comunicación Pública"
 author: hernan
 categories: [Consultoría]
 tags: [ Estrategia, Contenido, Gestión de medios]
-image: assets/thumbnails/22-jobs-filosofia-antigua.png
+image: assets/thumbnails/25-terrenos-comunicar.jpg
 ---
 
 ## Cómo logramos que los medios hablen de terrenos del Estado (y por qué eso importa)
