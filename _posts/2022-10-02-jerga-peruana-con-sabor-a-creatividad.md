@@ -4,7 +4,7 @@ title:  "Jergas peruanas con sabor a creatividad"
 author: hernan
 categories: [Lenguaje, Creatividad]
 tags: [jergas, comida, creatividad, peru]
-image: assets/postImages/22-anticucho.jpg
+image: assets/thumbnails/22-anticucho.jpg
 ---
 
 En el Perú, la comida no solo se come. También se habla.  
