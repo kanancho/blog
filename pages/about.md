@@ -43,6 +43,8 @@ Acompañamiento editorial para periodistas institucionales, podcasters o creador
 
 - [Superintendencia Nacional de Bienes Estatales (SBN)](https://www.hernangarciaval.com/2025/04/20/caso-de-exito-en-comunicacion-publica/)
 - [Ministerio de Economía y Finanzas (MEF)](https://www.hernangarciaval.com/2024/09/09/caso-de-exito-la-guia-inviertepe-para-gobiernos-locales/)
+- [Beca Jóvenes Bicentenario, BID](https://www.hernangarciaval.com/2024/07/25/como-comunicamos-beca-jovenes-bicentenario-bid/)
+- [Servicio nacional de Sanidad Agraria (SENASA)](https://www.hernangarciaval.com/2024/06/14/caso-de-exito-comunicar-crear-valor-en-inocuidad-alimentaria/)
 
 Y otros equipos que apuestan por contar mejor lo que hacen.
 
