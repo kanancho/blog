@@ -4,7 +4,7 @@ title:  "Caso de Éxito: Cómo hicimos comprensible la Guía Invierte.pe para go
 author: hernan
 categories: [ Consultoría ]
 tags: [ comunicación pública, narrativa institucional, gestión pública, Invierte.pe ]
-image: assets/thumbnails/19-articulos-hernan.jpg
+image: assets/thumbnails/24-inviertepe-hernan.jpg
 beforetoc: "Más de 300 páginas técnicas pueden convertirse en una herramienta útil, si se piensa en quien la va a usar."
 toc: true
 ---
