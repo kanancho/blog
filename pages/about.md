@@ -53,8 +53,8 @@ Y otros equipos que apuestan por contar mejor lo que hacen.
 Estoy construyendo una red de aliados donde **cada uno accede a una parte de mi experiencia**, con resultados reales y sostenibles.  
 Así funciona mi modelo *One-to-Many*: más ágil, más humano, más cercano.
 
-📩 Escríbeme a [hernangarciaval@gmail.com](mailto:hernangarciaval@gmail.com) o 
- <a href="https://wa.me/+51992730067" class="cta" style="background-color: #25d366;">Escríbeme por WhatsApp</a>
+📩 Escríbeme a [hernangarciaval@gmail.com](mailto:hernangarciaval@gmail.com) o al 
+ <a href="https://wa.me/+51992730067" class="cta" style="background-color: #25d366;">WhatsApp</a>
 
 ---
 
