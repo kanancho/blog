@@ -62,4 +62,4 @@ Si tu organización trabaja temas complejos o de bajo perfil mediático, recuerd
 > Lo que no se comunica, no existe. Y lo que se comunica bien, se valora.
 
 ¿Te interesa diseñar una estrategia así? Escríbeme en [prensa@hernangarciaval.com](mailto:prensa@hernangarciaval.com)  
-o visita [hernangarciaval.com](https://www.hernangarciaval.com)
+o Ver [Cómo puedo ayudarte](https://www.hernangarciaval.com/about/)
