@@ -7,14 +7,20 @@ tags: [suerte,loteria,lima]
 image: assets/thumbnails/22-sin-loteria.jpg
 ---
 
-Es increíble. Mi amiga trabajaba en el Ministerio de la Mujer en el jirón Lampa del centro de Lima. Ese viernes fui a su encuentro, llegué puntual pero como ella iba a demorar en salir, aproveché para comprar un par de galletas como quien pasa el rato.
+# La suerte estuvo ahí… pero me adelanté por dos minutos
 
-En la puerta de la tienda en Jr. Lampa 69X, brillaba un módulo de plástico naranja de la lotería electrónica de moda. En ese momento me sentía con una súper vibra así que me acerqué a adquirir un boleto. Ya eran más de las 6pm por lo que solo me quedaba pedir un número al azar. Antes de abrir la boca para soltar mi pedido, sonó mi celular, llamada que atendí presuroso por lo que dejé pasar al que seguía en la cola.
+Es inverosimil lo que me pasó. Mi amiga trabajaba en el Ministerio de la Mujer, en el jirón Lampa del centro de Lima. Aquél viernes fui a su encuentro, llegué puntual, pero como ella iba a demorarse un poco, decidí pasar el tiempo y comprar un par de galletas.
 
-> No pasaba nada con la llamada, ¡d'oh!, colgué y volví a tratar de hacer mi suerte.
+Al salir de la tienda en Jr. Lampa 69X, mi vista se detuvo en algo que brillaba con un color naranja intenso: un módulo de plástico de la lotería electrónica de moda. Mi vibra estaba tan alta ese día que no lo pensé dos veces. Me acerqué y decidí probar suerte con un boleto. Ya eran más de las 6 pm, así que solo pude pedir un número al azar. 
 
-Dos días después, llegó el momento en que una agraciada joven recolectara las seis bolillas blancas que revoloteaban en un globo transparente, con los números que cambiarían mi suerte. Me acomodé frente a la TV con el billete en la mano, como nunca, con mucha expectativa.
+Justo cuando estaba por adquirir el boleto, sonó mi celular. Lo atendí presuroso, lo que me hizo ceder mi lugar al siguiente en la fila.
 
-Las bolillas dieron un solo ganador de una millonada de soles. Con el número detectaron dónde había sido adquirido el billete, en Jr. Lampa 69X y a que hora, 6.16pm. Quedé estupefacto. Era el día y la hora en que estuve ahí, en Jr. Lampa 69X, en la que me hice de mi número competidor. Miré mi boleto, el día concordaba. La hora no, me pasaba por dos minutos. ¡Por la porra!
+> **"No pasó nada con la llamada, otra vez los de Robostar¡d'oh!"**, pensé mientras colgaba y me preparaba para hacer mi jugada. Pero ya era tarde.
 
-La suerte estuvo ahí. En ese lugar. A esa hora exacta, en que no me hice del número ganador por contestar una llamada sin suerte.
+**Dos días después**, llegó el momento. Me acomodé frente al televisor, el boleto en la mano, con la esperanza al máximo. Una joven con una sonrisa brillante comenzó a recolectar las seis bolillas blancas que giraban en un globo transparente. ¡Este era el momento! Los números que cambiarían mi suerte, pensé.
+
+Y entonces, anunciaron al único ganador de esa **millonada de soles**. El número fue identificado y, para sorpresa de todos, ¡lo habían comprado en Jr. Lampa 69X! A las **6:16 pm**, exactamente la hora en la que yo había estado allí. 
+
+Miré mi boleto, y… ¡pum! La fecha coincidía perfectamente. Pero la hora… ese bendito minuto… me saltó por **120 segundos**. ¡Por la porra!
+
+La suerte estuvo ahí. En ese lugar. A esa hora exacta. Pero la dejé pasar, todo por contestar una llamada que, evidentemente, no tenía nada de suerte.
