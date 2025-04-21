@@ -3,7 +3,7 @@ layout: post
 title:  "Consultoría: comunicar la beca Jóvenes Bicentenario"
 author: hernan
 categories: [ Consultoría ]
-tags: [ trabajo, comunicación, TIC, sueños ]
+tags: [ estrategia, comunicación, TIC, sueños ]
 image: assets/thumbnails/22-consultoria-beca.jpg
 beforetoc: "Esta es una de las consultorías en comunicación más bonitas que he hecho. Trabajar por la empleabilidad de jóvenes en el Perú con la beca Jóvenes Bicentenario."
 toc: true
