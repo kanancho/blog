@@ -41,8 +41,8 @@ Acompañamiento editorial para periodistas institucionales, podcasters o creador
 
 ## 🌱 ¿Quiénes ya trabajan conmigo?
 
-- Superintendencia Nacional de Bienes Estatales (SBN) (https://www.hernangarciaval.com/2025/04/20/caso-de-exito-en-comunicacion-publica/)
-- Ministerio de Economía y Finanzas (MEF) (https://www.hernangarciaval.com/2024/09/09/caso-de-exito-la-guia-inviertepe-para-gobiernos-locales/)
+- [Superintendencia Nacional de Bienes Estatales (SBN)] (https://www.hernangarciaval.com/2025/04/20/caso-de-exito-en-comunicacion-publica/)
+- [Ministerio de Economía y Finanzas (MEF)] (https://www.hernangarciaval.com/2024/09/09/caso-de-exito-la-guia-inviertepe-para-gobiernos-locales/)
 
 Y otros equipos que apuestan por contar mejor lo que hacen.
 
