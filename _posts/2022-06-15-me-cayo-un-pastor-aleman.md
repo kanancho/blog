@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Me cayó un pastor alemán y vivo para contarlo"
+title:  "¡Pataclaun!: Me cayó un pastor alemán y vivo para contarlo"
 author: hernan
 categories: [ Anécdotas ]
 tags: [perro,accidente,storytime]
@@ -9,26 +9,71 @@ beforetoc: "Una fuerza enorme me empujó hacia el piso, al tratar de pararme der
 toc: false
 ---
 
-Cuando le dije al cansado médico de guardia que me cayó un perro en la cabeza, dejó de escribir, soltó el lapicero sobre el viejo escritorio, levantó los ojos de la hoja, se acomodó los lentes y me miró con sorpresa. 
+Cuando le dije al cansado médico de guardia que me había caído un perro en la cabeza, dejó de escribir.  
+Soltó el lapicero sobre el viejo escritorio, levantó los ojos de la hoja, se acomodó los lentes y me miró como si hubiera dicho que me atropelló un unicornio.
 
-En contraste con el ruido del hospital, la habitación se llenaba con el silencio de su espera. Después de que mi familia no me entendiera porque les contaba la inverosimil historia a medias, su reacción me parecía hasta natural. Le dije que yo caminaba por la vereda cuando derrepente **¡pataclaun!** algo cayó sobre mi de golpe y oscureció mi mañana. Primero pensé que era un asalto pero a los pocos segundos me di cuenta que había recibido una violenta perreada. 
+En contraste con el bullicio del hospital, la habitación se llenó con el silencio incómodo de su espera.  
+Después de que mi familia no entendiera nada —porque les conté la historia a medias y con dolor de cuello— su reacción me pareció casi normal.
 
-Él no reaccionó, imagino que guardaba la risa para el almuerzo. Asumió que el can era pequeño, negué con la mano porque no podía mover el cuello. Era un animal de unos 50 kilos, un joven pastor alemán, aclaré. 
+Le dije que caminaba por la vereda cuando, de repente:
 
-Yo esperaba que me atendiera pero su curiosidad era más grande y siguió preguntando con los ojos y las cejas. Respondí que al parecer resbaló del techo al no encontrar dónde apoyar una de sus patas mientras se movía de un lado al otro en un segundo piso a medio construir. 
+> **¡Pataclaun!**
 
-Es lo que no pude contarle a mi flaca cuando esa mañana abrió la puerta mientras mi dedo golpeaba el timbre con frenesí. Cuando abrió vió mis brazos estirados, reposando las manos sobre el marco de la puerta, con la mirada perdida y el rostro enrojecido a punto de colapsar. En medio del dolor de cabeza solo alcance a decirle, el perro. 
+Algo cayó sobre mí como un piano en los dibujos animados y me oscureció la mañana.  
+Al principio pensé que era un asalto... pero no.  
+Era una violenta perreada.
 
-Con desesperación revisó mis piernas y luego otras partes de mi cuerpo buscando una mordida. Me llevó hasta el sillón donde me recosté y le conté la historia por puchos y en desorden. 
+El doctor no reaccionó. Imagino que guardaba la risa para el almuerzo.  
+Asumió que el perro era pequeño. Negué con la mano (porque mover el cuello estaba fuera de discusión).
 
-## Me quiso morder
+—Era un pastor alemán joven —aclaré—. Unos 50 kilos de amor perruno en caída libre.
 
-Me cayó el animal, rebotó en mi acabeza y terminó en el piso. Trató de levantarse y morderme pero también estaba desorientado. Se le doblaron las patas. Se abrió una puerta de su casa y salieron a socorrerlo. Nadie me miró. Así que luché por no desmayar y regresar por esa calle vacía en una mañana extrañamente soleada de invierno. 
+Yo esperaba que me atendiera, pero su curiosidad era más fuerte. Me interrogó con los ojos y las cejas.
 
-> ¿Y cómo está el perrito?
+—Parece que resbaló desde un segundo piso a medio construir.  
+No encontró dónde apoyar una pata y, bueno… gravedad.
 
-Preguntaron en el funeral de la _Chepa_,su abuela materna. Luego le preguntaban por mí. De la sorpresa pasaban a la risa y algunos a la carcajada. 
+Eso fue lo que **no** le pude explicar a mi flaca cuando abrió la puerta y me encontró con los brazos estirados,  
+apoyado sobre el marco, el rostro rojo, la mirada perdida y la campanita del timbre todavía sonando en mi dedo.
 
-Otros recordaban que la _Chepa_  era la matriarca brava de la familia, porque de seguro _desde el más allá_, se las ingenió para esconderme la llave dentro del carro con el motor encendido, obligándome a recorrer esa ruta del destino, donde esperaba el perro para caer sobre mi cabeza. 
+Solo pude decirle:
 
-*El can cayó el 23 de agosto de 2019. Ahora se encuentra no habido* 
+> —El perro…
+
+Desesperada, me revisó las piernas buscando mordidas. Nada.  
+Me llevó al sillón y ahí, entre suspiros, le conté moviendo los brazos y soltando palabras entrecortadas la historia en partes y en desorden.
+
+---
+
+## 🦴 Me quiso morder
+
+El animal cayó, rebotó en mi cabeza y terminó en el piso.  
+Trató de morderme, pero también estaba desorientado.  
+Las patas no le respondían.
+
+Una puerta se abrió. Salió gente. Lo ayudaron.  
+Nadie me miró.
+
+Así que me arrastré calle abajo apoyado en la pared, luchando por no desmayarme en esa mañana de invierno, curiosamente soleada.
+
+---
+
+> —¿Y cómo está el perrito?
+
+Me preguntaron días después, en el funeral de la *Chepa*, la abuela materna de mi esposa.  
+Después recién preguntaban por mí.
+
+Pasaban del asombro a la risa. Algunos a la carcajada.
+
+Otros, los que conocieron a la *Chepa*, decían que ella era la matriarca brava de la familia.  
+Y que seguro —desde el más allá— se las ingenió para esconderme la llave dentro del carro, con el motor encendido,  
+obligándome a regresar por esa ruta exacta, donde el perro me esperaba para su caída estelar.
+
+---
+
+*El can cayó el 23 de agosto de 2019.  
+A la fecha, continúa no habido.*
+
+---
+
+*¿Te gustó? Comparte con alguien que NECESITA saber que los perros también caen del cielo.*
