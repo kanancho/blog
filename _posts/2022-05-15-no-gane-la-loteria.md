@@ -7,9 +7,9 @@ tags: [suerte,loteria,lima]
 image: assets/thumbnails/22-sin-loteria.jpg
 ---
 
-# La suerte estuvo ahí… pero me adelanté por dos minutos
+# La suerte estuvo ahí… pero dejeé que pase
 
-Es inverosimil lo que me pasó. Mi amiga trabajaba en el Ministerio de la Mujer, en el jirón Lampa del centro de Lima. Aquél viernes fui a su encuentro, llegué puntual, pero como ella iba a demorarse un poco, decidí pasar el tiempo y comprar un par de galletas.
+Es inverosimil lo que me sucedió. Mi amiga trabajaba en el Ministerio de la Mujer, en el jirón Lampa del centro de Lima. Aquél viernes fui a su encuentro, llegué puntual, pero como ella iba a demorarse un poco, decidí pasar el tiempo y comprar un par de galletas.
 
 Al salir de la tienda en Jr. Lampa 69X, mi vista se detuvo en algo que brillaba con un color naranja intenso: un módulo de plástico de la lotería electrónica de moda. Mi vibra estaba tan alta ese día que no lo pensé dos veces. Me acerqué y decidí probar suerte con un boleto. Ya eran más de las 6 pm, así que solo pude pedir un número al azar. 
 
