@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FavHGV - Tus Sitios Favoritos</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-primary: #0f0f23;
+            --bg-secondary: #1a1a2e;
+            --bg-card: #16213e;
+            --text-primary: #ffffff;
+            --text-secondary: #b8bbc8;
+            --accent: #00d4ff;
+            --accent-hover: #00b8e6;
+            --border: #2a2a4a;
+            --success: #00ff88;
+            --warning: #ff9500;
+            --error: #ff4757;
+            --gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .light-theme {
+            --bg-primary: #f8fafc;
+            --bg-secondary: #ffffff;
+            --bg-card: #ffffff;
+            --text-primary: #1a202c;
+            --text-secondary: #4a5568;
+            --border: #e2e8f0;
+            --gradient: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            transition: all 0.3s ease;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .header h1 {
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.2rem;
+            color: var(--text-secondary);
+            -webkit-text-fill-color: var(--text-secondary);
+        }
+
+        .controls {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .search-box {
+            flex: 1;
+            min-width: 250px;
+            position: relative;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 12px 45px 12px 15px;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px rgba(0, 212, 255, 0.1);
+        }
+
+        .search-icon {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-secondary);
+        }
+
+        .filter-buttons {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 8px 16px;
+            border: 2px solid var(--border);
+            border-radius: 20px;
+            background: var(--bg-secondary);
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 14px;
+        }
+
+        .filter-btn:hover, .filter-btn.active {
+            border-color: var(--accent);
+            color: var(--accent);
+            background: rgba(0, 212, 255, 0.1);
+        }
+
+        .action-buttons {
+            display: flex;
+            gap: 10px;
+        }
+
+        .btn {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: var(--accent);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: var(--accent-hover);
+            transform: translateY(-2px);
+        }
+
+        .btn-secondary {
+            background: var(--bg-card);
+            color: var(--text-primary);
+            border: 2px solid var(--border);
+        }
+
+        .btn-secondary:hover {
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+
+        .favorites-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+
+        .favorite-card {
+            background: var(--bg-card);
+            border: 2px solid var(--border);
+            border-radius: 16px;
+            padding: 20px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .favorite-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--accent);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+        }
+
+        .favorite-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: var(--gradient);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 15px;
+        }
+
+        .card-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 5px;
+        }
+
+        .card-url {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .card-category {
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .category-trabajo { background: rgba(255, 149, 0, 0.2); color: var(--warning); }
+        .category-entretenimiento { background: rgba(255, 71, 87, 0.2); color: var(--error); }
+        .category-herramientas { background: rgba(0, 255, 136, 0.2); color: var(--success); }
+        .category-social { background: rgba(0, 212, 255, 0.2); color: var(--accent); }
+
+        .card-description {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            margin-bottom: 15px;
+            line-height: 1.5;
+        }
+
+        .card-actions {
+            display: flex;
+            gap: 10px;
+        }
+
+        .card-btn {
+            padding: 6px 12px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            background: var(--bg-secondary);
+            color: var(--text-secondary);
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: all 0.3s ease;
+        }
+
+        .card-btn:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 1000;
+            backdrop-filter: blur(5px);
+        }
+
+        .modal.active {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal-content {
+            background: var(--bg-card);
+            padding: 30px;
+            border-radius: 16px;
+            max-width: 500px;
+            width: 90%;
+            border: 2px solid var(--border);
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .modal-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+
+        .close-btn {
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            color: var(--text-secondary);
+            cursor: pointer;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 500;
+            color: var(--text-primary);
+        }
+
+        .form-group input, .form-group select, .form-group textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid var(--border);
+            border-radius: 8px;
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+            font-size: 16px;
+        }
+
+        .form-group input:focus, .form-group select:focus, .form-group textarea:focus {
+            outline: none;
+            border-color: var(--accent);
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-secondary);
+        }
+
+        .empty-state h3 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--bg-card);
+            border: 2px solid var(--border);
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            z-index: 100;
+        }
+
+        .theme-toggle:hover {
+            transform: scale(1.1);
+            border-color: var(--accent);
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .controls {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .search-box {
+                min-width: auto;
+            }
+            
+            .filter-buttons, .action-buttons {
+                justify-content: center;
+            }
+            
+            .favorites-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <header class="header">
+            <h1>FavHGV</h1>
+            <p>Tus sitios web favoritos, organizados y a tu alcance</p>
+        </header>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Buscar en tus favoritos...">
+                <span class="search-icon">🔍</span>
+            </div>
+            
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-category="all">Todos</button>
+                <button class="filter-btn" data-category="trabajo">Trabajo</button>
+                <button class="filter-btn" data-category="entretenimiento">Entretenimiento</button>
+                <button class="filter-btn" data-category="herramientas">Herramientas</button>
+                <button class="filter-btn" data-category="social">Social</button>
+            </div>
+            
+            <div class="action-buttons">
+                <button class="btn btn-primary" onclick="openAddModal()">
+                    ➕ Agregar Sitio
+                </button>
+            </div>
+        </div>
+
+        <div id="favoritesContainer" class="favorites-grid">
+            <!-- Los favoritos se cargarán aquí dinámicamente -->
+        </div>
+
+        <div id="emptyState" class="empty-state" style="display: none;">
+            <h3>¡Aún no tienes favoritos!</h3>
+            <p>Comienza agregando tus sitios web favoritos usando el botón "Agregar Sitio"</p>
+        </div>
+    </div>
+
+    <!-- Modal para agregar/editar favoritos -->
+    <div id="favoriteModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="modalTitle">Agregar Sitio Favorito</h2>
+                <button class="close-btn" onclick="closeModal()">&times;</button>
+            </div>
+            <form id="favoriteForm">
+                <div class="form-group">
+                    <label for="siteName">Nombre del Sitio</label>
+                    <input type="text" id="siteName" required>
+                </div>
+                <div class="form-group">
+                    <label for="siteUrl">URL</label>
+                    <input type="url" id="siteUrl" required>
+                </div>
+                <div class="form-group">
+                    <label for="siteCategory">Categoría</label>
+                    <select id="siteCategory" required>
+                        <option value="trabajo">Trabajo</option>
+                        <option value="entretenimiento">Entretenimiento</option>
+                        <option value="herramientas">Herramientas</option>
+                        <option value="social">Social</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="siteDescription">Descripción (opcional)</label>
+                    <textarea id="siteDescription" rows="3" placeholder="Describe brevemente este sitio..."></textarea>
+                </div>
+                <div style="display: flex; gap: 10px; justify-content: flex-end;">
+                    <button type="button" class="btn btn-secondary" onclick="closeModal()">Cancelar</button>
+                    <button type="submit" class="btn btn-primary">Guardar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        // Estado de la aplicación
+        let favorites = [];
+        let currentFilter = 'all';
+        let editingIndex = -1;
+
+        // Datos de ejemplo para demostración
+        const sampleData = [
+            {
+                name: "GitHub",
+                url: "https://github.com",
+                category: "trabajo",
+                description: "Plataforma de desarrollo colaborativo para alojar proyectos utilizando Git"
+            },
+            {
+                name: "YouTube",
+                url: "https://youtube.com",
+                category: "entretenimiento",
+                description: "Plataforma de videos más grande del mundo"
+            },
+            {
+                name: "ChatGPT",
+                url: "https://chat.openai.com",
+                category: "herramientas",
+                description: "Asistente de IA para conversaciones y tareas"
+            },
+            {
+                name: "Twitter",
+                url: "https://twitter.com",
+                category: "social",
+                description: "Red social de microblogging"
+            }
+        ];
+
+        // Inicialización
+        document.addEventListener('DOMContentLoaded', function() {
+            loadFavorites();
+            setupEventListeners();
+            renderFavorites();
+        });
+
+        function setupEventListeners() {
+            // Búsqueda
+            document.getElementById('searchInput').addEventListener('input', function(e) {
+                const query = e.target.value.toLowerCase();
+                renderFavorites(query);
+            });
+
+            // Filtros de categoría
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    currentFilter = this.dataset.category;
+                    renderFavorites();
+                });
+            });
+
+            // Formulario
+            document.getElementById('favoriteForm').addEventListener('submit', handleFormSubmit);
+        }
+
+        function loadFavorites() {
+            const stored = JSON.parse(localStorage.getItem('favHGV_favorites') || '[]');
+            favorites = stored.length > 0 ? stored : sampleData;
+            saveFavorites();
+        }
+
+        function saveFavorites() {
+            localStorage.setItem('favHGV_favorites', JSON.stringify(favorites));
+        }
+
+        function renderFavorites(searchQuery = '') {
+            const container = document.getElementById('favoritesContainer');
+            const emptyState = document.getElementById('emptyState');
+            
+            let filteredFavorites = favorites;
+
+            // Filtrar por categoría
+            if (currentFilter !== 'all') {
+                filteredFavorites = filteredFavorites.filter(fav => fav.category === currentFilter);
+            }
+
+            // Filtrar por búsqueda
+            if (searchQuery) {
+                filteredFavorites = filteredFavorites.filter(fav => 
+                    fav.name.toLowerCase().includes(searchQuery) ||
+                    fav.description.toLowerCase().includes(searchQuery) ||
+                    fav.url.toLowerCase().includes(searchQuery)
+                );
+            }
+
+            if (filteredFavorites.length === 0) {
+                container.style.display = 'none';
+                emptyState.style.display = 'block';
+                emptyState.innerHTML = searchQuery ? 
+                    `<h3>No se encontraron resultados</h3><p>Intenta con otros términos de búsqueda</p>` :
+                    `<h3>¡Aún no tienes favoritos!</h3><p>Comienza agregando tus sitios web favoritos</p>`;
+                return;
+            }
+
+            container.style.display = 'grid';
+            emptyState.style.display = 'none';
+
+            container.innerHTML = filteredFavorites.map((favorite, index) => {
+                const originalIndex = favorites.indexOf(favorite);
+                return `
+                    <div class="favorite-card" onclick="openSite('${favorite.url}')">
+                        <div class="card-header">
+                            <div>
+                                <h3 class="card-title">${favorite.name}</h3>
+                                <p class="card-url">${new URL(favorite.url).hostname}</p>
+                            </div>
+                            <span class="card-category category-${favorite.category}">
+                                ${favorite.category.charAt(0).toUpperCase() + favorite.category.slice(1)}
+                            </span>
+                        </div>
+                        <p class="card-description">${favorite.description || 'Sin descripción'}</p>
+                        <div class="card-actions">
+                            <button class="card-btn" onclick="event.stopPropagation(); editFavorite(${originalIndex})">
+                                ✏️ Editar
+                            </button>
+                            <button class="card-btn" onclick="event.stopPropagation(); deleteFavorite(${originalIndex})">
+                                🗑️ Eliminar
+                            </button>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function openSite(url) {
+            window.open(url, '_blank');
+        }
+
+        function openAddModal() {
+            editingIndex = -1;
+            document.getElementById('modalTitle').textContent = 'Agregar Sitio Favorito';
+            document.getElementById('favoriteForm').reset();
+            document.getElementById('favoriteModal').classList.add('active');
+        }
+
+        function editFavorite(index) {
+            editingIndex = index;
+            const favorite = favorites[index];
+            
+            document.getElementById('modalTitle').textContent = 'Editar Sitio Favorito';
+            document.getElementById('siteName').value = favorite.name;
+            document.getElementById('siteUrl').value = favorite.url;
+            document.getElementById('siteCategory').value = favorite.category;
+            document.getElementById('siteDescription').value = favorite.description || '';
+            
+            document.getElementById('favoriteModal').classList.add('active');
+        }
+
+        function deleteFavorite(index) {
+            if (confirm('¿Estás seguro de que quieres eliminar este favorito?')) {
+                favorites.splice(index, 1);
+                saveFavorites();
+                renderFavorites();
+            }
+        }
+
+        function closeModal() {
+            document.getElementById('favoriteModal').classList.remove('active');
+        }
+
+        function handleFormSubmit(e) {
+            e.preventDefault();
+            
+            const formData = {
+                name: document.getElementById('siteName').value,
+                url: document.getElementById('siteUrl').value,
+                category: document.getElementById('siteCategory').value,
+                description: document.getElementById('siteDescription').value
+            };
+
+            if (editingIndex >= 0) {
+                favorites[editingIndex] = formData;
+            } else {
+                favorites.push(formData);
+            }
+
+            saveFavorites();
+            renderFavorites();
+            closeModal();
+        }
+
+        function toggleTheme() {
+            const body = document.body;
+            const themeIcon = document.getElementById('theme-icon');
+            
+            if (body.classList.contains('light-theme')) {
+                body.classList.remove('light-theme');
+                themeIcon.textContent = '🌙';
+                localStorage.setItem('favHGV_theme', 'dark');
+            } else {
+                body.classList.add('light-theme');
+                themeIcon.textContent = '☀️';
+                localStorage.setItem('favHGV_theme', 'light');
+            }
+        }
+
+        // Cargar tema guardado
+        const savedTheme = localStorage.getItem('favHGV_theme');
+        if (savedTheme === 'light') {
+            document.body.classList.add('light-theme');
+            document.getElementById('theme-icon').textContent = '☀️';
+        }
+
+        // Cerrar modal con Escape
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                closeModal();
+            }
+        });
+
+        // Cerrar modal clickeando fuera
+        document.getElementById('favoriteModal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
+    </script>
+</body>
+</html>
