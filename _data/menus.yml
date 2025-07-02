@@ -9,9 +9,6 @@ topmenu:
 
 - title: Contacto
   url: "contact/"
-  
-- title: Fav HGV
-  url: "favoritos/"
 
 # Footer Menu
 footermenu:
