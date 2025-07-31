@@ -46,8 +46,7 @@ Acompañamiento editorial para periodistas institucionales, podcasters o creador
 - [Beca Jóvenes Bicentenario, BID](https://www.hernangarciaval.com/2024/07/25/como-comunicamos-beca-jovenes-bicentenario-bid/)
 - [Servicio nacional de Sanidad Agraria (SENASA)](https://www.hernangarciaval.com/2024/06/14/caso-de-exito-comunicar-crear-valor-en-inocuidad-alimentaria/)
 
-Y otros equipos que apuestan por contar mejor lo que hacen.
-[LinkedIn](https://www.linkedin.com/in/hernangarciavaldeavellano/)
+Y otros equipos que apuestan por contar mejor lo que hacen. Ver más 👉[LinkedIn](https://www.linkedin.com/in/hernangarciavaldeavellano/)
 
 ---
 
