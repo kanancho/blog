@@ -29,12 +29,10 @@
         margin: 0 auto;
         padding: 20px 24px;
         display: flex;
-        justify-content: flex-end;
+        justify-content: flex-end; /* Alinea el menú a la derecha */
         gap: 15px;
         background: #000000;
         border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-        /* LÍNEA DE DIAGNÓSTICO: Si ves un borde verde, el código Jekyll no está cargando el menú */
-        border-top: 2px solid green; 
     }
     .nav-rock a {
         color: var(--white);
@@ -96,9 +94,10 @@
 <body>
   
   <nav class="nav-rock">
-    {% for item in site.data.menus.main %}
-        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-    {% endfor %}
+    <a href="https://www.hernangarciaval.com/">Inicio</a>
+    <a href="https://www.hernangarciaval.com/about/">Sobre mí</a>
+    <a href="https://www.hernangarciaval.com/contact/">Contacto</a>
+    <a href="/toxic/">Mi Rugido</a>
   </nav>
   <div class="container">
     {{ content }}
@@ -108,7 +107,10 @@
   <footer>
     © 2025 Hernán García Valdeavellano · "No vendemos discos, vendemos redención." 
     <div style="margin-top:8px">
-      <a class="icon" href="#">YouTube</a> · <a class="icon" href="#">Instagram</a> · <a class="icon" href="#">Blog</a> · <a class="icon" href="mailto:contacto@toxicoenexceso.example">Contacto</a>
+      <a class="icon" href="https://www.youtube.com/@hernangarciaval" target="_blank">YouTube</a> · 
+      <a class="icon" href="https://www.instagram.com/hernangarciaval/" target="_blank">Instagram</a> · 
+      <a class="icon" href="https://www.hernangarciaval.com/blog/" target="_blank">Blog</a> · 
+      <a class="icon" href="mailto:contacto@toxicoenexceso.example">Contacto</a>
     </div>
   </footer>
 
