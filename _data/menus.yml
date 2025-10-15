@@ -10,6 +10,10 @@ topmenu:
 - title: Contacto
   url: "contact/"
 
+  # ¡AÑADIMOS EL MANIFIESTO DE HARVEY!
+- title: Mi Rugido
+  url: /toxic/
+
 # Footer Menu
 footermenu:
 
@@ -21,3 +25,6 @@ footermenu:
 
 - title: Contacto
   url: "contact/"
+  # ¡AÑADIMOS EL MANIFIESTO DE HARVEY!
+- title: Mi Rugido
+  url: /toxic/
