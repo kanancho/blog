@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700;900&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --bg:#0a0a0a; --muted:#aaaaaa; --white:#f5f5f5; --neon:#00ff88; --accent:#1a1a1a;
+      --maxw:1000px;
+    }
+    *{box-sizing:border-box}
+    /*
+      NOTA: Hemos quitado el body{} del original para que el estilo del body
+      de tu layout principal de Jekyll (que ya tiene la barra de navegación)
+      se mantenga, pero añadiremos un estilo de fondo oscuro para el ambiente rockero.
+    */
+    /* Estilos del layout principal o una alternativa si es necesario */
+    body{
+      margin:0;
+      font-family:Inter,system-ui,Arial;
+      /* Mantenemos el fondo oscuro para el 'mood' */
+      background:linear-gradient(180deg,var(--bg),#070707);
+      color:var(--white);
+      -webkit-font-smoothing:antialiased
+    }
+
+
+    /* ESTILOS ESPECÍFICOS DE LA PÁGINA 'TÓXICO EN EXCESO' */
+    .container{max-width:var(--maxw);margin:40px auto;padding:24px}
+    header{display:flex;align-items:center;gap:18px}
+    .logo{width:84px;height:84px;border-radius:8px;background:linear-gradient(135deg,#111,#222);display:flex;align-items:center;justify-content:center;font-weight:900;font-family:Oswald,Inter;font-size:16px;letter-spacing:1px}
+    h1{font-family:Oswald,Inter;font-size:36px;margin:0}
+    p.lead{color:var(--muted);margin-top:6px}
+    .cta{margin-top:18px}
+    .btn{background:transparent;border:2px solid var(--neon);color:var(--neon);padding:10px 18px;border-radius:8px;font-weight:700;cursor:pointer;text-decoration:none}
+
+    /* Harvey */
+    .harvey{margin-top:36px;padding:22px;background:rgba(255,255,255,0.02);border-left:4px solid rgba(0,255,136,0.12);border-radius:8px}
+    .harvey p{margin:0;font-style:italic;color:var(--white)}
+    .harvey .small{color:var(--muted);margin-top:8px}
+
+    /* Tracks */
+    .tracks{display:grid;grid-template-columns:1fr;gap:12px;margin-top:30px}
+    .track{display:flex;align-items:center;gap:16px;padding:14px;background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);border-radius:8px}
+    .track .meta{flex:1}
+    .track h3{margin:0;font-size:18px}
+    .track p{margin:6px 0;color:var(--muted)}
+    .play{background:var(--neon);color:#000;padding:8px 12px;border-radius:8px;font-weight:700;border:none;cursor:pointer}
+
+    /* Letras */
+    .letras{margin-top:26px;background:linear-gradient(180deg,#080808,#0e0e0e);padding:18px;border-radius:8px}
+    .verso{font-family:Inter;font-size:16px;line-height:1.5;color:var(--white)}
+    .highlight{color:var(--neon);font-weight:700}
+
+    /* About */
+    .about{margin-top:26px;padding:18px;background:rgba(255,255,255,0.01);border-radius:8px}
+
+    footer{margin-top:40px;padding:18px;text-align:center;color:var(--muted);font-size:14px}
+    a.icon{color:var(--muted);text-decoration:none;margin:0 8px}
+
+    /* Responsive */
+    @media (min-width:720px){
+      .tracks{grid-template-columns:1fr}
+      h1{font-size:48px}
+    }
+
+    /* small neon flicker */
+    .neon{text-shadow:0 0 6px rgba(0,255,136,0.12),0 0 20px rgba(0,255,136,0.04)}
+  </style>
+</head>
+<body>
+  <div class="container">
+    {{ content }}
+    </div>
+
+  <footer>
+    © 2025 Hernán García Valdeavellano · "No vendemos discos, vendemos redención." 
+    <div style="margin-top:8px">
+      <a class="icon" href="#">YouTube</a> · <a class="icon" href="#">Instagram</a> · <a class="icon" href="#">Blog</a> · <a class="icon" href="mailto:contacto@toxicoenexceso.example">Contacto</a>
+    </div>
+  </footer>
+
+  <script>
+    // Harvey audio
+    const harveyBtn = document.getElementById('play-harvey');
+    const harveyAudio = document.getElementById('harvey-audio');
+    harveyBtn && harveyBtn.addEventListener('click', ()=>{
+      if(harveyAudio.paused){
+        // Cuidado: Asumimos que harvey-voice.mp3 se subirá a assets/audio/
+        harveyAudio.src = "/assets/audio/harvey-voice.mp3"; // Asegura la ruta correcta
+        harveyAudio.play().catch(()=>alert('Permite la reproducción automática y sube el archivo harvey-voice.mp3.'));
+        harveyBtn.textContent='Parar a Harvey';
+      } else { harveyAudio.pause(); harveyBtn.textContent='Escucha a Harvey' }
+    })
+
+    // Track play buttons -> load YouTube iframe
+    const player = document.getElementById('player');
+    const playerInner = document.getElementById('player-inner');
+    document.querySelectorAll('.play').forEach(btn=>{
+      btn.addEventListener('click', ()=>{
+        const id = btn.getAttribute('data-yt');
+        if(!id || id==='YOUTUBE_VIDEO_ID_7'){alert('Reemplaza data-yt con el ID de YouTube o el video aún no está disponible.');return}
+        // show player with iframe
+        playerInner.innerHTML = `<iframe width="100%" height="315" src="https://www.youtube.com/embed/${id}?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>`;
+        player.style.display='block';
+        window.scrollTo({top:player.offsetTop-20,behavior:'smooth'});
+      })
+    })
+
+    // Hero btn scroll
+    document.getElementById('btn-hero').addEventListener('click', (e)=>{e.preventDefault();document.getElementById('disco').scrollIntoView({behavior:'smooth'})})
+  </script>
+</body>
+</html>
