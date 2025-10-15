@@ -13,22 +13,36 @@
       --maxw:1000px;
     }
     *{box-sizing:border-box}
-    /*
-      NOTA: Hemos quitado el body{} del original para que el estilo del body
-      de tu layout principal de Jekyll (que ya tiene la barra de navegación)
-      se mantenga, pero añadiremos un estilo de fondo oscuro para el ambiente rockero.
-    */
-    /* Estilos del layout principal o una alternativa si es necesario */
+    /* El cuerpo del layout principal ya tiene estilos, pero aseguramos el fondo oscuro */
     body{
       margin:0;
       font-family:Inter,system-ui,Arial;
-      /* Mantenemos el fondo oscuro para el 'mood' */
       background:linear-gradient(180deg,var(--bg),#070707);
       color:var(--white);
       -webkit-font-smoothing:antialiased
     }
-
-
+    
+    /* ESTILOS DE NAVEGACIÓN INTEGRADORAS */
+    .nav-rock {
+        max-width: var(--maxw);
+        margin: 0 auto;
+        padding: 20px 24px;
+        display: flex;
+        justify-content: flex-end;
+        gap: 15px;
+        background: #000000; /* Fondo negro sólido para el nav */
+        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+    .nav-rock a {
+        color: var(--white);
+        text-decoration: none;
+        font-weight: 500;
+        transition: color 0.3s ease;
+    }
+    .nav-rock a:hover {
+        color: var(--neon);
+    }
+    
     /* ESTILOS ESPECÍFICOS DE LA PÁGINA 'TÓXICO EN EXCESO' */
     .container{max-width:var(--maxw);margin:40px auto;padding:24px}
     header{display:flex;align-items:center;gap:18px}
@@ -42,6 +56,9 @@
     .harvey{margin-top:36px;padding:22px;background:rgba(255,255,255,0.02);border-left:4px solid rgba(0,255,136,0.12);border-radius:8px}
     .harvey p{margin:0;font-style:italic;color:var(--white)}
     .harvey .small{color:var(--muted);margin-top:8px}
+    /* Estilo del reproductor de audio general (escondido) */
+    #audio-player-global { display: block; width: 100%; margin-top: 20px; }
+
 
     /* Tracks */
     .tracks{display:grid;grid-template-columns:1fr;gap:12px;margin-top:30px}
@@ -49,7 +66,8 @@
     .track .meta{flex:1}
     .track h3{margin:0;font-size:18px}
     .track p{margin:6px 0;color:var(--muted)}
-    .play{background:var(--neon);color:#000;padding:8px 12px;border-radius:8px;font-weight:700;border:none;cursor:pointer}
+    /* Cambiamos la clase 'play' por 'play-audio' */
+    .play-audio{background:var(--neon);color:#000;padding:8px 12px;border-radius:8px;font-weight:700;border:none;cursor:pointer}
 
     /* Letras */
     .letras{margin-top:26px;background:linear-gradient(180deg,#080808,#0e0e0e);padding:18px;border-radius:8px}
@@ -73,9 +91,17 @@
   </style>
 </head>
 <body>
+  
+  <nav class="nav-rock">
+    {% for item in site.data.menus.main %}
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    {% endfor %}
+  </nav>
+
   <div class="container">
     {{ content }}
-    </div>
+    <audio id="audio-player-global" controls></audio>
+  </div>
 
   <footer>
     © 2025 Hernán García Valdeavellano · "No vendemos discos, vendemos redención." 
@@ -85,34 +111,73 @@
   </footer>
 
   <script>
-    // Harvey audio
+    // Referencias a los elementos globales
     const harveyBtn = document.getElementById('play-harvey');
     const harveyAudio = document.getElementById('harvey-audio');
-    harveyBtn && harveyBtn.addEventListener('click', ()=>{
-      if(harveyAudio.paused){
-        // Cuidado: Asumimos que harvey-voice.mp3 se subirá a assets/audio/
-        harveyAudio.src = "/assets/audio/harvey-voice.mp3"; // Asegura la ruta correcta
-        harveyAudio.play().catch(()=>alert('Permite la reproducción automática y sube el archivo harvey-voice.mp3.'));
-        harveyBtn.textContent='Parar a Harvey';
-      } else { harveyAudio.pause(); harveyBtn.textContent='Escucha a Harvey' }
-    })
+    const globalAudioPlayer = document.getElementById('audio-player-global');
+    
+    // 1. LÓGICA DE LA VOZ DE HARVEY
+    if (harveyBtn && harveyAudio) {
+        harveyBtn.addEventListener('click', () => {
+            // Detiene el reproductor de canciones si está sonando
+            globalAudioPlayer.pause();
+            
+            if (harveyAudio.paused) {
+                // RUTA DE HARVEY
+                harveyAudio.src = "/assets/audio/harvey-voice.mp3"; 
+                harveyAudio.play().catch(() => alert('Error: Sube el archivo harvey-voice.mp3 o permite reproducción automática.'));
+                harveyBtn.textContent = 'Parar a Harvey';
+            } else { 
+                harveyAudio.pause(); 
+                harveyBtn.textContent = 'Escucha a Harvey';
+            }
+        });
+        
+        // Evento para resetear el botón cuando Harvey termina de hablar
+        harveyAudio.addEventListener('ended', () => {
+            harveyBtn.textContent = 'Escucha a Harvey';
+        });
+    }
 
-    // Track play buttons -> load YouTube iframe
-    const player = document.getElementById('player');
-    const playerInner = document.getElementById('player-inner');
-    document.querySelectorAll('.play').forEach(btn=>{
-      btn.addEventListener('click', ()=>{
-        const id = btn.getAttribute('data-yt');
-        if(!id || id==='YOUTUBE_VIDEO_ID_7'){alert('Reemplaza data-yt con el ID de YouTube o el video aún no está disponible.');return}
-        // show player with iframe
-        playerInner.innerHTML = `<iframe width="100%" height="315" src="https://www.youtube.com/embed/${id}?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>`;
-        player.style.display='block';
-        window.scrollTo({top:player.offsetTop-20,behavior:'smooth'});
-      })
-    })
+    // 2. LÓGICA DE REPRODUCCIÓN DE CANCIONES (MP3)
+    document.querySelectorAll('.play-audio').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const trackPath = btn.getAttribute('data-mp3');
+            const trackTitle = btn.getAttribute('data-title');
 
-    // Hero btn scroll
-    document.getElementById('btn-hero').addEventListener('click', (e)=>{e.preventDefault();document.getElementById('disco').scrollIntoView({behavior:'smooth'})})
+            if (!trackPath) {
+                alert('Falta la ruta MP3 (data-mp3) para esta canción.');
+                return;
+            }
+
+            // Detiene a Harvey si está hablando
+            if (harveyAudio && !harveyAudio.paused) {
+                harveyAudio.pause();
+                harveyBtn.textContent = 'Escucha a Harvey';
+            }
+            
+            // Carga la nueva canción
+            globalAudioPlayer.src = trackPath;
+            globalAudioPlayer.play().catch(() => alert(`Error al reproducir ${trackTitle}. Asegúrate de subir el MP3 y permitir la reproducción.`));
+
+            // Actualiza el texto del botón presionado
+            document.querySelectorAll('.play-audio').forEach(b => {
+                b.textContent = 'Escuchar';
+                b.style.backgroundColor = 'var(--neon)';
+            });
+            btn.textContent = '▶️ Sonando...';
+            btn.style.backgroundColor = '#ff0000'; // Color rojo para indicar que está activo
+
+            // Opcional: desplazar para ver el reproductor
+            window.scrollTo({top: globalAudioPlayer.offsetTop - 50, behavior: 'smooth'});
+        });
+    });
+
+    // 3. SCROLL DEL BOTÓN PRINCIPAL
+    document.getElementById('btn-hero') && document.getElementById('btn-hero').addEventListener('click', (e) => {
+        e.preventDefault();
+        document.getElementById('disco').scrollIntoView({behavior:'smooth'});
+    });
   </script>
 </body>
 </html>
