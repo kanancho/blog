@@ -1,5 +1,5 @@
 ---
-layout: toxic  # Llama al layout especializado que definimos
+layout: toxic  # Llama al layout especializado 'toxic.html'
 title: "Tóxico en Exceso — Hernán / Harvey"
 permalink: /toxic/  # URL final: hernangarciaval.com/toxic/
 slogan: "Mi Rugido: Música, Calle y Comunicación"
@@ -130,9 +130,11 @@ slogan: "Mi Rugido: Música, Calle y Comunicación"
         </div>
         
         </div>
-
       </section>
-
+    
+    <audio id="audio-player-global" controls 
+        style="display: block; width: 100%; margin-top: 30px; background: #1a1a1a; border-radius: 8px;">
+    </audio>
     <section class="letras">
       <h3>Letras e infecciones</h3>
       
