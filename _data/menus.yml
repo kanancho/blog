@@ -13,12 +13,12 @@ topmenu:
 - title: Pódcast
   url: "podcast/"
 
-- title: Contacto
-  url: "contact/"
-
   # ¡AÑADIMOS EL MANIFIESTO DE HARVEY!
 - title: Mi Rugido
   url: "toxico/"
+
+- title: Contacto
+  url: "contact/"
 
 # Footer Menu
 footermenu:
