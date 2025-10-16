@@ -35,6 +35,6 @@ Mi trabajo, sea en una política pública o en una canción, parte de la misma c
 
   <div style="margin-top:2em;">
     <a href="{{site.baseurl}}/podcast" class="btn btn-dark text-white px-4 py-2" style="margin-right:1em;">🎧 Escucha mi pódcast</a>
-    <a href="{{site.baseurl}}/toxiconexceso" class="btn btn-outline-dark px-4 py-2">🎸 Conoce mi disco</a>
+    <a href="{{site.baseurl}}/toxico" class="btn btn-outline-dark px-4 py-2">🎸 Conoce mi disco</a>
   </div>
 </div>
