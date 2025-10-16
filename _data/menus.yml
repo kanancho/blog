@@ -6,6 +6,9 @@ topmenu:
 
 - title: Sobre mí
   url: "about/"
+  
+- title: Comunicación
+  url: "comunicacion/"
 
 - title: Contacto
   url: "contact/"
