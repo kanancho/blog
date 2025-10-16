@@ -57,8 +57,15 @@
     .harvey{margin-top:36px;padding:22px;background:rgba(255,255,255,0.02);border-left:4px solid rgba(0,255,136,0.12);border-radius:8px}
     .harvey p{margin:0;font-style:italic;color:var(--white)}
     .harvey .small{color:var(--muted);margin-top:8px}
-    /* Estilo del reproductor de audio general (escondido) */
-    #audio-player-global { display: block; width: 100%; margin-top: 20px; }
+    
+    /* Estilo del reproductor de audio general (visible) */
+    #audio-player-global { 
+        display: block; 
+        width: 100%; 
+        margin-top: 30px; /* Añade espacio después de la lista de canciones */
+        background: var(--accent);
+        border-radius: 8px;
+    }
 
 
     /* Tracks */
@@ -100,16 +107,20 @@
     <a href="/toxic/">Mi Rugido</a>
   </nav>
   <div class="container">
-    {{ content }}
+    {{ content }} 
+    </div>
+  
+  <div class="container">
     <audio id="audio-player-global" controls></audio>
   </div>
-
+  
   <footer>
     © 2025 Hernán García Valdeavellano · "No vendemos discos, vendemos redención." 
     <div style="margin-top:8px">
-      <a class="icon" href="https://www.youtube.com/playlist?list=PLnm3Sz4T5L9oTdfoevIk8C32hdnHjqa3-" target="_blank">YouTube</a> · 
-      <a class="icon" href="https://podcasters.spotify.com/pod/show/porlacausa" target="_blank">Pódcast</a> · 
-      <a class="icon" href="mailto:toxicoenexceso@gmail.com">Contacto</a>
+      <a class="icon" href="https://www.youtube.com/@hernangarciaval" target="_blank">YouTube</a> · 
+      <a class="icon" href="https://www.instagram.com/hernangarciaval/" target="_blank">Instagram</a> · 
+      <a class="icon" href="https://www.hernangarciaval.com/blog/" target="_blank">Blog</a> · 
+      <a class="icon" href="mailto:contacto@toxicoenexceso.example">Contacto</a>
     </div>
   </footer>
 
