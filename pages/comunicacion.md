@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Comunicación Estratégica
+title: Comunicación
 permalink: "/comunicacion/"
 ---
 
