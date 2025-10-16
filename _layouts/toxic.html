@@ -58,15 +58,7 @@
     .harvey p{margin:0;font-style:italic;color:var(--white)}
     .harvey .small{color:var(--muted);margin-top:8px}
     
-    /* Estilo del reproductor de audio general (visible) */
-    #audio-player-global { 
-        display: block; 
-        width: 100%; 
-        margin-top: 30px; /* Añade espacio después de la lista de canciones */
-        background: var(--accent);
-        border-radius: 8px;
-    }
-
+    /* Nota: Esta clase de estilo 'audio-player-global' ya no es usada aquí */
 
     /* Tracks */
     .tracks{display:grid;grid-template-columns:1fr;gap:12px;margin-top:30px}
@@ -110,10 +102,6 @@
     {{ content }} 
     </div>
   
-  <div class="container">
-    <audio id="audio-player-global" controls></audio>
-  </div>
-  
   <footer>
     © 2025 Hernán García Valdeavellano · "No vendemos discos, vendemos redención." 
     <div style="margin-top:8px">
@@ -128,13 +116,14 @@
     // Referencias a los elementos globales
     const harveyBtn = document.getElementById('play-harvey');
     const harveyAudio = document.getElementById('harvey-audio');
-    const globalAudioPlayer = document.getElementById('audio-player-global');
+    // **IMPORTANTE**: La referencia al reproductor global debe mantenerse aquí, aunque el elemento HTML esté en toxic.md
+    const globalAudioPlayer = document.getElementById('audio-player-global'); 
     
     // 1. LÓGICA DE LA VOZ DE HARVEY
     if (harveyBtn && harveyAudio) {
         harveyBtn.addEventListener('click', () => {
             // Detiene el reproductor de canciones si está sonando
-            globalAudioPlayer.pause();
+            if(globalAudioPlayer) globalAudioPlayer.pause();
             
             if (harveyAudio.paused) {
                 // RUTA DE HARVEY
@@ -171,8 +160,14 @@
             }
             
             // Carga la nueva canción
-            globalAudioPlayer.src = trackPath;
-            globalAudioPlayer.play().catch(() => alert(`Error al reproducir ${trackTitle}. Asegúrate de subir el MP3 y permitir la reproducción.`));
+            if (globalAudioPlayer) {
+              globalAudioPlayer.src = trackPath;
+              globalAudioPlayer.play().catch(() => alert(`Error al reproducir ${trackTitle}. Asegúrate de subir el MP3 y permitir la reproducción.`));
+
+              // Opcional: desplazar para ver el reproductor
+              window.scrollTo({top: globalAudioPlayer.offsetTop - 50, behavior: 'smooth'});
+            }
+
 
             // Actualiza el texto del botón presionado
             document.querySelectorAll('.play-audio').forEach(b => {
@@ -182,8 +177,6 @@
             btn.textContent = '▶️ Sonando...';
             btn.style.backgroundColor = '#ff0000'; // Color rojo para indicar que está activo
 
-            // Opcional: desplazar para ver el reproductor
-            window.scrollTo({top: globalAudioPlayer.offsetTop - 50, behavior: 'smooth'});
         });
     });
 
