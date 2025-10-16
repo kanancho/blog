@@ -5,11 +5,59 @@ permalink: "/contact/"
 comments: false
 ---
 
-Hola,
+<div class="container py-5">
+  <div class="row justify-content-center">
+    <div class="col-md-8">
 
-Si le apetece conversar conmigo, me puede <a href="mailto:PorlaCausa@hernangarciaval.com?Subject=Interesado%20en%20tratar%20tema">contactar por correo</a>
-o solicitar una cita
+      <!-- Encabezado -->
+      <div class="text-center mb-5">
+        <h2 class="font-weight-bold serif-font mb-3">Conversemos ideas que amplifiquen tu voz</h2>
+        <p class="lead text-muted">
+          ¿Tienes un proyecto de podcast, buscas difusión o colaboración? Cuéntame tu idea aquí — te responderé en menos de 24 horas.
+        </p>
+      </div>
 
-<!-- Google Calendar Appointment Scheduling begin -->
-<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0xIJu-qTKfAwLhgGTx9huC8QGnR7DzjB8p_c2hTAdghby5kOxrqIwc9Oc3zQ07dpDjb8jj9s2-?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
-<!-- end Google Calendar Appointment Scheduling -->
+      <!-- Formulario de contacto -->
+      <form action="https://formspree.io/f/xxxxx" method="POST">
+        <div class="form-group">
+          <label for="nombre">Nombre*</label>
+          <input type="text" class="form-control" id="nombre" name="nombre" required>
+        </div>
+
+        <div class="form-group">
+          <label for="correo">Correo electrónico*</label>
+          <input type="email" class="form-control" id="correo" name="correo" required>
+        </div>
+
+        <div class="form-group">
+          <label for="tipo">Tipo de solicitud</label>
+          <select class="form-control" id="tipo" name="tipo">
+            <option value="">Elige una opción...</option>
+            <option value="asesoria">Asesoría / Estrategia</option>
+            <option value="colaboracion">Colaboración / Invitación</option>
+            <option value="prensa">Prensa / Medios</option>
+            <option value="otro">Otro</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="mensaje">¿En qué puedo ayudarte?*</label>
+          <textarea class="form-control" id="mensaje" name="mensaje" rows="5" required></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-primary btn-lg mt-3">Enviar mi idea</button>
+        <small class="form-text text-muted mt-2">Prometo responder sin spam.</small>
+      </form>
+
+      <!-- Alternativas de contacto -->
+      <div class="mt-5 text-center">
+        <p class="mb-1">¿Prefieres otro canal?</p>
+        <p>
+          Escríbeme directo a <a href="mailto:PorlaCausa@hernangarciaval.com">PorlaCausa@hernangarciaval.com</a> o sígueme en 
+          <a href="https://www.linkedin.com/in/hernangarciavaldeavellano/" target="_blank">LinkedIn</a>.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</div>
