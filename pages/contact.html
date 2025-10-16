@@ -5,11 +5,10 @@ permalink: "/contact/"
 comments: false
 ---
 
+
 <div class="container py-5">
   <div class="row justify-content-center">
     <div class="col-md-8">
-
-      <!-- Encabezado -->
       <div class="text-center mb-5">
         <h2 class="font-weight-bold serif-font mb-3">Conversemos ideas que amplifiquen tu voz</h2>
         <p class="lead text-muted">
@@ -17,8 +16,13 @@ comments: false
         </p>
       </div>
 
-      <!-- Formulario de contacto -->
-      <form action="https://formspree.io/f/xxxxx" method="POST">
+      <!-- Formulario a Formspree -->
+      <!-- REEMPLAZA action con tu endpoint: https://formspree.io/f/xxxxx -->
+      <form id="formContacto" action="https://formspree.io/f/xdkwyqoe" method="POST" novalidate>
+        <input type="hidden" name="_subject" value="Nuevo mensaje desde web - Contacto">
+        <!-- Honeypot -->
+        <input type="text" name="_gotcha" style="display:none">
+
         <div class="form-group">
           <label for="nombre">Nombre*</label>
           <input type="text" class="form-control" id="nombre" name="nombre" required>
@@ -49,11 +53,16 @@ comments: false
         <small class="form-text text-muted mt-2">Prometo responder sin spam.</small>
       </form>
 
+      <!-- Mensaje de éxito (oculto por defecto) -->
+      <div id="successMessage" class="mt-4 alert alert-success" style="display:none;">
+        ¡Gracias! Tu mensaje fue enviado. Te respondo en menos de 24 horas.
+      </div>
+
       <!-- Alternativas de contacto -->
       <div class="mt-5 text-center">
         <p class="mb-1">¿Prefieres otro canal?</p>
         <p>
-          Escríbeme directo a <a href="mailto:PorlaCausa@hernangarciaval.com">PorlaCausa@hernangarciaval.com</a> o sígueme en 
+          Escríbeme directo a <a href="mailto:porlacausa@hernangarciaval.com">porlacausa@hernangarciaval.com</a> o sígueme en 
           <a href="https://www.linkedin.com/in/hernangarciavaldeavellano/" target="_blank">LinkedIn</a>.
         </p>
       </div>
@@ -61,3 +70,40 @@ comments: false
     </div>
   </div>
 </div>
+
+<script>
+  // Mejora UX: submit asíncrono y mostrar mensaje de éxito sin redirigir
+  (function(){
+    const form = document.getElementById('formContacto');
+    const success = document.getElementById('successMessage');
+
+    form.addEventListener('submit', function(e){
+      e.preventDefault();
+
+      const action = form.action;
+      const data = new FormData(form);
+
+      fetch(action, {
+        method: 'POST',
+        body: data,
+        headers: {
+          'Accept': 'application/json'
+        }
+      })
+      .then(response => {
+        if (response.ok) {
+          form.reset();
+          form.style.display = 'none';
+          success.style.display = 'block';
+        } else {
+          return response.json().then(err => {
+            alert('No se pudo enviar el formulario. Intenta de nuevo o escríbeme a nan@midominio.com');
+          });
+        }
+      })
+      .catch(() => {
+        alert('Error en la conexión. Por favor intenta de nuevo o envía un correo a nan@midominio.com');
+      });
+    });
+  })();
+</script>
