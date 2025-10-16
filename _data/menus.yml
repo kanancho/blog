@@ -10,6 +10,9 @@ topmenu:
 - title: Comunicación
   url: "comunicacion/"
 
+- title: Pódcast
+  url: "podcast/"
+
 - title: Contacto
   url: "contact/"
 
