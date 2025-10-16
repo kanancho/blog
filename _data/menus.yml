@@ -7,10 +7,6 @@ topmenu:
 - title: Sobre mí
   url: "about/"
 
-
-- title: Por la Causa
-    url: "podcast/"
-
 - title: Contacto
   url: "contact/"
 
