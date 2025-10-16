@@ -5,7 +5,7 @@ permalink: "/about/"
 
 ---
 
-T## Hernán García Valdeavellano
+## Hernán García Valdeavellano
 
 Comunico para que las ideas difíciles se vuelvan historias humanas.  
 Soy periodista, estratega narrativo y productor de *Por la Causa*, un pódcast donde busco que la sostenibilidad, la sanidad agraria o la economía circular suenen a vida real, no a informe técnico.
