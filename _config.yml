@@ -1,6 +1,9 @@
-title: "Blogs"
+title: "Hernán García Valdeavellano"
 email: hernan@hernangarciaval.com
 timezone: "America/Peru" 
+description: >-
+  Transformo lo técnico en historias que conectan. 
+  Comunico proyectos públicos, sostenibilidad y rock con una sola voz narrativa.
 baseurl: ""
 permalink: ":year/:month/:day/:title/"
 logo: 'assets/images/logo.png'
