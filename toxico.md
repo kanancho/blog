@@ -1,7 +1,7 @@
 ---
-layout: toxic  # Llama al layout especializado 'toxic.html'
+layout: toxico  # Llama al layout especializado 'toxico.html'
 title: "Tóxico en Exceso — Hernán / Harvey"
-permalink: /toxic/  # URL final: hernangarciaval.com/toxic/
+permalink: /toxico/  # URL final: hernangarciaval.com/toxico/
 slogan: "Mi Rugido: Música, Calle y Comunicación"
 ---
 <div class="container">
