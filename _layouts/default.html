@@ -11,6 +11,26 @@
   
 <title>{{ page.title | default: site.title }} - {{ site.tagline }}</title>
 
+	{% assign description = page.description | default: page.excerpt | default: site.description %}
+<meta name="description" content="{{ description | strip_html | strip_newlines | truncate: 160 }}">
+
+	<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:description" content="{{ description | strip_html | strip_newlines | truncate: 160 }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title | default: site.title }}">
+<meta name="twitter:description" content="{{ description | strip_html | strip_newlines | truncate: 160 }}">
+<meta name="twitter:site" content="@tuusuario"> 
+
+{% assign social_image = page.image | default: site.social_image %}
+{% if social_image %}
+<meta property="og:image" content="{{ social_image | absolute_url }}">
+<meta name="twitter:image" content="{{ social_image | absolute_url }}">
+{% endif %}
+
   {% seo %}
 
   <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
