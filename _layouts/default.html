@@ -9,7 +9,7 @@
   <!-- meta de google search consolde -->
 	<meta name="google-site-verification" content="QvwJ2odHq8BxbssQk7aYK1D3Q1O-9Hl2yq5fgbRT3pw" />
   
-  <title>{{ page.title }}</title>
+<title>{{ page.title | default: site.title }} - {{ site.tagline }}</title>
 
   {% seo %}
 
