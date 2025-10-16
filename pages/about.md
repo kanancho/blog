@@ -1,63 +1,40 @@
 ---
 layout: page
-title: 🎯 Narrativa con Causa
+title: Sobre mí
 permalink: "/about/"
-image: assets/images/presente-hgv.png
----
-
-Transformo temas técnicos, complejos o poco atractivos en contenidos que **informan, emocionan y conectan**.  
-Trabajo con instituciones públicas, equipos de comunicación y creadores que necesitan claridad, humanidad y estrategia narrativa.
 
 ---
 
-## ¿Qué puedo hacer por ti?
+T## Hernán García Valdeavellano
 
-### 🧭 Estrategia Narrativa Pública  
-Ideal para instituciones que quieren posicionar su trabajo ante medios, ciudadanía o tomadores de decisión.
+Comunico para que las ideas difíciles se vuelvan historias humanas.  
+Soy periodista, estratega narrativo y productor de *Por la Causa*, un pódcast donde busco que la sostenibilidad, la sanidad agraria o la economía circular suenen a vida real, no a informe técnico.
 
-- Curaduría de temas
-- Desarrollo de mensajes clave
-- Enfoque comunicacional claro y humano
+Durante más de veinte años he trabajado en proyectos públicos y de cooperación que apuestan por el desarrollo del país: sanidad agraria, propiedad rural, empleabilidad juvenil, primera infancia.  
+Mi papel ha sido siempre el mismo: traducir lo complejo, hacerlo comprensible y movilizar a la gente.
 
----
+Creo en el poder del audio y la narrativa como herramientas para cambiar percepciones.  
+He aprendido que una buena historia no solo informa: **transforma.**
 
-### ✍️ Producción de Contenido Estratégico  
-Desde una nota que impacta hasta un pódcast que educa, traduzco lo técnico en lenguaje ciudadano.
+### 🎧 El otro lado del ruido
+También soy músico y autor de *Tóxico en Exceso*, un disco de rock pesado donde mi amigo imaginario, **Harvey**, toma la palabra.  
+Ahí dejo salir el sarcasmo, la ironía y todo lo que no cabe en los comunicados oficiales.  
+Harvey no pide permiso, pero dice la verdad a su manera.  
+Y, aunque venga del caos, siempre tiene algo que decir sobre el mundo real.
 
-- Redacción y edición
-- Guiones, boletines, cápsulas sonoras
-- Adaptación multicanal
+### 🌍 En resumen
+Mi trabajo, sea en una política pública o en una canción, parte de la misma convicción:  
+**comunicar es darle sentido a lo que otros no alcanzan a ver.**
 
----
+<div style="text-align:center; margin-top:2em;">
+  <img src="{{site.baseurl}}/assets/images/hernan.jpg" alt="Hernán García Valdeavellano" style="border-radius:50%; width:180px; margin-bottom:1em;">
+  
+  <blockquote style="font-style:italic; font-size:1.1em; color:#444; max-width:600px; margin:0 auto;">
+    “Todo lo que comunico —una historia, una campaña o una canción— nace del mismo impulso: hacer que la gente sienta algo real.”
+  </blockquote>
 
-### 🎓 Mentoría para Equipos de Comunicación  
-Acompañamiento editorial para periodistas institucionales, podcasters o creadores que buscan crecer con guía experta.
-
-- Revisión de estilo
-- Consejos prácticos y edición narrativa
-- Apoyo mensual o por proyecto
-
----
-
-## 🌱 ¿Quiénes ya trabajan conmigo?
-
-- [Superintendencia Nacional de Bienes Estatales (SBN)](https://www.hernangarciaval.com/2025/04/20/caso-de-exito-en-comunicacion-publica/)
-- [Ministerio de Economía y Finanzas (MEF)](https://www.hernangarciaval.com/2024/09/09/caso-de-exito-la-guia-inviertepe-para-gobiernos-locales/)
-- [Beca Jóvenes Bicentenario, BID](https://www.hernangarciaval.com/2024/07/25/como-comunicamos-beca-jovenes-bicentenario-bid/)
-- [Servicio nacional de Sanidad Agraria (SENASA)](https://www.hernangarciaval.com/2024/06/14/caso-de-exito-comunicar-crear-valor-en-inocuidad-alimentaria/)
-
-Y otros equipos que apuestan por contar mejor lo que hacen. Ver más 👉[LinkedIn](https://www.linkedin.com/in/hernangarciavaldeavellano/)
-
----
-
-## 🤝 ¿Y si trabajamos juntos?
-
-Estoy construyendo una red de aliados donde **cada uno accede a una parte de mi experiencia**, con resultados reales y sostenibles.  
-Así funciona mi modelo *One-to-Many*: más ágil, más humano, más cercano.
-
-📩 Escríbeme a [hernangarciaval@gmail.com](mailto:hernangarciaval@gmail.com) o al 
- <a href="https://wa.me/+51992730067" class="cta" style="background-color: #25d366;">WhatsApp</a>
-
----
-
-> Porque comunicar bien no es un lujo, es una causa.
+  <div style="margin-top:2em;">
+    <a href="{{site.baseurl}}/podcast" class="btn btn-dark text-white px-4 py-2" style="margin-right:1em;">🎧 Escucha mi pódcast</a>
+    <a href="{{site.baseurl}}/toxiconexceso" class="btn btn-outline-dark px-4 py-2">🎸 Conoce mi disco</a>
+  </div>
+</div>
