@@ -9,10 +9,6 @@ permalink: "/about/"
 
 Comunico para que las ideas difíciles se vuelvan historias humanas.  
 Soy periodista, estratega narrativo y productor de *Por la Causa*, un pódcast donde busco que la sostenibilidad, la sanidad agraria o la economía circular suenen a vida real, no a informe técnico.
-  <div style="margin-top:2em;">
-    <a href="{{site.baseurl}}/podcast" class="btn btn-dark text-white px-4 py-2" style="margin-right:1em;">🎧 Escucha mi pódcast</a>
-    <a href="{{site.baseurl}}/toxico" class="btn btn-outline-dark px-4 py-2">🎸 Conoce mi disco</a>
-  </div>
 
 Durante más de veinte años he trabajado en proyectos públicos y de cooperación que apuestan por el desarrollo del país: sanidad agraria, propiedad rural, empleabilidad juvenil, primera infancia.  
 Mi papel ha sido siempre el mismo: traducir lo complejo, hacerlo comprensible y movilizar a la gente.
