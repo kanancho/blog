@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Caso dee éxito: Las dueñas del Colca"
+title:  "Caso de éxito: Las dueñas del Colca"
 author: hernan
 categories: [ Consultoría ]
 tags: [ estrategia, comunicación pública, cofopri, mujer, propiedad]
