@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un Jedi y el Shantinator de mi lado"
+title: "Dibujando a los peques con tecnología"
 author: hernan
 categories: [ Skills ]
 tags: [ creatividad, habilidades, familia, diseño ]
