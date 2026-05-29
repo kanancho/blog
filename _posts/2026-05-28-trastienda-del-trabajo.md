@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La trastienda de una forma de trabajar"
+title:  "Todo a la vez, en todas partes"
 author: hernan
 categories: [ Narrativa ]
 tags: [ comunciacion estrategica, periodismo, infraestructura, digital, soberania, tecnologica ]
