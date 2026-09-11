@@ -5,8 +5,6 @@ title: Comunicación
 permalink: "/comunicacion/"
 ---------------------------
 
-# Comunicación
-
 ## Construyo puentes de comprensión.
 
 Hay instituciones que saben lo que necesitan decir, pero no consiguen que la gente lo entienda.
@@ -33,72 +31,41 @@ Empiezo preguntando:
 
 Entre la información técnica y esa comprensión construyo el puente.
 
----
+### Casos
 
-## Casos
+* **[Caso de éxito en comunicación pública](https://www.hernangarciaval.com/2025/04/20/caso-de-exito-en-comunicacion-publica/)**
+  Cómo una narrativa bien diseñada puede cambiar la percepción sobre la gestión estatal y convertir resultados técnicos en historias que interesan.
 
-### Cuando un tema técnico se convierte en noticia
+* **SENASA · Comunicación y sanidad agraria**
+  Comunicación de riesgos y vocería técnica durante el Fenómeno El Niño 2016, además de contenidos sobre sanidad agraria e inocuidad alimentaria.
 
-He trabajado para hacer visibles temas que podían pasar inadvertidos: sanidad agraria, seguridad alimentaria, propiedad informal, inversión pública, desarrollo y políticas públicas.
+* **[Guía Invierte.pe para gobiernos locales](https://www.hernangarciaval.com/2024/09/09/caso-de-exito-la-guia-inviertepe-para-gobiernos-locales/)**
+  Cómo convertir una herramienta técnica de más de 300 páginas en un recurso comprensible y útil para los gobiernos locales.
 
-Algunos proyectos:
+* **[Beca Jóvenes Bicentenario (BID)](https://www.hernangarciaval.com/2024/07/25/como-comunicamos-beca-jovenes-bicentenario-bid/)**
+  Estrategia de comunicación para acercar una oportunidad de capacitación y empleabilidad a jóvenes de todo el país.
 
-**Caso de éxito en comunicación pública**
-Una estrategia narrativa para cambiar la percepción sobre una gestión estatal y convertir resultados técnicos en historias que interesaran a los medios.
+* **[Historias que alimentan](https://www.hernangarciaval.com/2024/10/09/historias-que-alimentan-articulos-seguridad-alimentaria/)**
+  Artículos y reportajes sobre seguridad alimentaria, inocuidad y sostenibilidad.
 
-[Ver el caso →](https://www.hernangarciaval.com/2025/04/20/caso-de-exito-en-comunicacion-publica/)
+### Cómo trabajo
 
-**SENASA · Comunicación y sanidad agraria**
-Comunicación de riesgos y vocería técnica durante el Fenómeno El Niño 2016, además de contenidos sobre sanidad agraria y seguridad alimentaria.
-
-**Invierte.pe · MEF**
-Una herramienta técnica de más de 300 páginas convertida en un recurso comprensible y útil para gobiernos locales.
-
-[Ver el caso →](https://www.hernangarciaval.com/2024/09/09/caso-de-exito-la-guia-inviertepe-para-gobiernos-locales/)
-
-**Beca Jóvenes Bicentenario · BID**
-Comunicación de una oportunidad de formación y empleabilidad dirigida a jóvenes de todo el país.
-
-[Ver el caso →](https://www.hernangarciaval.com/2024/07/25/como-comunicamos-beca-jovenes-bicentenario-bid/)
-
-**Historias que alimentan**
-Artículos y reportajes para acercar temas de seguridad alimentaria y sostenibilidad a una audiencia más amplia.
-
-[Ver el proyecto →](https://www.hernangarciaval.com/2024/10/09/historias-que-alimentan-articulos-seguridad-alimentaria/)
-
----
-
-## Cómo trabajo
-
-No se trata solamente de producir contenidos.
-
-Se trata de encontrar **qué hay que hacer comprensible** y construir la mejor forma de hacerlo.
-
-### 01 · Entender
-
+**01 · Entender**
 Investigo el tema, el contexto, la institución y, sobre todo, a quién necesitamos llegar.
 
-### 02 · Encontrar el puente
+**02 · Encontrar el puente**
+Identifico qué conecta el conocimiento técnico con las preocupaciones, intereses o necesidades reales de las personas.
 
-Identifico aquello que conecta el conocimiento técnico con una preocupación, interés o necesidad real de las personas.
-
-### 03 · Construir la historia
-
+**03 · Construir la historia**
 Convierto información, datos y resultados en una narrativa clara, humana y relevante.
 
-### 04 · Llevarla a la calle
+**04 · Llevarla a la calle**
+La transformo en prensa, contenidos digitales, piezas audiovisuales, vocería, campañas y otras herramientas de comunicación.
 
-La historia puede convertirse en prensa, contenidos digitales, piezas audiovisuales, vocería, campañas o herramientas de comunicación.
+**05 · Medir qué pasó**
+La comunicación funciona cuando produce comprensión, interés, confianza o acción.
 
-### 05 · Medir qué pasó
-
-Una comunicación efectiva no termina cuando se publica.
-
-Termina cuando conseguimos comprensión, interés, confianza o acción.
-
----
-
-## Qué puedo hacer por tu proyecto
+### Qué puedo hacer por tu proyecto
 
 * Estrategia de comunicación
 * Comunicación institucional y pública
@@ -109,19 +76,17 @@ Termina cuando conseguimos comprensión, interés, confianza o acción.
 * Asesoría de vocería y manejo de medios
 * Desarrollo de campañas y herramientas de comunicación
 
----
+### Experiencia
 
-## Experiencia
+He sido **vocero técnico y de comunicación del SENASA** durante el Fenómeno El Niño 2016, ayudando a comunicar riesgos y fortalecer la confianza institucional.
 
-He sido vocero técnico y de comunicación del **SENASA** durante el Fenómeno El Niño 2016.
+En el **Congreso de la República**, trabajé en comunicación y sensibilización sobre la Ley de Personas con Discapacidad, promoviendo la inclusión laboral y la accesibilidad.
 
-En el **Congreso de la República**, trabajé en sensibilización de autoridades sobre la Ley de Personas con Discapacidad y en temas de inclusión laboral y accesibilidad.
+Y en mis inicios, como **editor y productor de noticias en CPN Radio**, aprendí a condensar lo esencial, titular con precisión y entender el pulso del día.
 
-Y antes de todo eso, como editor y productor de noticias en **CPN Radio**, aprendí algo que todavía guía mi trabajo:
+En todos esos trabajos encontré el mismo principio:
 
 **cuando tienes poco tiempo para explicar algo, tienes que saber exactamente qué importa.**
-
----
 
 ## Una buena causa necesita ser entendida
 
