@@ -1,5 +1,4 @@
 ---
-
 layout: page
 title: Comunicación
 permalink: "/comunicacion/"
