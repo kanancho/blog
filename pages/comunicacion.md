@@ -1,7 +1,7 @@
 ---
-layout: page 
-title: Comunicación
-permalink: "/comunicacion/" 
+layout: page
+title: Comunicación 
+permalink: "/comunicacion/"
 ---
 
 ## Construyo puentes de comprensión.
