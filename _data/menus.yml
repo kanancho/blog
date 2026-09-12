@@ -13,10 +13,6 @@ topmenu:
 - title: Pódcast
   url: "podcast/"
 
-  # ¡AÑADIMOS EL MANIFIESTO DE HARVEY!
-- title: Mi Rugido
-  url: "toxico/"
-
 - title: Contacto
   url: "contact/"
 
