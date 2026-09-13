@@ -7,72 +7,116 @@ tags: [ Estrategia-comunicación, inocuidad, narrativa pública ]
 image: assets/thumbnails/22-comunicacion-senasa-hernan.jpg
 ---
 
-## 🧩 ¿Cómo comunicar algo que a nadie parece importarle?
+## Cómo comunicar un riesgo que no se ve
 
-Una década de mi vida estuvo dedicada a diseñar y ejecutar estrategias de comunicación en el Servicio Nacional de Sanidad Agraria (Senasa), con un objetivo claro: **hacer visible la importancia de la inocuidad y la sanidad alimentaria en la vida cotidiana de las personas**.
+Durante una década trabajé en comunicación vinculada a la sanidad agraria y la inocuidad alimentaria en el Servicio Nacional de Sanidad Agraria (Senasa).
 
-No fue fácil.  
-En los mercados, ver a alguien comprando verduras tiradas en el piso sigue siendo común. ¿Cómo esperar que entiendan las restricciones al traslado de frutas o las campañas contra plagas invisibles?
+El desafío era particular.
 
----
+Las plagas no siempre se ven. Las bacterias tampoco. Una restricción sanitaria puede parecer una molestia y una medida de prevención puede sentirse innecesaria.
 
-## 🚨 Del tecnicismo a la urgencia ciudadana
+Pero sus consecuencias pueden llegar hasta algo tan cotidiano como lo que ponemos en nuestra mesa.
 
-Mi ingreso fue a través de una consultoría en 2010 para desarrollar un plan de comunicación por cuarentena vegetal ante la mosca de la fruta.  
-Poco después, asumí la comunicación institucional como parte de la Secretaría Técnica durante más de 8 años.  
-
-Y ahí comenzó el verdadero reto: **darle voz pública a un tema sin titulares, sin emociones obvias, sin conflicto… pero profundamente importante.**
+La comunicación tenía que conseguir que esa conexión pudiera entenderse.
 
 ---
 
-## ⚙️ Estrategias que conectan
+Del lenguaje técnico a la vida cotidiana
 
-Lo primero fue **alinear los temas técnicos a la coyuntura y al interés ciudadano**. Desde ahí, surgieron campañas como:
+Mi relación con Senasa comenzó en 2010, con una consultoría para desarrollar un plan de comunicación frente a la cuarentena vegetal por la mosca de la fruta.
 
-- **Monstruos de la Sanidad** (Halloween), para que los niños aprendieran sobre plagas agrícolas.
-- **No lo toques**, contra el **Caracol Gigante Africano**, con alcance nacional y eco en medios como Magaly TV, incluso con un rap viral.  
+Poco después asumí responsabilidades de comunicación institucional durante más de ocho años.
+
+El trabajo partía de una pregunta sencilla:
+
+¿Cómo hacemos que un tema técnico le importe a alguien que no trabaja en sanidad agraria?
+
+La respuesta no consistía en simplificar la información hasta perder rigor.
+
+Consistía en encontrar la historia que permitiera entender por qué esa información importaba.
+
+---
+
+Encontrar la puerta de entrada
+
+Una de las estrategias fue conectar los temas técnicos con situaciones, lenguajes y momentos que ya formaban parte de la vida cotidiana.
+
+De ahí surgieron campañas como:
+
+- Monstruos de la Sanidad, que aprovechó Halloween para acercar a los niños al conocimiento sobre plagas agrícolas.
+
+- No lo toques, campaña de prevención frente al Caracol Gigante Africano, que convirtió una amenaza sanitaria poco conocida en un mensaje sencillo y reconocible.
+  
   <div class="video-responsive">
-  <iframe src="https://www.youtube.com/embed/zsOctRYcTWI" alt="No toques al caracol gigante africano" frameborder="0" allowfullscreen></iframe>
-  </div>
-- **Únete a la Fuerza**, para evitar el traslado de frutas en viajes.
-- **Unidos contra el Dragón Amarillo**, una campaña en frontera norte, articulada con el sector privado (Procitrus).  
+<iframe src="https://www.youtube.com/embed/zsOctRYcTWI" alt="No toques al caracol gigante africano" frameborder="0" allowfullscreen></iframe>
+</div>
+
+- Únete a la Fuerza, para explicar por qué no debían trasladarse determinadas frutas durante los viajes.
+
+- Unidos contra el Dragón Amarillo, campaña desarrollada en la frontera norte para comunicar los riesgos de una plaga que amenazaba a los cítricos.
+  
   <div class="video-responsive">
-  <iframe src="https://www.youtube.com/embed/hfVe6BkYUB0" alt="Contra la plaga Dragón amarillo o HLB" frameborder="0" allowfullscreen></iframe>
-  </div>
+<iframe src="https://www.youtube.com/embed/hfVe6BkYUB0" alt="Contra la plaga Dragón amarillo o HLB" frameborder="0" allowfullscreen></iframe>
+</div>
+
+En todos los casos había un principio común:
+
+el mensaje técnico necesitaba encontrar una forma de entrar en la conversación cotidiana.
 
 ---
 
-## 🗣 Comunicación de emergencia… y de oportunidad
+Cuando la comunicación también es prevención
 
-La campaña por la **roya del café** —una plaga que avanzaba por América— permitió activar un plan comunicacional que **evitó protestas violentas** como ocurrió en otros países.
+La comunicación adquiría otra dimensión cuando aparecía una emergencia.
 
-Y cuando llegó el **Fenómeno El Niño Costero (2016)**, asumí el rol de **vocero técnico y comunicacional**, explicando las acciones de Senasa con claridad y serenidad frente a los medios.
+Durante la crisis provocada por la roya del café, trabajamos una estrategia de comunicación para explicar el problema y las medidas adoptadas frente al avance de la enfermedad.
 
-También lideré acciones institucionales como los eventos por los **25 años del Senasa**, incluyendo el acto internacional realizado en el Centro de Convenciones de Lima.  
+Y durante el Fenómeno El Niño Costero de 2016 asumí también funciones como vocero técnico y comunicacional de Senasa ante los medios.
+
+En situaciones así, comunicar no consiste solamente en informar.
+
+También significa reducir incertidumbre, explicar qué está ocurriendo y ayudar a que las personas entiendan qué deben hacer.
+
+---
+
+La oportunidad también está en lo cotidiano
+
+No todos los temas necesitaban una emergencia para generar atención.
+
+Trabajamos también contenidos vinculados con campañas sanitarias, prevención de plagas y actividades institucionales, buscando que la información técnica pudiera encontrar una razón para interesar a los medios y a la ciudadanía.
+
+Entre ellas estuvieron las actividades por los 25 años de Senasa, incluido el acto internacional realizado en el Centro de Convenciones de Lima.
+
 <img src="{{site.baseurl}}/assets/thumbnails/19-25-senasa-aniversario-hernan-gino.jpg" class="garnish rounded float-left"/>  
 {:.image-caption}  
-*Foto de aniversario. Con Gino de la Torre como organizador del evento.*
+*Actividad por el aniversario de Senasa.*---
+
+Lo que este trabajo me enseñó
+
+Trabajar durante tantos años con temas técnicos confirmó algo que hoy forma parte de mi manera de entender la comunicación:
+
+la información no basta.
+
+Una institución puede tener conocimiento, especialistas y datos importantes.
+
+Pero si todo eso permanece encerrado en su propio lenguaje, difícilmente llegará a las personas que necesitan comprenderlo.
+
+El trabajo de comunicación empieza cuando buscamos la conexión:
+
+¿Qué significa esto para alguien que está al otro lado?
+
+Ahí es donde un tema técnico puede convertirse en una historia.
+
+Y una historia puede hacer visible aquello que antes parecía invisible.
 
 ---
 
-## 📈 Lo que logramos
+El principio
 
-- Llevamos a la agenda pública temas invisibles.  
-- Convertimos amenazas técnicas en historias ciudadanas.  
-- Ganamos presencia en medios con creatividad, consistencia y estrategia.  
-- Posicionamos a Senasa como autoridad confiable ante la ciudadanía.
+La inocuidad alimentaria importa incluso cuando no pensamos en ella.
 
----
+Una plaga que no conocemos puede afectar una cosecha.
+Una enfermedad puede alterar la producción.
+Una medida sanitaria puede proteger aquello que termina en nuestra mesa.
 
-## 🧠 Conclusión
-
-**La inocuidad alimentaria no emociona… hasta que te afecta.**  
-Y ahí es donde debe estar la comunicación estratégica: **antes de que sea tarde.**
-
-Si tienes una institución técnica que necesita conectar con personas reales, **sí se puede.**
-
-> La clave está en contar lo que parece invisible.  
-> Y hacerlo con intención.
-
-¿Quieres diseñar una campaña así? Escríbeme a [hernangarciaval@gmail.com](mailto:hernangarciaval@gmail.com)  
-o visita [www.hernangarciaval.com](https://www.hernangarciaval.com)
+La comunicación estratégica consiste, muchas veces, en hacer visible esa conexión antes de que el problema llegue a nosotros.
