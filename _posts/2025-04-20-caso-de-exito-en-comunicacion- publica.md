@@ -7,59 +7,73 @@ tags: [ Estrategia, Contenido, Gestión de medios]
 image: assets/thumbnails/25-terrenos-comunicar.jpg
 ---
 
-## Cómo logramos que los medios hablen de terrenos del Estado (y por qué eso importa)
+## Cómo convertir un tema técnico en una historia de interés público
 
-Durante mucho tiempo, los temas relacionados con los terrenos del Estado fueron percibidos como lejanos, técnicos y con poco atractivo periodístico.  
-Pero entre abril de 2024 y abril de 2025, eso ha tenido un cambio.
+Durante mucho tiempo, los temas relacionados con los terrenos del Estado fueron percibidos como lejanos, técnicos y con poco atractivo periodístico.
 
-Este es el resumen de una estrategia que desarrollé como consultor en la Superintendencia Nacional de Bienes Estatales (SBN), y que convirtió contenido técnico en **más de 250 publicaciones en medios**.
+Entre abril de 2024 y abril de 2025, eso cambió.
 
----
-
-## 🎯 El Desafío
-
-La SBN gestiona y recupera terrenos del Estado para proyectos clave: escuelas, hospitales, mercados, etc.  
-Pero este trabajo pocas veces llegaba a los medios ni a la ciudadanía. Era una historia importante… que no se estaba contando.
+Este es el resumen de una estrategia que desarrollé como consultor para la Superintendencia Nacional de Bienes Estatales (SBN), y que convirtió información técnica en más de 250 publicaciones en medios.
 
 ---
 
-## 🧠 La Estrategia
+El desafío
 
-**Enfoque periodístico**: cada nota fue escrita como noticia, no como trámite institucional.  
-**Ritmo constante**: mantuvimos presencia activa en medios durante todo el año.  
-**Narrativa clara**: conectamos cada acción con su impacto en la vida cotidiana.
+La SBN gestiona y recupera terrenos del Estado para proyectos como escuelas, hospitales y mercados.
 
----
+El problema era que ese trabajo pocas veces llegaba a los medios o a la ciudadanía.
 
-## 📈 Los Resultados
-
-- **37 notas de prensa** emitidas en un año.  
-- **+250 publicaciones en medios** (prensa, radio, TV, digitales y redes).  
-- Algunas notas fueron replicadas **en hasta 18 medios distintos**.  
-- Temas como subastas, recuperación de predios y nuevas herramientas digitales llegaron a la agenda nacional.
+Había historias importantes, pero no se estaban contando de una manera que despertara interés.
 
 ---
 
-## ✅ ¿Por qué funcionó?
+La estrategia
 
-Porque contamos historias con intención.  
-Porque priorizamos el interés público.  
-Y porque entendimos que **la comunicación estratégica no es un complemento… es parte de la gestión.**
+Enfoque periodístico.
+Cada contenido fue trabajado como una noticia, no como un trámite institucional.
+
+Ritmo constante.
+Mantuvimos una presencia activa en medios durante todo el año.
+
+Narrativa clara.
+Conectamos cada acción con aquello que podía significar para la ciudadanía.
+
+La clave fue dejar de comunicar solamente lo que hacía la institución y empezar a preguntarnos por qué debería importarle a alguien.
 
 ---
 
-## 🧩 Conclusiones
+Los resultados
 
-- **Sí se puede comunicar lo técnico con impacto.**  
-- La constancia genera reputación.  
-- Una nota de prensa bien escrita puede cambiar la percepción de toda una institución.
+- 37 notas de prensa emitidas en un año.
+- Más de 250 publicaciones en medios: prensa, radio, televisión, medios digitales y redes.
+- Algunas notas fueron replicadas en hasta 18 medios distintos.
+- Temas como subastas, recuperación de predios y nuevas herramientas digitales llegaron a medios de alcance nacional.
 
 ---
 
-## 📌 ¿Tú también enfrentas el reto de contar lo que haces?
+¿Por qué funcionó?
 
-Si tu organización trabaja temas complejos o de bajo perfil mediático, recuerda esto:  
-> Lo que no se comunica, no existe. Y lo que se comunica bien, se valora.
+Porque el objetivo no era simplemente generar publicaciones.
 
-¿Te interesa diseñar una estrategia así? Escríbeme en [prensa@hernangarciaval.com](mailto:prensa@hernangarciaval.com)  
-o Ver [Cómo puedo ayudarte](https://www.hernangarciaval.com/about/)
+Era encontrar, dentro de información técnica, aquello que podía convertirse en una historia comprensible y relevante para otras personas.
+
+La comunicación estratégica empieza ahí: cuando lo que una institución necesita comunicar encuentra una razón para importarle a alguien.
+
+---
+
+Lo que deja este caso
+
+Los temas complejos también pueden generar interés.
+
+Pero necesitan algo más que información:
+
+- Una historia que pueda entenderse.
+- Un impacto que pueda reconocerse.
+- Una razón para que los medios quieran contarla.
+- Y una estrategia capaz de sostener el mensaje en el tiempo.
+
+Una buena causa puede tener toda la información del mundo. Si nadie la entiende, difícilmente conseguirá atención.
+
+---
+
+Caso desarrollado durante mi trabajo como consultor para la Superintendencia Nacional de Bienes Estatales (SBN), entre abril de 2024 y abril de 2025.
