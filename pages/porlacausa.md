@@ -4,68 +4,78 @@ title: Por la Causa
 permalink: "/porlacausa/"
 ---
 
-## 🎙️ Por la Causa: historias para entender lo que importa
+Porque lo que no entendemos, difícilmente lo podemos defender.
 
-**Por la Causa** es mi espacio de conversación y periodismo en audio sobre las cosas que afectan nuestra vida y que necesitamos entender.
+Hay cosas que afectan nuestra vida todos los días y, sin embargo, pocas veces nos detenemos a entender cómo funcionan.
 
-Nació alrededor de la alimentación, pero con el tiempo descubrí que el problema era más amplio: hay temas complejos —de salud, ciencia, ambiente, tecnología, política o sociedad— que terminan afectándonos sin que necesariamente comprendamos cómo funcionan.
+Una decisión política.
+Una alerta sanitaria.
+Lo que ponemos en nuestro plato.
+Una nueva tecnología.
+Una enfermedad.
+Un problema ambiental.
+Una institución que toma decisiones que terminan afectándonos.
 
-Ahí está el origen de *Por la Causa*.
+Por la Causa es mi espacio editorial para hablar de esas cosas.
 
-**Porque lo que no entendemos, difícilmente lo podemos defender.**
+Nació como un podcast sobre alimentación y salud, pero fue creciendo hasta convertirse en algo más amplio: un lugar para contar, analizar y opinar sobre aquello que importa y que muchas veces resulta difícil de entender.
 
-Mi interés nació en casa.  
-Cuando mi primer hijo empezó a desarrollar alergias por alimentos procesados —como el hot dog—, comprendí que lo que comemos no es un tema menor. Más adelante, desde mi trabajo en el **Servicio Nacional de Sanidad Agraria (SENASA)**, descubrí el otro lado del plato: la producción, las buenas prácticas agrícolas y el enorme esfuerzo que implica llevar un alimento inocuo y de calidad hasta nuestras manos.
+La idea es sencilla:
 
-Pero también descubrí algo que se repite en muchos otros ámbitos: existe conocimiento valioso, pero muchas veces está encerrado en documentos, términos técnicos o instituciones que no consiguen hacerlo comprensible para la gente.
+partir de una historia, un hecho o una pregunta; mirar qué hay detrás y explicar por qué debería importarnos.
 
-Por eso *Por la Causa* busca hacer ese recorrido.
+No para acumular información.
 
-Cada episodio parte de una historia, un hecho o una pregunta para explicar qué hay detrás y por qué debería importarnos.
+Para comprender.
 
-Alimentación, salud, ciencia, ambiente, tecnología, instituciones o sociedad pueden ser el punto de partida.
-
-El propósito es uno:
-
-**convertir información compleja en comprensión.**
-
----
-
-### 🎧 Mi historia con el sonido
-
-Mi vínculo con el audio no nació en la radio: nació en la música.  
-De adolescente tuve una banda de rock llamada **Ladrón de Amor**, donde descubrí que el sonido podía mover emociones, despertar memorias y decir lo que las palabras solas no alcanzaban.
-
-A fines de los noventa, cuando el mundo análogo comenzaba a transformarse en digital, llegué a **CPN Radio**. Allí fui **editor y productor periodístico**, en una época en que la inmediatez empezaba a convivir con la profundidad.
-
-Más allá de mis responsabilidades con noticieros y programas informativos, produje **informes e historias radiales** para explicar temas difíciles o hacer sentir al oyente lo que viven otras personas, ya fueran historias duras o esperanzadoras.
-
-Ese fue mi aprendizaje más grande: **la voz puede ser una herramienta de comprensión y empatía.**
-
-Hoy, esa convicción acompaña a *Por la Causa*.
+Porque entender algo cambia la manera en que lo miramos. Y también la manera en que podemos defenderlo.
 
 ---
 
-### 🤝 Parte de una comunidad
+🎙️ El podcast
 
-*Por la Causa* forma parte de la **Asociación Peruana de Podcasters (APEPO)**, un colectivo que impulsa el desarrollo del podcasting en el país y promueve la creación de contenidos con propósito.
+Por la Causa comenzó como un podcast de historias sobre alimentación, salud e inocuidad.
 
-Desde APEPO, comparto la convicción de que el audio puede **educar, emocionar y movilizar**.
+Hoy esos episodios forman parte de este archivo y siguen siendo una parte importante de la historia del proyecto.
 
-Escúchalo en:  
-👉 [Spotify](https://podcasters.spotify.com/pod/show/porlacausa)
-👉 [YouTube](https://www.youtube.com/@PorlaCausaPodcast)
+Más de 60 episodios y una nueva etapa que continúa creciendo.
+
+"Escuchar el podcast en Spotify" (https://podcasters.spotify.com/pod/show/porlacausa)
+
+"Ver Por la Causa en YouTube" (https://www.youtube.com/@PorlaCausaPodcast)
 
 ---
 
-## 🚀 Súmate a la causa
+✍️ El espacio editorial
 
-Si trabajas en sostenibilidad, agricultura, nutrición, ciencia, comunicación o en una causa que necesita ser comprendida,  
-📩 escríbeme a **porlacausa@hernangarciaval.com** o contáctame por [LinkedIn](https://www.linkedin.com/in/hernangarciaval).
+Pero Por la Causa ya no es solamente audio.
 
-> Lo que no entendemos, difícilmente lo podemos defender.  
-> **Contarlo bien, también.**
+Aquí también encontrarás opinión, análisis, historias y reflexiones sobre temas que atraviesan nuestra vida cotidiana.
 
+Alimentación, salud, ciencia, ambiente, tecnología, instituciones, política pública o sociedad pueden ser el punto de partida.
 
+Lo que los une no es el tema.
 
-Cada historia busca una cosa: ayudarnos a entender lo que importa.
+Es la pregunta:
+
+¿Podemos entender realmente aquello que nos afecta?
+
+---
+
+Una misma mirada
+
+Mi trabajo durante años ha consistido en acercar información compleja a personas que necesitan comprenderla.
+
+Por la Causa nace de esa misma convicción, pero desde una voz más personal y editorial.
+
+No pretende tener todas las respuestas.
+
+Pretende hacer mejores preguntas, buscar lo que hay detrás de los hechos y contarlo de una manera que podamos entender.
+
+Porque la información puede llenar una página. La comprensión puede cambiar lo que hacemos con ella.
+
+---
+
+«Lo que no entendemos, difícilmente lo podemos defender.
+
+Contarlo bien también es una forma de defenderlo.»
