@@ -9,58 +9,75 @@ beforetoc: "Más de 300 páginas técnicas pueden convertirse en una herramienta
 toc: true
 ---
 
-Las guías técnicas del Estado son fundamentales para que los gobiernos locales y regionales puedan ejecutar sus funciones.  
-Pero muchas veces, no están escritas para quienes las necesitan leer.
+## Cómo convertir una guía técnica en una herramienta que se pueda usar
 
-Eso fue lo que ocurrió con la **Guía del Sistema Nacional de Programación Multianual y Gestión de Inversiones – Invierte.pe**, del Ministerio de Economía y Finanzas (MEF).  
-Y eso fue lo que trabajamos para cambiar.
+Las guías técnicas del Estado son fundamentales para que los gobiernos locales y regionales puedan ejecutar sus funciones.
 
----
+El problema es que muchas veces están escritas para quienes conocen la materia, no necesariamente para quienes necesitan utilizarlas.
 
-## 🎯 El reto
+Eso ocurrió con la Guía del Sistema Nacional de Programación Multianual y Gestión de Inversiones – Invierte.pe, del Ministerio de Economía y Finanzas (MEF).
 
-Más de **300 páginas técnicas** escritas por expertos…  
-pero difíciles de entender para los equipos técnicos de gobiernos locales que debían usarlas.
-
-El reto no era solo corregir estilo. El reto era **traducir una herramienta compleja en algo que realmente funcionara**.
+Y ahí estaba el desafío: no se trataba simplemente de mejorar un documento. Había que conseguir que una herramienta de más de 300 páginas pudiera ser comprendida y utilizada por sus destinatarios.
 
 ---
 
-## 🛠 La intervención
+El reto
 
-Como parte del equipo de comunicaciones del MEF, lideré el proceso de revisión y mejora del estilo de esta guía clave.  
-Mi enfoque no fue simplemente editorial, fue estratégico:
+Más de 300 páginas técnicas, elaboradas por especialistas, debían servir como referencia para equipos técnicos de gobiernos locales y regionales.
 
-- **Claridad narrativa**: reescritura de párrafos extensos en bloques más digeribles.  
-- **Lenguaje funcional**: menos jerga, más acción.  
-- **Organización visual**: mejor estructura, subtítulos útiles, ejemplos aplicables.  
-- **Pensado para el usuario**: validación con usuarios reales del documento.
+El problema no era la falta de información.
 
----
+Era la distancia entre esa información y quien tenía que convertirla en una acción.
 
-## 📈 El resultado
-
-- La nueva versión de la guía fue mejor recibida por **servidores públicos de gobiernos regionales y locales**.  
-- **Se entendía mejor, se usaba más, y ayudaba a ejecutar proyectos públicos.**  
-- El MEF fortaleció su imagen como un ente técnico que piensa en quienes ejecutan políticas públicas, no solo en quienes las diseñan.
+El reto, entonces, era hacer comprensible lo complejo sin perder el rigor técnico.
 
 ---
 
-## 🔍 Lo que aprendimos
+La intervención
 
-- La narrativa pública no se trata solo de comunicar, también se trata de facilitar.  
-- El lenguaje puede ser una barrera… o una herramienta.  
-- En comunicación institucional, **“entender” es más importante que “informar”.**
+Como parte del equipo de comunicaciones del MEF, lideré el proceso de revisión y mejora del estilo de esta guía.
+
+El trabajo no consistió simplemente en corregir textos. Buscamos que el documento funcionara mejor para quienes iban a utilizarlo.
+
+Trabajamos sobre cuatro aspectos:
+
+- Claridad narrativa: párrafos extensos convertidos en bloques más fáciles de seguir.
+- Lenguaje funcional: menos jerga innecesaria y mayor orientación a la acción.
+- Organización: estructura, subtítulos y ejemplos pensados para facilitar la consulta.
+- Enfoque en el usuario: revisión considerando a quienes realmente necesitaban utilizar la guía.
 
 ---
 
-## 🧩 ¿Estás enfrentando el mismo desafío?
+El resultado
 
-Si tienes un documento técnico que necesita llegar a la gente adecuada, recuerda esto:
+La nueva versión buscó reducir la distancia entre el contenido técnico y sus usuarios.
 
-> No basta con tener la razón.  
-> Hay que hacer que te entiendan.
+Una guía que antes podía sentirse como un documento difícil de recorrer pasó a plantearse como una herramienta de consulta más clara y funcional para los servidores públicos que ejecutan inversiones.
 
-¿Necesitas convertir algo complejo en una herramienta útil?  
-Escríbeme a [hernangarciaval@gmail.com](mailto:hernangarciaval@gmail.com)  
-o visita [www.hernangarciaval.com](https://www.hernangarciaval.com)
+El objetivo no era que el documento simplemente informara.
+
+Era que pudiera servir.
+
+---
+
+Lo que aprendí
+
+La comunicación pública no consiste únicamente en transmitir información.
+
+También consiste en hacer posible que alguien utilice esa información.
+
+El lenguaje puede convertirse en una barrera o en una herramienta.
+
+Y cuando trabajamos con documentos que tienen que orientar decisiones, procedimientos o acciones, entender no es un detalle: es parte del resultado.
+
+---
+
+El principio
+
+Un documento puede tener toda la información necesaria y seguir siendo inútil para quien no consigue entenderlo.
+
+Por eso, cuando trabajo con información compleja, parto de una pregunta sencilla:
+
+¿Puede la persona que está al otro lado entenderlo y hacer algo con ello?
+
+Si la respuesta es no, todavía falta comunicación.
