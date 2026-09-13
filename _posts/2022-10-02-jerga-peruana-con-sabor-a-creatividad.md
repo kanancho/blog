@@ -2,73 +2,96 @@
 layout: post
 title:  "Jergas peruanas con sabor a creatividad"
 author: hernan
-categories: [Lenguaje, Creatividad]
-tags: [jergas, comida, creatividad, peru]
+categories: [Narrativa]
+tags: [jergas, creatividad, peru]
 image: assets/thumbnails/22-anticucho.jpg
 ---
 
-En el Perú, la comida no solo se come. También se habla.  
-Desde el desayuno hasta la lonche, se nos cuela en la conversación cotidiana. No importa si estás en la casa, en la calle o en la chamba: usamos platos, ingredientes y sabores para nombrar emociones, describir a otros o entender lo que pasa.  
+## El Perú también se come con palabras
 
-¿Pero qué más se puede hacer con esta sabrosa jerga?
+En el Perú, la comida no solo se come.
 
-La respuesta: **jugar, analizar, crear**.  
-Porque el lenguaje, cuando lo miras con atención, no solo sirve para comunicar: también es una fuente inagotable de creatividad.  
-Leer esta lista puede ser divertido, pero lo más valioso es lo que podrías hacer con ella:
+También se habla.
 
-- Combinar jergas para inventar frases nuevas.  
-- Analizar lo que dice de nuestra cultura, nuestros afectos y formas de ver el mundo.  
-- Crear contenido, personajes o guiones usando estas expresiones.  
-- Inspirarte para escribir o hacer humor.  
+Desde el desayuno hasta la lonche, los platos, ingredientes y sabores aparecen constantemente en nuestra conversación cotidiana. Sirven para describir personas, situaciones, emociones y hasta formas de comportarnos.
 
-Aquí va una lista como punto de partida.  
-¿Te animas a sacarle jugo?
+Causa, palta, yuca, camote, arroz con mango...
 
-| *Expresión* | *Concepto* |
-|---|---|
-| ¿Cuál es tu cau cau? | Invitación para que alguien exprese su interés o negocio. Plato popular a base de papas y estómago de res. |
-| Apanado | Como los golpes con pan rallado que se hace sobre la milanesa… pero en el cuerpo de alguien que perdió. |
-| Aplatanado | Cuando no se tiene ganas de hacer nada. |
-| Arroz con mango | Entrevero. Absurda combinación de ideas. |
-| Asado | Para definir molestia: "Estoy asado". |
-| Bueno es culantro pero no tanto | Recomendación para no exagerar en las cosas que se hacen. En especial para aduladores. |
-| Calabaza | Denota un ser con poca inteligencia. |
-| Calentado | Tener intimidad con alguien o volver con una ex-pareja: “Tiene su calentado con la vecina”. |
-| Camote | Cariño por algo o a alguien. |
-| Causa | Amigo: “Él es mi causa de toda la vida”. Plato a base de papa y ají amarillo. |
-| Chaufa | Adiós, bye, chau. Es un plato chifa (fusión de comida peruana y china). |
-| Chaunfaina | Desorganización, caos, como la burocracia. La chaunfainita es un plato en base de bofe y papas. |
-| Choro | Ladrón. El choro es un molusco del Pacífico. |
-| Churro o churra | Se le dice a una persona bastante bonita(o). |
-| Coca Cola | Para referirse a una persona loca. Fuera de sí. |
-| Coco | Cerebro o cabeza. A veces, para destacar inteligencia. “Ese alumno es bien coco”. |
-| Como cancha | Abundancia. “Tiene plata como cancha”. |
-| Culantro | Se refiere al trasero de una persona. |
-| Fresa | “Caminar o andar de frente”. Ejemplo: “Ándate de fresa y llegarás al restaurante”. |
-| Frito pescadito | Cuando se terminó un asunto o se descubrió a alguien en problemas. |
-| Lechero | Persona con suerte. “Qué lechero eres”. |
-| Me tiró arroz | Ignorar a una persona: “La saludé y me tiró arroz”. |
-| Meter cuchara | Alguien que se mete en lo que no debe. |
-| Meter yuca | Estafar, prometer algo y no cumplir. |
-| Mondongo | Rollos de la cintura: “Con ese polo se te notan los mondongos”. También parte del estómago de la res. |
-| No entiendo ni papa | Cuando no se entiende nada. |
-| Ollucos | Tubérculos andinos. Se usan para referirse a “dedos gordos”. |
-| Pachamanquear | Disfrutar de algo con mucho regocijo. |
-| Palta | Vergüenza: “¡Qué palta tu caída!”. |
-| Papas con camotes | Mezcla incoherente de cosas. |
-| Pela los choclos | Sonreír: “Quita esa cara de enojo y pela los choclos”. |
-| Piña | Persona con mala suerte. “Qué piña eres”. |
-| Pollo | Persona que se emborracha con poco. |
-| Sancochado | Enredo, confusión: "Tu informe es un sancochado". |
-| Tallarín | Altura de una persona: "Qué tal tallarín tiene tu prima". |
-| Turrón | Se refiere al aliento: “Tiene tremendo turrón”. |
-| Vaina | Cosa indefinida o exclamación: “¡Qué vaina!”. |
-| Yuca | Algo difícil: “El examen estuvo yuca”. También: piernas. |
-| Zanahoria | Persona sin malicia. Ingenua. |
+Nuestro lenguaje está lleno de comida.
+
+Y ahí hay algo que me interesa especialmente: el lenguaje también es materia prima para crear.
 
 ---
 
-Si llegaste hasta aquí, no te vayas sin hacer el ejercicio:  
-**¿Qué nuevas expresiones podrías inventar?**  
-¿Un “lomo saltado emocional”? ¿Una “papa rellena de excusas”?  
-¡Dale sabor a tus palabras y deja que la creatividad cocine algo nuevo!
+Una jerga que se puede cocinar
+
+Estas expresiones no solo sirven para hablar.
+
+También pueden convertirse en personajes, títulos, guiones, campañas, historias o ideas.
+
+Por eso reuní algunas expresiones peruanas relacionadas con la comida y otros usos populares que pueden funcionar como punto de partida creativo.
+
+Expresión| Concepto
+¿Cuál es tu cau cau?| Invitación para que alguien exprese su interés o negocio.
+Apanado| Golpeado o derrotado.
+Aplatanado| Sin ganas de hacer nada.
+Arroz con mango| Entrevero o mezcla absurda de ideas.
+Asado| Molesto, enojado.
+Bueno es culantro, pero no tanto| Recomendación para no exagerar.
+Calabaza| Persona considerada poco inteligente.
+Calentado| Relación íntima o regreso con una expareja.
+Camote| Cariño o apego por alguien o algo.
+Causa| Amigo. También, plato tradicional peruano.
+Chaufa| Adiós. También, plato de la cocina chifa.
+Chaunfaina| Desorden o caos.
+Choro| Ladrón. También, molusco del Pacífico.
+Churro / churra| Persona atractiva.
+Coca Cola| Persona considerada loca o fuera de sí.
+Coco| Cabeza o persona inteligente.
+Como cancha| En abundancia.
+Culantro| Trasero.
+Fresa| Ir directamente a un lugar.
+Frito pescadito| Asunto terminado o persona descubierta en problemas.
+Lechero| Persona con suerte.
+Me tiró arroz| Ignorar a alguien.
+Meter cuchara| Intervenir donde no corresponde.
+Meter yuca| Estafar o incumplir una promesa.
+Mondongo| Rollos de la cintura. También, parte del estómago de la res.
+No entiendo ni papa| No entender nada.
+Ollucos| Tubérculos andinos. También, dedos gordos.
+Pachamanquear| Disfrutar algo con mucho entusiasmo.
+Palta| Vergüenza.
+Papas con camotes| Mezcla incoherente de cosas.
+Pela los choclos| Sonreír.
+Piña| Persona con mala suerte.
+Pollo| Persona que se embriaga con facilidad.
+Sancochado| Enredo o confusión.
+Tallarín| Persona muy alta.
+Turrón| Aliento desagradable.
+Vaina| Cosa indefinida o expresión de molestia.
+Yuca| Algo difícil. También, piernas.
+Zanahoria| Persona ingenua o sin malicia.
+
+---
+
+El lenguaje como herramienta creativa
+
+Una expresión cotidiana puede tener varias vidas.
+
+Puede describir una situación.
+
+Puede provocar una imagen.
+
+Puede convertirse en un chiste.
+
+Puede darle nombre a un personaje.
+
+Puede incluso convertirse en el concepto de una campaña.
+
+Ahí está una de las cosas que más me interesan del lenguaje: no solo sirve para transmitir una idea. También puede ayudarnos a encontrarla.
+
+Por eso vale la pena mirar nuestras propias palabras con atención.
+
+A veces una buena idea ya está ahí.
+
+Solo hay que saber escuchar cómo hablamos.
