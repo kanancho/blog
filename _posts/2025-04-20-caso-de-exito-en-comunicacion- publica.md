@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Caso de Éxito en Comunicación Pública"
+title:  "Cuando 300 páginasnecesitan hablar claro"
 author: hernan
 categories: [Consultoría]
 tags: [ Estrategia, Contenido, Gestión de medios]
