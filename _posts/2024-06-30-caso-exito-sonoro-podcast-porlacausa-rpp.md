@@ -9,7 +9,7 @@ beforetoc: "No solo se trata de comer bien. También de saber lo que comemos, po
 toc: true
 ---
 
- ## Cuando la información necesitaba una voz
+## Cuando la información necesitaba una voz
 
 Durante años trabajé como redactor, editor y comunicador.
 
