@@ -9,81 +9,111 @@ beforetoc: "No solo se trata de comer bien. También de saber lo que comemos, po
 toc: true
 ---
 
-## 🎧 Cuando la palabra escrita no bastaba
+ ## Cuando la información necesitaba una voz
 
-Durante años, fui periodista, redactor, editor. Pero llegó un momento en el que **la palabra escrita no alcanzaba**. Quería que la voz tuviera peso, que el sonido conectara, que las historias no solo se leyeran… sino que **se sintieran**.
+Durante años trabajé como redactor, editor y comunicador.
 
-Así nació *Por la Causa*, un pódcast que une dos pasiones:  
-**la narrativa sonora** y **la causa alimentaria**.
+Pero llegó un momento en que quise explorar otra forma de contar.
 
----
+No solo explicar una historia, sino construir una experiencia alrededor de ella: una voz, un ritmo, silencios, música, personajes y sonidos.
 
-## 🥔 Un nombre con sabor
-
-El nombre vino fácil: soy fanático de la causa limeña.  
-Y este proyecto también tenía una causa: **comer mejor, con conciencia, sin riesgos**.  
-Palabras que alimentan, así como la causa.
+Así nació Por la Causa, un pódcast dedicado a hablar de lo que comemos y de los riesgos que muchas veces no vemos.
 
 ---
 
-## 🔊 Del recuerdo al micrófono
+Un nombre con sabor
 
-Mi amor por el sonido viene de lejos. Guns N' Roses marcó mi adolescencia. Luego, como editor en CPN Radio, aprendí el poder de una voz bien colocada, de un silencio intencionado, de un efecto bien usado.
+El nombre nació de una coincidencia.
 
-Con *Por la Causa*, ese conocimiento se convirtió en exploración creativa:  
-efectos, música, guion, ritmo, emoción.
+Soy fanático de la causa limeña y el proyecto también tenía una causa: ayudar a entender mejor lo que comemos para tomar mejores decisiones.
 
----
+La comida fue el punto de entrada.
 
-## 🍽 ¿De qué trata el pódcast?
-
-*Por la Causa* habla de lo que comemos, pero no como lo hacen todos. Aquí exploramos:
-
-- **El misterio de los alimentos** (¿qué pasa en tu microondas cuando nadie mira?).  
-- **Los villanos invisibles** (como Mr. Zoonosis o Microbio Maestro).  
-- **La ciencia detrás de la cocina** y los mitos que vale derribar.  
-- Y siempre, **cómo protegernos al comer sin complicaciones**.
-
-El tono es ágil, con personajes, metáforas, humor e información clara.  
-Un estilo propio que no busca modas, sino conexión.
+La comunicación, el verdadero desafío.
 
 ---
 
-## 🫱‍🫲 Un trabajo en equipo
+Del texto al sonido
 
-No camino solo. Mi esposa participó en la microsección **La Vecina**.  
-Colegas en comunicación, producción y nutrición aportan ideas y voces.  
-Amigos del turismo y la industria alimentaria se están sumando.
+Mi relación con la radio viene de lejos.
 
-Todo suma. Todo enriquece.
+Como editor en CPN Radio aprendí que una voz bien colocada puede decir tanto como una página escrita. Que un silencio puede tener intención. Que un efecto puede hacer visible una escena.
+
+En Por la Causa llevé esos recursos a un formato propio:
+
+- Guiones narrativos.
+- Música y efectos.
+- Personajes y metáforas.
+- Humor.
+- Ritmo.
+- Información científica explicada en lenguaje cotidiano.
+
+La intención era que un tema técnico pudiera sentirse cercano sin perder rigor.
+
+---
+
+Hablar de comida sin hablar como un manual
+
+Por la Causa habla de alimentos, salud e inocuidad, pero parte siempre de una historia o de una pregunta.
+
+¿Qué pasa realmente con lo que comemos?
+
+¿Por qué algunos alimentos pueden representar un riesgo?
+
+¿Qué hay detrás de un mito que todos hemos escuchado?
+
+¿Y cómo podemos protegernos sin convertir cada comida en una clase de ciencia?
+
+El pódcast explora esos temas con un lenguaje sencillo y una narrativa sonora propia.
+
+---
+
+Una producción independiente que encontró su espacio
+
+El proyecto comenzó como una producción propia y luego llegó a RPP Noticias, donde tuvo una etapa de emisión regular.
 
 <img src="{{site.baseurl}}/assets/postImages/23-podcast-hernan-1.png" class="garnish rounded float-left"/>  
 {:.image-caption}  
-*Producción casera, pero con corazón y estrategia*
+*Producción independiente: una voz, un micrófono y una idea.*Ese recorrido confirmó algo que hoy también forma parte de mi manera de trabajar:
+
+una buena historia puede encontrar audiencia cuando encuentra la forma adecuada de ser contada.
 
 ---
 
-## 🚀 El objetivo
+El objetivo
 
-No es solo informar.  
-Es crear una comunidad interesada en comer mejor, sin riesgos, y disfrutar el proceso.  
-Queremos que cualquier persona, desde su cocina o su tienda, **pueda tomar mejores decisiones alimentarias.**
+Por la Causa nació para acercar la seguridad alimentaria a la vida cotidiana.
 
----
+No desde la alarma ni desde el lenguaje técnico, sino desde situaciones que todos reconocemos: cocinar, comprar, comer, guardar alimentos, elegir qué llevar a casa.
 
-## 📡 Dónde escucharlo
+Porque detrás de cada tema técnico hay una pregunta sencilla:
 
-*Por la Causa* se transmite por todas las plataformas de pódcast y **por RPP Noticias**, uno de los medios más importantes del Perú.
-
-🎙 Escúchalo aquí:  
-[Por la Causa en RPP](https://rpp.pe/audio/podcast/por-la-causa)  
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4sZ8qT1zlrlg161D1Pw88e?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+¿Y esto qué significa para mí?
 
 ---
 
-## 🌍 ¿Te interesa colaborar?
+Escuchar también es una forma de comprender
 
-Si tienes un proyecto, un emprendimiento o una historia que conecta con la seguridad alimentaria, **este pódcast puede ser tu espacio también**.
+La experiencia de Por la Causa me permitió explorar una idea que atraviesa todo mi trabajo:
 
-📩 Escríbeme a [hernangarciaval@gmail.com](mailto:hernangarciaval@gmail.com)  
-🌐 Ver [Cómo puedo ayudarte](https://www.hernangarciaval.com/about/)
+La comunicación no depende solamente de lo que queremos decir.
+
+También depende de encontrar la forma en que la otra persona pueda escucharlo, entenderlo y recordarlo.
+
+En este caso, esa forma fue el sonido.
+
+🎙 Escucha Por la Causa en RPP Noticias:
+
+"Por la Causa en RPP" (https://rpp.pe/audio/podcast/por-la-causa)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4sZ8qT1zlrlg161D1Pw88e?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>---
+
+Lo que deja este proyecto
+
+Por la Causa fue un laboratorio de narrativa sonora.
+
+Me permitió comprobar que incluso temas técnicos como la inocuidad alimentaria, las enfermedades transmitidas por alimentos o la salud pública pueden convertirse en historias cercanas.
+
+Cuando encuentras el lenguaje adecuado, lo complejo deja de sonar lejano.
+
+Y eso, al final, también es construir un puente.
