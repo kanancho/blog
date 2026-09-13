@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cuando 300 páginasnecesitan hablar claro"
+title:  "Cómo conseguimos que los medios hablaran de terrenos del Estado"
 author: hernan
 categories: [Consultoría]
 tags: [ Estrategia, Contenido, Gestión de medios]
