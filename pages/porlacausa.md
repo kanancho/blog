@@ -40,9 +40,9 @@ Hoy esos episodios forman parte de este archivo y siguen siendo una parte import
 
 Más de 60 episodios y una nueva etapa que continúa creciendo.
 
-"Escuchar el podcast en Spotify" (https://podcasters.spotify.com/pod/show/porlacausa)
+[Escuchar el podcast en Spotify] (https://podcasters.spotify.com/pod/show/porlacausa)
 
-"Ver Por la Causa en YouTube" (https://www.youtube.com/@PorlaCausaPodcast)
+[Ver Por la Causa en YouTube] (https://www.youtube.com/@PorlaCausaPodcast)
 
 ---
 
