@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Caso de Éxito: Cómo hicimos comprensible la Guía Invierte.pe para gobiernos locales"
+title:  "Cuando 300 páginasnecesitan hablar claro"
 author: hernan
 categories: [ Consultoría ]
 tags: [ comunicación pública, narrativa institucional, gestión pública, Invierte.pe ]
