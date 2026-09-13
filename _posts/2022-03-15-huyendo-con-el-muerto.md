@@ -2,115 +2,291 @@
 layout: post
 title:  "Huyendo con el muerto"
 author: hernan
-categories: [ storytelling ]
-tags: [viaje,vuelo,emergencia,fenomeno,elniño,desborde,lluvias,trujillo,muerto]
+categories: [ Narrativa ]
+tags: [narrativa, El Niño Costero,  crónica,Trujillo, comunicación]
 image: assets/thumbnails/22-huyendo-con-muerto-hernan.jpg
-beforetoc: "Hace dos años llegamos a Trujillo, tan solo unas horas antes del huayco que daría inicio a toda la destrucción que traía el llamado Niño Costero en 2017."
+beforetoc: "En marzo de 2017, un huayco convirtió una salida al aeropuerto de Trujillo en una carrera contra el agua. Y en el camino, terminamos huyendo con un muerto."
 toc: true
 ---
 
-> *La quebrada San Ildefonso colapsó por las fuertes lluvias de El Niño costero, rompió el dique de Mampuesto, cruzó el cementerio del mismo nombre e inundó el centro histórico y varias urbanizaciones.*  
-> — *El Comercio*, 15/03/19
+En marzo de 2017 llegamos a Trujillo pocas horas antes de que un huayco volviera a desbordar la quebrada San Ildefonso.
 
-La resaca del desborde dejó las calles húmedas, con sacos de arena en las puertas, edificios y casas marcadas con barro hasta unos 30 centímetros de altura.
+El llamado Niño Costero ya había dejado calles cubiertas de barro, sacos de arena en las puertas y casas marcadas por el agua.
 
-Sin embargo, dos días después tuvimos una mañana hermosa y soleada, parecía que todo había quedado atrás. En unas horas yo retornaría a Lima y Maca haría lo propio al día siguiente.
+Pero dos días después amaneció soleado.
 
-Así que, antes del mediodía, fuimos a una tienda cercana a la plaza principal para comprar deliciosos dulces regionales. Degustamos y... escuchamos unos gritos. Era gente que huía. Alguien miró hacia la tienda y nos dijo: **"saqueo"**.
+Parecía que todo había terminado.
 
-Salimos para guardar el frigorífico con helados de la anciana-dueña y poder cerrar la puerta del local, cuando otro de los que venía escapando nos dio la verdadera y mala noticia: **el huayco**.
+Yo tenía un vuelo a Lima esa tarde. Maca regresaría al día siguiente.
 
-La ciudad estaba en pánico. Una vez más, en menos de una semana, la quebrada San Idelfonso se había desbordado, amenazando con dejar a toda la ciudad bajo el lodo.
+Antes del mediodía salimos a comprar unos dulces regionales. Entramos a una tienda cerca de la plaza principal, probamos algunas cosas y, de pronto, escuchamos gritos.
 
-Salimos corriendo hacia el hotel, pero a 100 metros el agua sucia, que llegaba con barro, palos y desperdicios, nos cerró el paso. Doblamos a la izquierda intentando no detenernos.
+La gente corría.
 
-## El muerto
+Alguien miró hacia la tienda y gritó:
 
-Frente a una fachada adornada con flores blancas descansaba una carroza fúnebre. Abrí la puerta detrás del piloto y le pedí a Maca que se apure en subir. Adentro, sorprendimos al chofer y a los cargadores vestidos de frac, que consternados nos gritaban asustados, pensaban que era un asalto. Yo solo repetí:
+—¡Saqueo!
 
-> "El huayco, el huayco, arranca".
+Salimos para ayudar a la dueña a guardar el frigorífico de helados y cerrar el local.
 
-Metió la llave y la giró de inmediato. Tan rápido que el motor del cacharro saltó y empezó a temblar. Este armatoste tenía unos 50 años, un **Station Wagon** que rodaba sus últimos metros... llevando un cuerpo inerte.
+Entonces alguien que escapaba nos dio la verdadera noticia:
 
-Maca miraba el cajón que se encontraba atrás de él. Nunca supimos si era hombre o mujer, asumimos que se trataba de un anciano.
+—¡El huayco!
 
-> — "Ahí está el fallecido", susurró, mientras su rostro y sus ojos ahora saltones traducían: *¡esto es un sacrilegio!*  
-> — Le respondí con la poca calma que tenía: "Este tío ya fue, ya no está".
+Otra vez.
 
-Fue un escape breve con el muerto. A solo dos cuadras, pasando la plaza, no se pudo avanzar más. En la desesperación, varios automovilistas habían atorado sus máquinas en la calle estrecha.
+El muerto
 
-Agradecí con apuro al anfitrión, también le deseé un buen viaje en su recorrido al otro mundo, no supe qué más hacer mientras cerraba con fuerza la pesada puerta.
+Salimos corriendo hacia el hotel.
 
-Retomamos nuestra carrera por la calle principal de la ciudad, el **Jr. Independencia**. Subimos cuatro cuadras, nos faltaba doblar a la izquierda y seguir otras cuatro más, pero Maca se rindió.
+No llegamos muy lejos.
 
-## Cambio de planes
+A unos cien metros, el agua sucia nos cerró el paso. Venía con barro, palos y desperdicios.
 
-Le dije que yo ya no iba al hotel, que se quedara con mis cosas. Que solo la cámara tenía valor, el resto no importaba. Yo tenía que llegar al aeropuerto, mi vuelo salía antes del anochecer y ya era tarde.
+Doblamos a la izquierda.
 
-Avancé unas cuadras hacia el este buscando un taxi. Regresé sin éxito. Vi a Maca y me dirigí al norte de la calle, nada. Así que volví y fui al sur.
+Y ahí estaba.
 
-Solo me quedó retornar, cansado y sancochado por el sol, a sentarme con mi fracaso al lado de Maca. En ese murito de cemento, donde él apoyaba los codos sobre sus piernas y la cara sobre las manos.
+Frente a una fachada adornada con flores blancas había una carroza fúnebre.
 
-Al rato, bajó un poco la intensidad y la altura del desborde, así que decidí acompañarlo al hotel. Ahí, la recepcionista nos habló de **don Ricardo**, dijo que era el único que se atrevía a manejar en estas circunstancias. 
+Abrí la puerta detrás del piloto.
 
-— *Llámalo*, le pedí.
+—Maca, sube.
 
-Alcancé a bajar mis cosas y subir al taxi. El aeropuerto estaba al norte, a unos 30 minutos de distancia en situaciones normales. Versiones de nuevos desbordes recorrían las calles.
+Adentro estaban el chofer y los cargadores, vestidos de frac. Nos miraron como si acabáramos de asaltar el vehículo.
 
-Avanzamos a 20 km/h por una avenida hasta que las inundaciones nos llevaron a entrar a las calles, muchas de ellas bloqueadas en varios tramos con sacos de arena.
+Yo solo podía repetir:
 
-## En el agua
+—El huayco. El huayco. Arranca.
 
-En una urbanización tuvimos que retroceder a toda la velocidad que pudimos porque estaban reventando las lunas de los coches para robar.
+El chofer giró la llave.
 
-Don Ricardo quiso tirarse para atrás cuando su nave comenzó a sumergirse. Vi por la ventana que el agua cubría casi toda la llanta.
+El motor saltó y comenzó a temblar.
 
-Le recordé que no teníamos a dónde regresar y que adelante había zonas más altas. Se animó.
+Era un Station Wagon de unos cincuenta años que parecía estar recorriendo sus últimos metros.
 
-Podíamos escuchar cómo las latas, troncos y otros objetos rozaban la parte baja del carro. Cuando este sonido desapareció, algo de tranquilidad se vio en el rostro del chofer.
+Llevaba un cuerpo en el cajón de atrás.
 
-## Se va el avión
+Maca lo miró.
 
-Habían pasado como dos horas, ya anochecía, era la hora de salida de mi vuelo.
+—Ahí está el fallecido —susurró.
 
-Dejé de contestar los mensajes de mi flaca, no podía seguir mintiendo, cuando a lo lejos pude ver el aeropuerto, como a unos 500 metros.
+Su cara decía claramente: esto es un sacrilegio.
 
-Ahí el vehículo se detuvo. Una vez más, la desesperación había hecho de la suya. Anudados, enredados, abrazados, decenas de automóviles congelados por el miedo no avanzaban ni retrocedían.
+—Este tío ya fue —le respondí—. Ya no está.
 
-La radio anunciaba que otra quebrada, cercana al aeropuerto, había reventado y traía consigo miles de litros de lodo, troncos y desperdicio. Ya se veía el agua por la derecha (este) de la carretera.
+Fue un escape breve.
 
-Cogí mi mochila y empecé a correr mientras tronaba el cielo, que dejaban ver nubes negras que se acercaban repletas de lluvia.
+Apenas dos cuadras después, el tráfico quedó completamente bloqueado.
 
-Yo corría pero no avanzaba. No era el estrés ni la ansiedad del momento. Era mi pobre desempeño físico, que fue confirmado por una niña de unos doce años que me rebasó sin piedad.
+Agradecí al chofer, bajamos y continuamos a pie.
 
-Finalmente, llegué al aeropuerto, que se encontraba cercado por una barricada de sacos de arena de más de un metro de altura, cuidada por vigilantes.
+No tuve tiempo ni para despedirme del pasajero que acabábamos de abandonar.
 
-Apunté a uno de ellos y le ordené que me jalara para subir y pasar. Cuando reaccionó, yo ya estaba cerca de las colas que se formaban para entrar al complejo.
+Cambio de planes
 
-Avancé por el tumulto pidiendo permiso, con urgencia, con aires *de estar a cargo de algo*, hasta que muy cerca de la puerta de embarque, un tipejo se me puso sabroso…
+El hotel ya no era una opción.
 
-Él no estaba solo. A su lado, desesperados pasajeros sin vuelo buscaban descargar su frustración.
+Yo tenía que llegar al aeropuerto.
 
-Cuando me iban a detener, cuando tocaron mi cuerpo, una voz femenina gritó mi nombre.
+Mi vuelo salía antes del anochecer.
 
-Les muestro mi pasaje a mis potenciales agresores:
+Intenté conseguir un taxi. Nada.
 
-> *Me están llamando*, les digo.
+Avancé hacia el norte. Nada.
 
-No lo pueden creer, me vuelven a nombrar y me miran. Me sueltan.
+Regresé. Probé hacia el sur.
 
-Se me abre el camino entre el tumulto que espera traspasar el *gate*, como yo lo estaba haciendo.
+Nada.
 
-Ya estoy adentro, corriendo agitado subiendo al avión. Escucho al piloto dudar al ver aguas turbias en la pista, pero anuncia:
+Solo quedaba sentarme y esperar.
 
-> *Ya estamos listos para partir.*
+Al rato, el agua bajó un poco.
 
-## Vuela hasta perderte
+En el hotel nos hablaron de don Ricardo.
 
-La nave del vuelo **2207** se elevó y cerraron el aeropuerto.
+—Es el único que se atreve a manejar en estas circunstancias.
 
-Se armó el despelote entre pasajeros y empleados cuando todo se cubrió de tinieblas. El agua negra rodeó el complejo e inundó las pistas. La lluvia y los truenos acompañaron la noche oscura.
+—Llámalo.
 
-Desde ese momento, la ciudad quedó sitiada por **diez días**. Maca no pudo salir al día siguiente como estaba programado. Tuvo que quedarse más de una semana junto a otros compañeros en el hotel, sin luz, agua y poca alimentación.
+Don Ricardo llegó.
 
-Desde unos 100 días antes, se presentaban lluvias intensas a lo largo de los Andes y la costa norte, pero en ese momento, esa semana del **17 de marzo de 2017**, la novedad eran las quebradas, que luego de medio siglo de inactividad, reanudaron sus flujos trayendo consigo avalanchas de lodo, troncos y otros.
+Subimos al taxi y emprendimos el camino hacia el aeropuerto.
+
+En condiciones normales eran unos treinta minutos.
+
+Ese día era otra historia.
+
+Avanzábamos a unos 20 kilómetros por hora, esquivando calles inundadas y bloqueadas con sacos de arena.
+
+En el agua
+
+En una urbanización tuvimos que retroceder.
+
+Estaban rompiendo las lunas de algunos vehículos para robar.
+
+Seguimos por otra ruta.
+
+Hasta que el taxi comenzó a meterse en el agua.
+
+Don Ricardo quiso retroceder.
+
+Miré por la ventana.
+
+El agua ya cubría buena parte de las llantas.
+
+—No tenemos a dónde regresar. Adelante hay zonas más altas.
+
+Siguió.
+
+Podíamos escuchar cómo latas, troncos y otros objetos golpeaban la parte baja del vehículo.
+
+Después, el ruido desapareció.
+
+Don Ricardo respiró.
+
+Yo también.
+
+Se va el avión
+
+Habían pasado unas dos horas.
+
+Ya estaba anocheciendo.
+
+Era la hora de salida de mi vuelo.
+
+Dejé de contestar los mensajes de mi flaca. Ya no podía seguir diciéndole que todo estaba bien.
+
+A lo lejos apareció el aeropuerto.
+
+Estaba a unos 500 metros.
+
+Y ahí volvimos a detenernos.
+
+Decenas de vehículos estaban atrapados. Unos contra otros, sin poder avanzar ni retroceder.
+
+La radio informaba que otra quebrada, cerca del aeropuerto, había reventado.
+
+El agua avanzaba con lodo, troncos y desperdicios.
+
+Entonces vi el aeropuerto.
+
+Cogí mi mochila y empecé a correr.
+
+Yo corría.
+
+Pero no avanzaba.
+
+No era el agua.
+
+Era mi estado físico.
+
+Una niña de unos doce años pasó corriendo a mi lado y me confirmó que el problema era exclusivamente mío.
+
+Finalmente llegué.
+
+El aeropuerto estaba protegido por una barricada de sacos de arena de más de un metro de altura.
+
+Un vigilante custodiaba el acceso.
+
+Le señalé que me ayudara a subir.
+
+Cuando reaccionó, yo ya estaba del otro lado.
+
+Avancé entre el tumulto.
+
+Todos querían entrar.
+
+Todos querían salir.
+
+Todos tenían una razón.
+
+Y yo tenía un avión que estaba a punto de irse.
+
+Cerca de la puerta de embarque, un tipo se puso sabroso.
+
+No estaba solo. A su alrededor había pasajeros desesperados que tampoco podían viajar.
+
+Cuando intentaron detenerme, una voz femenina gritó mi nombre.
+
+Me estaban llamando.
+
+Mostré mi pasaje.
+
+—Me están llamando.
+
+Me soltaron.
+
+Se abrió el camino.
+
+Corrí.
+
+Subí al avión.
+
+El piloto dudó al ver las aguas turbias sobre la pista.
+
+Después anunció:
+
+—Ya estamos listos para partir.
+
+Vuela hasta perderte
+
+El vuelo 2207 despegó.
+
+Y poco después cerraron el aeropuerto.
+
+Desde el avión pude ver cómo la noche cubría el complejo y el agua negra rodeaba las pistas.
+
+La lluvia y los truenos acompañaban el cierre de la ciudad.
+
+Trujillo quedó sitiada durante diez días.
+
+Maca no pudo salir al día siguiente.
+
+Tuvo que permanecer más de una semana en el hotel junto a otros compañeros, con cortes de luz, problemas de abastecimiento y poca alimentación.
+
+Aquella semana de marzo de 2017, las quebradas que habían permanecido inactivas durante décadas volvieron a llevar agua, lodo, troncos y todo lo que encontraban a su paso.
+
+Yo tuve suerte.
+
+Llegué al aeropuerto.
+
+Corrí.
+
+Subí al avión.
+
+Y me fui.
+
+Pero durante un rato, para conseguirlo, tuve que huir con un muerto.
+
+---
+
+El principio
+
+Años después, cuando pienso en aquella historia, hay algo que permanece.
+
+No recuerdo primero las cifras del Niño Costero.
+
+Recuerdo el grito de la gente.
+
+El agua.
+
+El Station Wagon.
+
+El cajón detrás de nosotros.
+
+La carrera hacia el aeropuerto.
+
+La niña que me pasó corriendo.
+
+Y ese avión despegando mientras la ciudad quedaba bajo el agua.
+
+Una historia puede hacer que alguien vea un fenómeno que de otro modo solo conocería como un dato.
+
+Ahí está una de las funciones de la narrativa.
+
+No reemplaza la información.
+
+La convierte en algo que podemos comprender.
+
+Porque cuando una realidad es demasiado compleja para explicarla de una sola vez, a veces el mejor puente empieza con una historia.
