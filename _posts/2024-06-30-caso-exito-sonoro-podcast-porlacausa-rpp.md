@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Caso de Éxito Sonoro: Por la Causa, un pódcast que alimenta"
+title: "Por la Causa, un pódcast que alimenta"
 author: hernan
 categories: [Portafolio]
 tags: [ podcast, comunicación, seguridad alimentaria, narrativa sonora ]
