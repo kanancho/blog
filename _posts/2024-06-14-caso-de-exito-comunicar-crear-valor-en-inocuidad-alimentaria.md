@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Caso de Éxito: Comunicar para crear valor en inocuidad alimentaria"
+title: "Comunicar para crear valor en inocuidad alimentaria"
 author: hernan
 categories: [ Consultoría ]
 tags: [ Estrategia-comunicación, inocuidad, narrativa pública ]
