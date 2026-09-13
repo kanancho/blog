@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Por la Causa
-permalink: "/podcast/"
+permalink: "/porlacausa/"
 ---
 
 ## 🎙️ Por la Causa: historias para entender lo que importa
