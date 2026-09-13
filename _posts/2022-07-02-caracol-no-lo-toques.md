@@ -1,44 +1,128 @@
 ---
 layout: post
-title: "Caso de éxito: No lo toques"
+title: "No lo toques"
 author: hernan
 categories: [ Consultoría ]
 tags: [ comunicación, imagen, relaciones públicas, inocuidad, caracol, agricultura, alimentación ]
 image: assets/thumbnails/17-caracol-senasa-andres.png
-beforetoc: "No lo toques: El mensaje técnico que se convirtió en habla común"
+beforetoc: "Cómo una alerta sanitaria sobre el caracol gigante africano se convirtió en una instrucción que cualquiera podía recordar"
 toc: true
 ---
 
-## 🐌 El mensaje técnico que se convirtió en habla común
+## Cuando una alerta sanitaria necesita una frase que todos recuerden
 
-**Resumen:** Analizamos el éxito de la campaña sobre el caracol gigante africano, un hito en la comunicación pública que logró lo impensable: llevar una alerta sanitaria desde los informes técnicos hasta los programas de espectáculos y el lenguaje cotidiano, movilizando a la población para proteger su salud y la agricultura.
+En 2019, el caracol gigante africano (Achatina fulica) representaba una amenaza para la agricultura y también un riesgo sanitario que necesitaba ser explicado a la población.
 
-## El "sueño del comunicador": Romper la burbuja técnica
-En el mundo de la comunicación estratégica, el éxito no se mide solo por los clics, sino por la capacidad de un mensaje para integrarse en la cultura popular. Con la campaña sobre el caracol gigante africano (Achatina fulica), alcanzamos el objetivo máximo: _el mensaje dejó de ser una advertencia institucional para convertirse en un tema de dominio público_.
+El problema era evidente.
 
-Logramos que una amenaza biológica compleja se instalara en espacios poco convencionales para la gestión social:
-+ Programas de espectáculos y magazines: Donde el tema se trató con la urgencia y cercanía que el ciudadano requiere.
-+ Segmentos de cine y cultura: Utilizando la narrativa del "invasor" para capturar la imaginación del público.
-+ El habla común: La frase "No lo toques" se convirtió en un mantra de seguridad en mercados, parques y hogares, facilitando que las familias peruanas supieran exactamente cómo actuar frente al hallazgo de un ejemplar.
+La información técnica podía explicar perfectamente qué era el caracol, qué enfermedades podía transmitir y cómo debía controlarse.
+
+Pero una persona que encontraba uno en un parque, una chacra o un jardín necesitaba saber algo mucho más sencillo:
+
+¿Qué hago si me encuentro uno?
+
+La respuesta de comunicación fue directa:
+
+No lo toques.
+
+---
+
+Del lenguaje técnico a una instrucción ciudadana
+
+Una alerta sanitaria puede estar llena de términos que tienen sentido para especialistas, pero que no necesariamente sirven para alguien que se encuentra frente al problema.
+
+Había que convertir conceptos como bioseguridad, vigilancia y riesgo sanitario en una conducta concreta.
+
+La frase “No lo toques” cumplía esa función.
+
+Era corta.
+Era fácil de recordar.
+Y decía exactamente qué debía hacer una persona ante el hallazgo.
+
+La comunicación dejaba de ser solamente información.
+
+Se convertía en una instrucción.
 
 <img src="{{site.baseurl}}/assets/thumbnails/17-caracol-senasa.jpg" class="garnish rounded float-left"/>  
 {:.image-caption}  
-*Banner de inicio de campaña de intriga*
+*Banner de inicio de la campaña de intriga.*---
 
-## Del laboratorio a la calle: La sencillez como escudo
-El mayor desafío fue traducir el lenguaje de la estrategia Una sola salud (protocolos epidemiológicos de sanidad animal y salud humana) en acciones ciudadanas directas. No buscábamos solo informar, sino generar una respuesta automática de protección. Al simplificar la instrucción técnica en un concepto potente -**"No lo toques"**-, eliminamos la fricción entre la autoridad y el ciudadano.
+Hacer visible una amenaza invisible
 
-Esta apropiación del mensaje permitió que las personas hicieran suyas las medidas de control:
+El caracol gigante africano no era un tema sencillo de explicar.
 
-+ Uso de barreras físicas: Entender que el contacto directo con la baba es el riesgo principal.
+Había que conectar sanidad agraria, salud pública y protección de los cultivos.
 
-+ Protocolos de eliminación: La práctica de la salmuera y el entierro profundo pasó de ser un manual técnico a una acción comunitaria consciente.
+Pero también había que conseguir que el problema pudiera reconocerse.
 
-+ Vigilancia activa: La población se convirtió en los ojos del Estado en el campo y la ciudad, reportando avistamientos de forma eficiente.
+La campaña utilizó imágenes, contenidos para medios y distintos formatos para llevar el mensaje fuera de los espacios especializados.
 
-## Gestión social con impacto real
-Esta campaña demuestró que la comunicación, con un enfoque humano y estratégico, es la herramienta más barata y efectiva de la gestión pública. Al conectar con la emoción (el miedo a la enfermedad) y la economía (la protección de los cultivos), logramos un cambio de comportamiento a escala nacional. 
+La historia llegó incluso a programas de espectáculos y magazines, espacios que normalmente no abordan asuntos de sanidad agraria.
 
-[Informe presencia en medios](https://drive.google.com/file/d/1t8SUX7zqI8nNvAFVVeExzXEQ8gXyvOOB/view)
+Eso era importante.
 
-En el episodio N° 3 de nuestro pódcast **Por la Causa:** [La Invasión Africana](https://open.spotify.com/episode/2kIw5rzD0gZdo8KyFxL8Fz?si=HUaeSWCJSfWr3NW2cD43NQ) explicamos, con el rigor del periodismo y la cercanía del narrador, por qué un pequeño molusco podía poner en jaque nuestra seguridad alimentaria. Cuando el trabajo llega hasta los programas de televisión más populares, sabemos que la misión de transformar información en prevención se ha cumplido.
+Cuando una alerta técnica consigue entrar en la conversación cotidiana, aumenta la posibilidad de que las personas sepan reconocerla y actuar frente a ella.
+
+---
+
+Una frase puede hacer el trabajo de una página
+
+El mensaje central permitía construir alrededor otras instrucciones de prevención y control.
+
+No tocar el animal.
+
+Evitar el contacto con su baba.
+
+Reportar el hallazgo.
+
+Seguir las indicaciones de las autoridades para su eliminación.
+
+La estrategia no consistía en simplificar hasta perder información.
+
+Consistía en poner primero aquello que una persona necesitaba recordar para actuar correctamente.
+
+---
+
+Del caracol a la conversación pública
+
+El tema empezó a aparecer en medios nacionales y en espacios de gran audiencia.
+
+El caracol dejó de ser solamente un asunto de especialistas.
+
+La imagen del “invasor” ayudó a convertir un problema técnico en una historia que podía entenderse rápidamente.
+
+Y la frase “No lo toques” funcionó como ancla de toda esa conversación.
+
+La comunicación había conseguido algo importante:
+
+que una amenaza difícil de explicar pudiera reconocerse en la vida cotidiana.
+
+"Informe de presencia en medios" (https://drive.google.com/file/d/1t8SUX7zqI8nNvAFVVeExzXEQ8gXyvOOB/view)
+
+---
+
+Una historia que también llegó al podcast
+
+El episodio 3 de Por la Causa, “La Invasión Africana”, retomó la historia desde la narrativa sonora.
+
+"Escuchar “La Invasión Africana” en Spotify" (https://open.spotify.com/episode/2kIw5rzD0gZdo8KyFxL8Fz?si=HUaeSWCJSfWr3NW2cD43NQ)
+
+Era otra forma de hacer lo mismo: tomar un problema técnico y encontrar un lenguaje capaz de acercarlo a las personas.
+
+---
+
+Lo que deja este caso
+
+Una institución puede tener toda la información necesaria.
+
+Pero una persona no necesita recibir un informe técnico cuando tiene un problema delante.
+
+Necesita saber qué significa y qué hacer.
+
+En este caso, toda una alerta sanitaria podía comenzar con dos palabras:
+
+No lo toques.
+
+Ese es uno de los principios que atraviesan mi trabajo:
+
+cuando la información es compleja, la comunicación tiene que encontrar la forma más clara de hacerla útil.
