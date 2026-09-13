@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Difusión internacional: promocionando al hermoso Brasil"
+title: "Comunicar un destino extranjero desde otro país"
 author: hernan
 categories: [ Consultoría ]
 tags: [ comunicación, imagen, relaciones públicas, Embratur, turismo ]
@@ -9,53 +9,84 @@ beforetoc: "Formé parte de la estrategia para posicionar a Brasil como destino 
 toc: true
 ---
 
-## 🌎 Comunicación para el turismo internacional
+## Cuando un país necesita hablarle a otro
 
-Entre mediados de 2022 y enero de 2023, integré el equipo que ejecutó en Perú la estrategia **"Brasil, bonito por naturaleza"**, desarrollada por **Embratur**, la Agencia Brasileña de Promoción del Turismo Internacional.
+Entre mediados de 2022 y enero de 2023 integré en Perú el equipo que ejecutó la estrategia "Brasil, bonito por naturaleza", desarrollada por Embratur, la Agencia Brasileña de Promoción del Turismo Internacional.
 
-La meta era clara: **impulsar los viajes desde Perú hacia Brasil**, destacando su diversidad cultural, gastronómica y natural, en una coyuntura complicada para el país.
+El objetivo era acercar Brasil al público peruano y promover los viajes hacia el país, poniendo en valor su diversidad cultural, gastronómica y natural.
 
-Perú era considerado un mercado hostil. La situación política y social de inicios de 2023 lo confirmó, con protestas y crisis que ponían en duda cualquier acción comunicacional. Aun así, **la estrategia se sostuvo, se ejecutó y rindió frutos**.
+El desafío no consistía solamente en promocionar un destino.
 
----
-
-## 📰 Artículo publicado: Brasil vuelve con su carnaval más popular
-
-Como parte de esta consultoría, publiqué un artículo en el medio especializado **Perú Comunica**, en el que resalté el retorno del carnaval pospandemia como oportunidad para reconectar con la alegría brasileña y potenciar el flujo turístico desde el Perú.
-
-📄 **Publicado en Perú Comunica:**  
-🔗 [Carnaval pospandemia: regresa la fiesta más popular de Brasil](https://perucomunica.com/2023/01/31/carnaval-pospandemia-regresa-la-fiesta-mas-popular-de-brasil/)
+Había que traducir una experiencia brasileña al contexto peruano.
 
 ---
 
-### ✍️ Fragmento del artículo
+Brasil contado desde el Perú
 
-> *Todo está listo en Brasil para volver a encantar al mundo con sus tradicionales fiestas de carnaval. Del 17 al 25 de febrero, el país mostrará su esplendor en música, cultura, colores y ritmos, que se suman a su oferta de turismo de aventura y ecoturismo disponible de punta a punta del país.*  
->  
-> *Con la reanudación completa del turismo y la conectividad aérea a niveles prepandemia, se espera que miles de peruanos viajen para experimentar el carnaval y el caleidoscopio cultural brasileño.*  
+La comunicación internacional tiene una dificultad particular: lo que funciona en un país no necesariamente funciona igual en otro.
 
----
+Por eso, parte del trabajo consistió en identificar historias y contenidos capaces de conectar la oferta turística brasileña con los intereses del público peruano.
 
-## 🥁 Carnaval en Brasil: tres ciudades, una fiesta global
+El carnaval era un buen ejemplo.
 
-El artículo incluyó una guía narrativa de los carnavales más emblemáticos del país:
+No bastaba con decir que Brasil tenía uno de los carnavales más famosos del mundo.
 
-- **Río de Janeiro:** Glamour, escolas de samba y blocos callejeros para todos los gustos.  
-- **São Paulo:** Más de 800 comparsas y desfiles en el sambódromo de Anhembí.  
-- **Salvador de Bahía:** Tríos eléctricos, cultura afrobrasileña y el icónico desfile del afoxé Filhos de Gandhi.
+Había que contar por qué podía ser una experiencia atractiva para alguien que estaba pensando en viajar desde el Perú.
 
 ---
 
-## ✈️ Un puente entre países
+Carnaval: una historia para abrir la puerta
 
-Esta experiencia reafirmó el valor de la comunicación como puente cultural y económico. A pesar del contexto adverso en el Perú, **logramos posicionar el carnaval como una experiencia de vida**, no solo como un evento turístico.
+Como parte de la estrategia publiqué en Perú Comunica un artículo sobre el regreso del carnaval brasileño después de la pandemia.
 
-Fue una **consultoría que combinó estrategia, redacción, relaciones públicas y sensibilidad intercultural**, y me permitió colaborar con grandes profesionales de ambos países.
+La pieza utilizó el retorno de las celebraciones como punto de entrada para presentar distintas experiencias turísticas del país.
+
+"Leer el artículo: Carnaval pospandemia: regresa la fiesta más popular de Brasil" (https://perucomunica.com/2023/01/31/carnaval-pospandemia-regresa-la-fiesta-mas-popular-de-brasil/)
+
+La historia recorría tres grandes escenarios:
+
+- Río de Janeiro: escuelas de samba, blocos y el carnaval más conocido internacionalmente.
+- São Paulo: desfiles y una escena carnavalesca de enorme dimensión.
+- Salvador de Bahía: música, cultura afrobrasileña y una celebración profundamente ligada a su identidad.
+
+El carnaval funcionaba así como una puerta de entrada a algo más amplio: la diversidad de Brasil como destino.
 
 ---
 
-## 🤝¿Tienes una marca o destino que necesita comunicar internacionalmente?
+El contexto también comunica
 
-Estoy listo para ayudarte a contar tu historia con estrategia y emoción.  
-📩 Escríbeme a [hernangarciaval@gmail.com](mailto:hernangarciaval@gmail.com)  
-🌐 Ver [Cómo puedo ayudarte](https://www.hernangarciaval.com/about/)
+La campaña se desarrolló en un momento especialmente complejo para el Perú.
+
+Las protestas y la crisis política y social de finales de 2022 e inicios de 2023 afectaban el escenario de comunicación y turismo.
+
+Eso obligaba a trabajar con sensibilidad respecto del contexto local y a mantener la estrategia adaptada a una realidad que podía cambiar rápidamente.
+
+La comunicación internacional no ocurre en el vacío.
+
+Un mensaje puede venir de otro país, pero siempre aterriza en una realidad concreta.
+
+---
+
+Un puente entre culturas
+
+Esta experiencia me permitió trabajar en la intersección de varias disciplinas:
+
+- Estrategia de comunicación.
+- Creación y edición de contenidos.
+- Relaciones públicas.
+- Turismo.
+- Comunicación intercultural.
+
+Pero, sobre todo, confirmó una idea que atraviesa mi trabajo:
+
+comunicar también es traducir contextos.
+
+Cuando una institución, una causa o una marca necesita hablarle a personas de otro lugar, no basta con trasladar un mensaje.
+
+Hay que encontrar el puente.
+
+En este caso, ese puente conectaba Brasil con el público peruano.
+
+---
+
+Experiencia desarrollada como parte del equipo de comunicación de Embratur en Perú, entre 2022 y 2023.
