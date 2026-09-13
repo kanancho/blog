@@ -2,92 +2,242 @@
 layout: post
 title:  "Yo no sabía que existía Mangomarca"
 author: hernan
-categories: [ Inspiración ]
+categories: [ Narrativa ]
 tags: [ Mangomarca,panadería,Geidi Miranda Cuadrao,Ruricancho,Ichma,centro comunitario de telefonía,los ochenta ]
 image: assets/thumbnails/20-geidi-mangomarca.jpg
 comments: false
 ---
 
- > “Yo no sabía que existía Mangomarca. Yo estaba postulando para trabajar en una central telefónica en Miraflores, cuando me dicen que ese puesto ya estaba ocupado. Me dijeron que no me desanime porque ya sabían dónde vivía y me propusieron ir a trabajar a Mangomarca, >>
+«“Yo no sabía que existía Mangomarca. Yo estaba postulando para trabajar en una central telefónica en Miraflores, cuando me dijeron que ese puesto ya estaba ocupado. Me dijeron que no me desanime porque ya sabían dónde vivía y me propusieron ir a trabajar a Mangomarca.
 
- >> “Ah ya, tú vives en Lince, de ahí te lleva un solo carro. Así aparecí acá, con la 48”. 
+“Ah, ya. Tú vives en Lince, de ahí te lleva un solo carro. Así aparecí acá, con la 48”.»
 
-Ella es la simpática Geidi Miranda Cuadrao, la jovial y carismática administradora de la panadería de Jacky, la más antigua de nuestra urbanización, contándonos cómo llegó hace 29 años atrás, para trabajar en el centro comunitario de telefonía de Mangomarca, la única forma para comunicarse por teléfono con el resto del país y del mundo.
+Así llegó Geidi Miranda Cuadrao a Mangomarca.
 
-Mangomarca en quechua *Manqu Marka* (Pueblo del Señor), se encuentra en San Juan de Lurigancho. Aquí se asentó el curacazgo de Ruricancho, que obedecía al Señorío Ichma entre los 900-1470 después de Cristo y antes que la expansión del imperio Inca llegara a estas tierras. Hoy es una urbanización que se desarrolla protegida por las Lomas de Mangomarca.  
+Tenía entonces 29 años y comenzaba a trabajar en el centro comunitario de telefonía del barrio, la única forma que tenían muchos vecinos de comunicarse por teléfono con el resto del país y del mundo.
 
-<img src="{{site.baseurl}}/assets/thumbnails/19-mapa-mangomarca-hgv.png" class="garnish rounded float-left"/>
+Hoy es la simpática y jovial administradora de la panadería Jacky, una de las más antiguas de la urbanización.
 
+Mangomarca, en quechua Manqu Marka —“Pueblo del Señor”—, se encuentra en San Juan de Lurigancho. Aquí se asentó el curacazgo de Ruricancho, vinculado al señorío Ichma entre los años 900 y 1470 d. C., antes de la expansión del Imperio inca hacia estas tierras.
 
-> “Mi trabajo era recibir las llamadas, apuntar el código, el primer apellido de la familia y la hora en que volverían a llamar. Nosotros apuntábamos en un papelito mismo telegrama, por ejemplo “031, familia Alva, esperar llamada de Fulano de Tal, tres de la tarde”. 
+Hoy es una urbanización protegida por las Lomas de Mangomarca.
 
-Luego nuestro mensajero que se conocía todo Mangomarca iba hasta la dirección que teníamos registrada en un cuaderno donde estaban todos los inscritos”. En la lista estaban registrados 300 vecinos que pagaban una cuota mensual. 
+<img src="{{site.baseurl}}/assets/thumbnails/19-mapa-mangomarca-hgv.png" class="garnish rounded float-left"/>La central telefónica
 
-Este fue su trabajo de 1991 hasta parte de 1993. Cuando empezaron a aparecer los celulares y las líneas telefónicas, fue el final del negocio. En ese momento la panadería pasó a ocupar todo el espacio del local.
+«“Mi trabajo era recibir las llamadas, apuntar el código, el primer apellido de la familia y la hora en que volverían a llamar.
 
-## ¿Geidi es Jacky?
+“Nosotros apuntábamos en un papelito, mismo telegrama. Por ejemplo: ‘031, familia Alva, esperar llamada de Fulano de Tal, tres de la tarde’”.»
 
+Después entraba en acción el mensajero.
 
-“La panadería funciona desde el 87 al lado de la cabina. Lleva el nombre de la hermana menor de la familia de mi esposo, Jacky, que en aquel entonces era adolescente. 
+«“Se conocía todo Mangomarca. Iba hasta la dirección que teníamos registrada en un cuaderno donde estaban todos los inscritos”.»
 
-Los vecinos más antiguos guardan buenos recuerdos de Jacky, por su entusiasmo y empatía, Algo que Geidi comparte, “la empatía se refleja en el trato hacia los clientes, mi trato es muy personalizado, cuando vienes, no solo llegas a la caja, pagas y recibes tu ticket que cambias por productos”. 
+En aquella lista había unos 300 vecinos que pagaban una cuota mensual.
 
-> “Conozco que lleva cada vecino porque lo veo todos los días.Que tipo de pan, los productos qué le gusta. Mientras los atiendo voy conversando con cada uno de ellos.” 
+Geidi trabajó allí entre 1991 y parte de 1993.
 
-Muchos se confunden y la llaman Jacky, como su cuñada. Las dos guardan la misma simpatía, son morenas y sonrientes. “Algunos me dicen Jacky porque me parezco a mi cuñada. Otros si me llaman por mi nombre y me dicen, Hola  Geidi”. 
+Entonces comenzaron a aparecer los celulares y las líneas telefónicas.
 
-Antes no se preocupaba por ello pero conforme sus hijos iban creciendo empezaron sus reclamos: 
+La central dejó de tener sentido.
 
-> “yo seguía normal pero por consejo de mis hijos empecé a decir cómo me llamo”, “¿cómo voy a estar diciendo a cada rato?”. “No importa mamá, no importa”, me respondían. 
+Y la panadería pasó a ocupar todo el espacio del local.
 
-Quienes la siguen llamando Jacky, son personas mayores, se justifican diciendo, “es que la tienda se llama Jacky y tú siempre estás aquí”.
+¿Geidi es Jacky?
 
-Ella asegura que con el paso de los años le fue naciendo un cariño mágico por Mangomarca, que creció con amigos de adultos que fue teniendo como los señores Aricoché Cuzquén, los amigos de la Iglesia, ellos saben de sus sueños.
+La panadería funciona desde 1987 y lleva el nombre de Jacky, la hermana menor de la familia de su esposo, que entonces era adolescente.
 
-> "yo he encontrado acá tres mamás, dos papás. Me casé muy joven tengo vecinitos, don Raúl y la señora Elvira eran mis terceros papás. Los vecinitos de acá eran mis segundos papás, ellos me cuidaban mucho". 
+Los vecinos más antiguos todavía guardan buenos recuerdos de ella, por su entusiasmo y empatía.
 
-Esta tuvo sus muy buenos momentos, todos los eventos de los ochentas se hacían acá. 
+Geidi comparte esas características.
 
-## El Perú es chico
+«“La empatía se refleja en el trato hacia los clientes. Mi trato es muy personalizado. Cuando vienes, no solo llegas a la caja, pagas y recibes tu ticket que cambias por productos”.»
 
-Cuando Geidi tenía 17 años ingresó a la carrera de derecho en la Universidad Federico Villarreal pero en ese año anularon los exámenes, 
+«“Conozco qué lleva cada vecino porque lo veo todos los días. Qué tipo de pan, qué productos le gustan. Mientras los atiendo voy conversando con cada uno de ellos”.»
 
-> “Ya no valen me dijeron. Me deprimí mucho, baje bastante de peso, no quería ver a nadie. Mi mamá me llevó a Casma”.
+Por eso muchos se confunden y la llaman Jacky.
 
-De día trabajaba en la municipalidad para luego salir a pasear por sus calles puesto que no conocía a nadie. Hasta que se encontró con un anuncio en la puerta de Radio 99, que decía “se necesita una señorita”. Tocó la puerta y lo primero que le preguntaron fue, ¿podemos probar tu voz?, ella no lo creía.
+Las dos son morenas y sonrientes.
 
-Mi paso por la radio me encantó, yo era adolescente, estaba muy entusiasmada. Tenía un programa, era presentadora de música, recibía llamadas, regalaba pases. Me costó soltar, mucha pena, pero ocho meses después, tenía que seguir.  
+«“Algunos me dicen Jacky porque me parezco a mi cuñada. Otros sí me llaman por mi nombre y me dicen: ‘Hola, Geidi’”.»
 
-Años después, ya viviendo en Mangomarca, en el tiempo la moda era que la radio llegaba a los barrios para regalar productos y preparar pequeños show. Llegó a la esquina de la panadería la móvil de Radio Romántica, y el reportero encargado era un amigo de ella, habían trabajado juntos en 99 de Casma. 
+Al principio no le preocupaba.
 
-# La esquina del movimiento
+Pero sus hijos fueron creciendo y comenzaron a reclamarle.
 
-Ella recuerda que la panadería era muy linda, todos los eventos de Mangomarca se hacían ahí, en su frontis. Recuerda con añoranza que celebraban todo, día de la madre, día del trabajo. 
+«“Yo seguía normal, pero por consejo de mis hijos empecé a decir cómo me llamo”.
 
-Como la panadería era grande los proveedores les regalaban productos. Hacían torres de gaseosas, ellos mismos las armaban. Regalaban radios, peluches, contrataban conjuntos criollo de vecinos y tocaban en la puerta con sus micros y parlantes. Todo Mangomarca se reunía en el frontis para los sorteos y canastas navideñas. 
+“¿Cómo voy a estar diciendo a cada rato?”.
 
-El 15 de diciembre celebraron su aniversario por tres años consecutivos
+“No importa, mamá, no importa”, me respondían.»
 
-> "Con y para la gente de Mangomarca. Pusimos un escenario invitamos a Lucila Campos, a Néstor Quinteros y la playa (de estacionamiento) se llenaba de gente. Llegaba una señora que quería vender su pollito a la brasa, otro señor con sus anticuchos, todos se unían”.
+Quienes todavía la llaman Jacky son, sobre todo, personas mayores.
 
-Vendían de todo, inclusive los fines de semana, cuando se armaba un mercado en sus puertas, los vendedores entraban a comprar a la panadería Jacky cuartitos de productos para vender a fuera. Era proveer para compartir. La municipalidad los sacó porque iban a hacer un bulevar.
+La explicación siempre es la misma:
 
-# La crisis pre covid-19
+«“Es que la tienda se llama Jacky y tú siempre estás aquí”.»
 
-Hace unos años, la panadería pasó su momento más difícil, en que todos los estantes estaban vacíos. Era un problema administrativo familiar, tuvieron que cerrar por un tiempo, que los afecta económicamente. 
+Mangomarca
 
-Volvieron a abrir, vacío todo. Recibieron apoyo del colegio, de la familia pero no podían seguir así, necesitaban pagar a cuatro trabajadores, recibos de agua y luz.  Pero poco a poco, mientras trabajaban les iba quedando alguito, un día un sol, la día siguiente otro, ya tenían dos soles. 
+Con los años, a Geidi le fue naciendo un cariño especial por Mangomarca.
 
-> “Un momento personalmente ya estaba preparada para darle fin, pero Alejandro no quiere, él dice que hasta el día que se muera seguirá con la panadería. Así que decidimos seguir vendiendo solo pan, mis hijos tenían prohibido repetir cursos, prohibido jalar”. 
+Hizo amigos adultos que terminaron convirtiéndose en parte de su familia.
 
-Al inicio de la cuarentena impuesta por el Estado de Emergencia ante el covid-19 tuvo que tomar decisiones. 
+Entre ellos estaban los señores Aricoché Cuzquén y amigos de la iglesia que conocían sus sueños.
 
-> “Con nosotros trabajan un par de panaderos mayores, que los conocemos desde que se inició el negocio, yo no los puedo despedir porque ellos no quieren dejar de trabajar. Cuando se dio la pandemia hice una habitación para que no tengan que salir y arriesgarse al contagio. Ahora sí pueden movilizarse porque ya pasó el miedo, son del centro de Lima”. 
+«“Yo he encontrado acá tres mamás, dos papás. Me casé muy joven. Tengo vecinitos. Don Raúl y la señora Elvira eran mis terceros papás. Los vecinitos de acá eran mis segundos papás. Ellos me cuidaban mucho”.»
 
-Junto a ellos trabajan dos jóvenes venezolanos que están ávidos de aprender. También llegaron vecinos antiguos pero se fueron rápido, a los dos meses.  
+La panadería también se convirtió en un punto de encuentro.
 
-No todo fue negativo con la pandemia. Bajaron la pensión de la universidad, los vecinos ya no compraban un pan, ahora compraban tres o cuatro. Como el domingo nadie trabajaba por la cuarentena, no nocesitaban un trabajador extra y los vecinos se acercaban los sábados para comprar provisiones por dos días. Todo esto ha venido a darle más vida al negocio, esto le ayudó a nivelar su situación.
+La esquina del movimiento
 
-Ahora recuerda en uno de sus proyectos, tener una cafetería. Ha separado el izquierdo de la panadería para este sueño, retiró los andamios donde antes había licores y cervezas. 
+Geidi recuerda que la panadería era grande y que muchos de los eventos de Mangomarca se hacían en su frontis.
 
-> Recuerdo que antes de venir me preguntaba, ¿adónde estoy yendo? Me he quedado 29 años en Mangomarca. 
+Día de la Madre.
+
+Día del Trabajo.
+
+Fiestas y celebraciones.
+
+Los proveedores regalaban productos y ellos mismos armaban torres de gaseosas.
+
+También regalaban radios y peluches.
+
+Contrataban conjuntos criollos formados por vecinos, que tocaban en la puerta con sus micrófonos y parlantes.
+
+Todo Mangomarca terminaba reunido frente a la panadería para los sorteos y las canastas navideñas.
+
+El 15 de diciembre celebraron el aniversario durante tres años consecutivos.
+
+«“Con y para la gente de Mangomarca. Pusimos un escenario, invitamos a Lucila Campos, a Néstor Quinteros y la playa se llenaba de gente.
+
+“Llegaba una señora que quería vender su pollito a la brasa, otro señor con sus anticuchos. Todos se unían”.»
+
+Los fines de semana también se armaba un pequeño mercado en sus puertas.
+
+Los vendedores entraban a comprar a la panadería pequeños lotes de productos para luego venderlos afuera.
+
+Era una forma de proveer y compartir.
+
+Hasta que la municipalidad los retiró porque iba a construirse un bulevar.
+
+El Perú es chico
+
+La historia de Geidi no empezó en Mangomarca.
+
+Cuando tenía 17 años ingresó a Derecho en la Universidad Federico Villarreal.
+
+Ese año anularon los exámenes.
+
+«“Ya no valen”, me dijeron.
+
+“Me deprimí mucho, bajé bastante de peso, no quería ver a nadie. Mi mamá me llevó a Casma”.»
+
+Durante el día trabajaba en la municipalidad y por las tardes salía a recorrer las calles porque no conocía a nadie.
+
+Hasta que encontró un anuncio en la puerta de Radio 99:
+
+“Se necesita una señorita”.
+
+Tocó la puerta.
+
+Lo primero que le preguntaron fue:
+
+—¿Podemos probar tu voz?
+
+No lo podía creer.
+
+«“Mi paso por la radio me encantó. Yo era adolescente, estaba muy entusiasmada. Tenía un programa, era presentadora de música, recibía llamadas, regalaba pases”.»
+
+Le costó dejarlo.
+
+Ocho meses después tuvo que seguir adelante.
+
+Años más tarde, ya viviendo en Mangomarca, la radio llegó nuevamente a su vida.
+
+Por entonces era común que las emisoras llegaran a los barrios para regalar productos y organizar pequeños espectáculos.
+
+Un día apareció frente a la panadería la móvil de Radio Romántica.
+
+El reportero encargado era un viejo amigo.
+
+Habían trabajado juntos en Radio 99 de Casma.
+
+El Perú, después de todo, era chico.
+
+La crisis
+
+La panadería también tuvo sus momentos difíciles.
+
+Unos años antes de la pandemia, todos los estantes llegaron a quedar vacíos.
+
+Un problema administrativo familiar los obligó a cerrar durante un tiempo y la situación económica se volvió complicada.
+
+Cuando volvieron a abrir, prácticamente no había nada.
+
+Recibieron apoyo del colegio y de la familia, pero las cuentas seguían llegando.
+
+Había que pagar a cuatro trabajadores, además del agua y la luz.
+
+Entonces empezaron de a pocos.
+
+Un día quedaba un sol.
+
+Al día siguiente, otro.
+
+Hasta que volvieron a tener dos.
+
+«“En un momento personalmente ya estaba preparada para darle fin, pero Alejandro no quiere. Él dice que hasta el día que se muera seguirá con la panadería. Así que decidimos seguir vendiendo solo pan”.»
+
+La pandemia volvió a ponerlos a prueba.
+
+Geidi tenía que pensar también en sus trabajadores.
+
+«“Con nosotros trabajan un par de panaderos mayores, que conocemos desde que se inició el negocio. Yo no los puedo despedir porque ellos no quieren dejar de trabajar.
+
+“Cuando se dio la pandemia hice una habitación para que no tuvieran que salir y arriesgarse al contagio”.»
+
+Junto a ellos trabajaban dos jóvenes venezolanos que querían aprender.
+
+También llegaron algunos vecinos antiguos, aunque se fueron rápidamente.
+
+Pero no todo fue negativo.
+
+Durante la cuarentena, los vecinos comenzaron a comprar más pan.
+
+Ya no compraban uno.
+
+Compraban tres o cuatro.
+
+Como los domingos nadie trabajaba, los sábados se acercaban a comprar provisiones para dos días.
+
+La universidad también redujo las pensiones.
+
+Poco a poco, la panadería volvió a respirar.
+
+Una cafetería
+
+Ahora Geidi tiene otro proyecto.
+
+Una cafetería.
+
+Ha reservado una parte del local para ese sueño y retiró los andamios donde antes se vendían licores y cervezas.
+
+Quizá sea otra forma de seguir haciendo lo que ha hecho durante casi tres décadas:
+
+estar en la esquina.
+
+Ver pasar a los vecinos.
+
+Conversar con ellos.
+
+Recordar qué pan compra cada uno.
+
+Y seguir formando parte de Mangomarca.
+
+Cuando llegó, no sabía dónde estaba.
+
+Hoy, después de 29 años, lo dice de otra manera:
+
+«“Recuerdo que antes de venir me preguntaba: ¿adónde estoy yendo?»
+
+«Me he quedado 29 años en Mangomarca”.»
