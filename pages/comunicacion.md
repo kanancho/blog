@@ -4,7 +4,7 @@ title: Comunicación
 permalink: "/comunicacion/"
 ---
 
-## Construyo puentes de comprensión.
+## Construyo puentes de comprensión
 
 Hay instituciones que saben lo que necesitan decir, pero no consiguen que la gente lo entienda.
 
