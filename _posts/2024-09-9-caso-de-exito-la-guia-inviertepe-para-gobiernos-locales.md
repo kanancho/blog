@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cuando 300 páginasnecesitan hablar claro"
+title:  "Cuando 300 páginas necesitan hablar claro"
 author: hernan
 categories: [ Consultoría ]
 tags: [ comunicación pública, narrativa institucional, gestión pública, Invierte.pe ]
