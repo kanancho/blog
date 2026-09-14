@@ -93,4 +93,4 @@ Ese es el punto donde empieza mi trabajo.
 
 Si tienes un proyecto, una institución o una causa que necesita cruzar el puente entre lo que sabe y lo que la gente necesita entender, **hablemos**.
 
-[Contactarme →](/contacto/)
+[Contactarme →](/contact/)
